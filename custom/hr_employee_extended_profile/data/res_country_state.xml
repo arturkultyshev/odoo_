@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="kz_state_1" model="res.country.state">
+        <field name="name">Abai Region</field>
+        <field name="code">18</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_2" model="res.country.state">
+        <field name="name">Akmola Region</field>
+        <field name="code">03</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_3" model="res.country.state">
+        <field name="name">Aktobe Region</field>
+        <field name="code">04</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_4" model="res.country.state">
+        <field name="name">Almaty Region</field>
+        <field name="code">05</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_5" model="res.country.state">
+        <field name="name">Atyrau Region</field>
+        <field name="code">06</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_6" model="res.country.state">
+        <field name="name">East Kazakhstan Region</field>
+        <field name="code">16</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_7" model="res.country.state">
+        <field name="name">Jambyl Region</field>
+        <field name="code">08</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_8" model="res.country.state">
+        <field name="name">Jetisu Region</field>
+        <field name="code">19</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_9" model="res.country.state">
+        <field name="name">Karaganda Region</field>
+        <field name="code">09</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_10" model="res.country.state">
+        <field name="name">Kostanay Region</field>
+        <field name="code">10</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_11" model="res.country.state">
+        <field name="name">Kyzylorda Region</field>
+        <field name="code">11</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_12" model="res.country.state">
+        <field name="name">Mangystau Region</field>
+        <field name="code">12</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_13" model="res.country.state">
+        <field name="name">North Kazakhstan Region</field>
+        <field name="code">15</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_14" model="res.country.state">
+        <field name="name">Pavlodar Region</field>
+        <field name="code">14</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_15" model="res.country.state">
+        <field name="name">Turkistan Region</field>
+        <field name="code">13</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_16" model="res.country.state">
+        <field name="name">Ulytau Region</field>
+        <field name="code">20</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_state_17" model="res.country.state">
+        <field name="name">West Kazakhstan Region</field>
+        <field name="code">07</field>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+        <record id="uz_state_14" model="res.country.state">
+        <field name="name">Republic of Karakalpakstan</field>
+        <field name="code">14</field>
+        <field name="country_id" ref="base.uz"/>
+    </record>
+        <record id="ua_state_24" model="res.country.state">
+        <field name="name">Chernivtsi region</field>
+        <field name="code">24</field>
+        <field name="country_id" ref="base.ua"/>
+    </record>
+    <record id="uz_state_4" model="res.country.state">
+        <field name="name">Fergana region</field>
+        <field name="code">4</field>
+        <field name="country_id" ref="base.uz"/>
+    </record>
+    <record id="kg_state_8" model="res.country.state">
+        <field name="name">Chuy region</field>
+        <field name="code">8</field>
+        <field name="country_id" ref="base.kg"/>
+    </record>
+</odoo>

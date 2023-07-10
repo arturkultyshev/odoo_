@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<odoo>
+  <record id="employee_inherit_military_duty" model="ir.ui.view">
+    <field name="name">hr.employee.inherit.military.duty</field>
+    <field name="model">hr.employee</field>
+    <field name="inherit_id" ref="hr.view_employee_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//page[@name='hr_settings']" position="after">
+        <page name="military_duty" string="Military Duty" groups="hr.group_hr_user" attrs="{'invisible': [('personnel_type', '=', 'outstaffing')]}">
+           <group name="military_duty_fields">
+            <field name="military_service_attitude" style="margin-bottom: 25px"/>
+            <field name="accounting_group" />
+            <field name="accounting_category" />
+            <field name="military_rank"/>
+            <field name="military_composition"/>
+            <field name="accounting_specialty" style="margin-bottom: 25px"/>
+            <field name="military_fitness" style="margin-bottom: 25px"/>
+            <field name="military_registration" style="margin-bottom: 25px"/>
+            <field name="military_registration_attitude" style="margin-bottom: 25px"/>
+            <field name="military_registration_record" invisible="1"/>
+            <field name="military_id_scan"/>
+          </group>
+        </page>
+      </xpath>
+    </field>
+  </record>
+</odoo>

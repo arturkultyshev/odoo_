@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="nationality_1" model="hr.employee.nationality">
+        <field name="name">Azerbaijani</field>
+    </record>
+    <record id="nationality_2" model="hr.employee.nationality">
+        <field name="name">American</field>
+    </record>
+    <record id="nationality_3" model="hr.employee.nationality">
+        <field name="name">Bashkir</field>
+    </record>
+    <record id="nationality_4" model="hr.employee.nationality">
+        <field name="name">Belarusian</field>
+    </record>
+    <record id="nationality_5" model="hr.employee.nationality">
+        <field name="name">Bulgarian</field>
+    </record>
+    <record id="nationality_6" model="hr.employee.nationality">
+        <field name="name">British</field>
+    </record>
+    <record id="nationality_7" model="hr.employee.nationality">
+        <field name="name">Greek</field>
+    </record>
+    <record id="nationality_8" model="hr.employee.nationality">
+        <field name="name">Ingush</field>
+    </record>
+    <record id="nationality_9" model="hr.employee.nationality">
+        <field name="name">Hindu</field>
+    </record>
+    <record id="nationality_10" model="hr.employee.nationality">
+        <field name="name">Kazakh</field>
+    </record>
+    <record id="nationality_11" model="hr.employee.nationality">
+        <field name="name">Kalmyk</field>
+    </record>
+    <record id="nationality_12" model="hr.employee.nationality">
+        <field name="name">Karakalpak</field>
+    </record>
+    <record id="nationality_13" model="hr.employee.nationality">
+        <field name="name">Korean</field>
+    </record>
+    <record id="nationality_14" model="hr.employee.nationality">
+        <field name="name">Kumyk</field>
+    </record>
+    <record id="nationality_15" model="hr.employee.nationality">
+        <field name="name">Kyrgyz</field>
+    </record>
+    <record id="nationality_16" model="hr.employee.nationality">
+        <field name="name">Moldovan</field>
+    </record>
+    <record id="nationality_17" model="hr.employee.nationality">
+        <field name="name">German</field>
+    </record>
+    <record id="nationality_18" model="hr.employee.nationality">
+        <field name="name">Portuguese</field>
+    </record>
+    <record id="nationality_19" model="hr.employee.nationality">
+        <field name="name">Romanian</field>
+    </record>
+    <record id="nationality_20" model="hr.employee.nationality">
+        <field name="name">Russian</field>
+    </record>
+    <record id="nationality_21" model="hr.employee.nationality">
+        <field name="name">Tatar</field>
+    </record>
+    <record id="nationality_22" model="hr.employee.nationality">
+        <field name="name">Turkish</field>
+    </record>
+    <record id="nationality_23" model="hr.employee.nationality">
+        <field name="name">Uzbek</field>
+    </record>
+    <record id="nationality_24" model="hr.employee.nationality">
+        <field name="name">Uyghur</field>
+    </record>
+    <record id="nationality_25" model="hr.employee.nationality">
+        <field name="name">Ukrainian</field>
+    </record>
+    <record id="nationality_26" model="hr.employee.nationality">
+        <field name="name">Chechen</field>
+    </record>
+    <record id="nationality_27" model="hr.employee.nationality">
+        <field name="name">Chuvash</field>
+    </record>
+    <record id="nationality_28" model="hr.employee.nationality">
+        <field name="name">South African</field>
+    </record>
+    <record id="nationality_29" model="hr.employee.nationality">
+        <field name="name">Stateless person</field>
+    </record>
+</odoo>

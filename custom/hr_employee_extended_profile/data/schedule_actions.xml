@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<!--    create scheduled actions that called on click-->
+
+    <record model="ir.cron" id="hr_employee_extended_profile_cron">
+        <field name="name">Update employee extended profile</field>
+        <field name="model_id" ref="hr_employee_extended_profile.model_hr_employee"/>
+        <field name="state">code</field>
+        <field name="code">model.correct_data()</field>
+        <field name="numbercall">-1</field>
+        <field name="interval_number">9999</field>
+        <field name="interval_type">months</field>
+    </record>
+    <record model="ir.cron" id="hr_contract_extended_profile_cron">
+        <field name="name">Update employee contract</field>
+        <field name="model_id" ref="hr_employee_extended_profile.model_hr_contract"/>
+        <field name="state">code</field>
+        <field name="code">model.set_contract_data()</field>
+        <field name="numbercall">-1</field>
+        <field name="interval_number">9999</field>
+        <field name="interval_type">months</field>
+    </record>
+    <record model="ir.cron" id="hr_initilize_contract_histoy">
+        <field name="name">Initilize contract history</field>
+        <field name="model_id" ref="hr_contract.model_hr_contract_history"/>
+        <field name="state">code</field>
+        <field name="code">model.init()</field>
+        <field name="numbercall">-1</field>
+        <field name="interval_number">9999</field>
+        <field name="interval_type">months</field>
+    </record>
+    <record model="ir.cron" id="hr_contract_fill_start_date">
+        <field name="name">Initilize employee start date of contract</field>
+        <field name="model_id" ref="hr_employee_extended_profile.model_hr_contract"/>
+        <field name="state">code</field>
+        <field name="code">model.update_moving_date_job()</field>
+        <field name="numbercall">-1</field>
+        <field name="interval_number">9999</field>
+        <field name="interval_type">months</field>
+    </record>
+    <record model="ir.cron" id="hr_contract_recompute_order_number">
+        <field name="name">Index order number</field>
+        <field name="model_id" ref="hr_employee_extended_profile.model_hr_contract"/>
+        <field name="state">code</field>
+        <field name="code">model.order_number_recompute()</field>
+        <field name="numbercall">-1</field>
+        <field name="interval_number">9999</field>
+        <field name="interval_type">months</field>
+    </record>
+    <record id="hr_employee_pension_notification" model="ir.cron">
+        <field name="name">Pension notification cron job</field>
+        <field name="model_id" ref="model_hr_employee_pension_nofitication_cron_job" />
+        <field name="type">ir.actions.server</field>
+        <field name="state">code</field>
+        <field name="code">model.pension_cron_job()</field>
+        <field name="interval_number">1</field>
+        <field name="interval_type">weeks</field>
+        <field name="numbercall">-1</field>
+    </record>
+</odoo>

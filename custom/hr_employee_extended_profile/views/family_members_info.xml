@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<odoo>
+  <record id="employee_family_inherit" model="ir.ui.view">
+    <field name="name">hr.employee.family.inherit</field>
+    <field name="model">hr.employee</field>
+    <field name="inherit_id" ref="hr.view_employee_form"/>
+
+    <field name="arch" type="xml">
+      <xpath expr="//page[@name='hr_settings']" position="after">
+        <page name="hr_family" string="Family" groups="hr.group_hr_user">
+        <group name="Family members">
+            <field name="family_members_ids">
+                <kanban class="o_kanban_mobile">
+                  <templates>
+                    <t t-name="kanban-box">
+                      <div class="oe_kanban_content oe_kanban_global_click">
+                        <div class="col">
+
+                          <div class="row">
+                            <p>Marital status: </p>
+                            &#x2063;
+                            <field name="relation"/>
+                          </div>
+
+                          <div class="row">
+                            <p>Family member name: </p>
+                            <field name="name" style="margin-right:10px;" />
+                          </div>
+
+                          <div class="row">
+                            <p>Date of birth: </p>
+                            <field name="date_of_birth" />
+                          </div>
+
+                        </div>
+                      </div>
+                    </t>
+                  </templates>
+                </kanban>
+                </field>
+                </group>
+              </page>
+            </xpath>
+            </field>
+      </record>
+
+    </odoo>

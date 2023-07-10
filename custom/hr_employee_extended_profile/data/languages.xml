@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="language_one" model="hr.language">
+        <field name="name">Kazakh</field>
+    </record>
+    <record id="language_two" model="hr.language">
+        <field name="name">Russian</field>
+    </record>
+    <record id="language_three" model="hr.language">
+        <field name="name">English</field>
+    </record>
+    <record id="language_four" model="hr.language">
+        <field name="name">Arabic</field>
+    </record>
+    <record id="language_five" model="hr.language">
+        <field name="name">Chinese</field>
+    </record>
+    <record id="language_six" model="hr.language">
+        <field name="name">Dutch</field>
+    </record>
+    <record id="language_seven" model="hr.language">
+        <field name="name">French</field>
+    </record>
+    <record id="language_eight" model="hr.language">
+        <field name="name">German</field>
+    </record>
+    <record id="language_nine" model="hr.language">
+        <field name="name">Greek</field>
+    </record>
+    <record id="language_ten" model="hr.language">
+        <field name="name">Hindi</field>
+    </record>
+    <record id="language_eleven" model="hr.language">
+        <field name="name">Italian</field>
+    </record>
+    <record id="language_twelve" model="hr.language">
+        <field name="name">Japanese</field>
+    </record>
+    <record id="language_thirteen" model="hr.language">
+        <field name="name">Korean</field>
+    </record>
+    <record id="language_fourteen" model="hr.language">
+        <field name="name">Polish</field>
+    </record>
+    <record id="language_fifteen" model="hr.language">
+        <field name="name">Portuguese</field>
+    </record>
+    <record id="language_sixteen" model="hr.language">
+        <field name="name">Spanish</field>
+    </record>
+    <record id="language_seventeen" model="hr.language">
+        <field name="name">Swahili</field>
+    </record>
+    <record id="language_eighteen" model="hr.language">
+        <field name="name">Turkish</field>
+    </record>
+</odoo>

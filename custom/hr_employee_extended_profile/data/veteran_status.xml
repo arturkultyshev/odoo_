@@ -1,0 +1,27 @@
+<odoo noupdate="1">
+    <record id="veteran_status_one" model="hr.employee.veteran.status">
+        <field name="name">Veterans of the GPW (participants and invalids of the GPW)</field>
+    </record>
+    <record id="veteran_status_two" model="hr.employee.veteran.status">
+        <field name="name">Veterans equated in benefits to veterans of the GPW (1. Persons equated in benefits to
+            participants in the GPW)
+        </field>
+    </record>
+    <record id="veteran_status_three" model="hr.employee.veteran.status">
+        <field name="name">Veterans equated in benefits to veterans of the GPW (2. Persons equated in benefits to
+            disabled veterans of the GPW)
+        </field>
+    </record>
+    <record id="veteran_status_four" model="hr.employee.veteran.status">
+        <field name="name">Veterans of military operations in the territory of other states</field>
+    </record>
+    <record id="veteran_status_five" model="hr.employee.veteran.status">
+        <field name="name">Labor veterans</field>
+    </record>
+    <record id="veteran_status_six" model="hr.employee.veteran.status">
+        <field name="name">Another category of persons equated to participants in the GPW</field>
+    </record>
+    <record id="veteran_status_seven" model="hr.employee.veteran.status">
+        <field name="name">Disabled GPW (until May 2020)</field>
+    </record>
+</odoo>

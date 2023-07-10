@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<odoo>
+  <record id="employee_inherit_personal_info" model="ir.ui.view">
+    <field name="name">hr.employee.inherit.personal.info</field>
+    <field name="model">hr.employee</field>
+    <field name="inherit_id" ref="hr.view_employee_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//page[@name='personal_information']" position="after">
+        <page name="pinfo" string="Personal Information" groups="hr.group_hr_user">
+          <group>
+            <group string="Private Information">
+              <field name="address_home_id"/>
+              <field name="last_name_latin" />
+              <field name="first_name_latin" />
+              <field name="middle_name_latin" />
+              <field name="birthday"/>
+              <field name="gender"/>
+              <field name="iin"/>
+              <field name="nationality"/>
+              <field name="citizenship"/>
+              <field name="pension"/>
+              <field name="formated_pension_date"/>
+              <field name="pension_pay_provide"/>
+            </group>
+
+            <group string="Place of Birth">
+              <field name="country_of_birth"/>
+              <field name="birth_region" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="birth_district" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="birth_locality" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+            </group>
+          </group>
+
+          <group>
+            <group string="Residence Address">
+              <field name="residence_country_id"/>
+              <field name="residence_region" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="residence_district" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="residence_locality" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="residence_street"/>
+              <field name="residence_house"/>
+              <field name="residence_building"/>
+              <field name="residence_apartment"/>
+              <field name="individual_address_info" invisible="1"/>
+              <field name="private_email"/>
+            </group>
+
+            <group string="Registration Address">
+              <field name="registration_country_id"/>
+              <field name="registration_region" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="registration_district" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="registration_locality" options="{'no_quick_create':True,'no_create_edit':True,'no_open': True,}"/>
+              <field name="registration_street"/>
+              <field name="registration_house"/>
+              <field name="registration_building"/>
+              <field name="registration_apartment"/>
+            </group>
+
+          </group>
+
+          <field name="show_information" invisible="1"/>
+          <button name="change_state" type="object" string="Show Additional Information" attrs="{'invisible': [('show_information', '=', True)]}"/>
+          <button name="change_state" type="object" string="Hide Additional Information" attrs="{'invisible': [('show_information', '=', False)]}"/>
+
+          <group string="Additional Information" name="additional_information" attrs="{'invisible': [('show_information', '=', False)]}">
+            <field name="medical_examination_date"/>
+            <field name="disability_group"/>
+            <field name="disability_description"/>
+            <field name="reference_series" attrs="{'invisible': [('personnel_type', '=', 'outstaffing')]}"/>
+            <field name="series_number" attrs="{'invisible': [('personnel_type', '=', 'outstaffing')]}"/>
+            <field name="issue_date"/>
+            <field name="validity_begin_date" attrs="{'invisible': [('personnel_type', '=', 'outstaffing')]}"/>
+            <field name="no_pension_right"/>
+            <field name="no_social_insurance"/>
+            <field name="no_social_medical_insurance"/>
+            <field name="no_foreign_resident"/>
+            <field name="war_veteran"/>
+          </group>
+          <group string="Documents">
+            <field name="private_documents">
+              <kanban class="o_kanban_mobile">
+                <templates>
+                    <t t-name="kanban-box">
+                      <div class="oe_kanban_content oe_kanban_global_click">
+                        <div class="col">
+                          <div class="row">
+                            <p>Document Type: </p>
+                            <field name="document_type"/>
+                          </div>
+                          <div class="row">
+                            <p>Number: </p>
+                            <field name="document_number"/>
+                          </div>
+                        </div>
+                      </div>
+                    </t>
+                </templates>
+              </kanban>
+            </field>
+          </group>
+        </page>
+      </xpath>
+      <xpath expr="//page[@name='public']" position="before">
+        <xpath expr="//page[@name='pinfo']" position="move"/>
+      </xpath>
+<!--        <xpath expr="//page[@name='personal_information']" position="attributes">-->
+<!--            <attribute name="invisible">1</attribute>-->
+<!--        </xpath>-->
+    </field>
+  </record>
+</odoo>

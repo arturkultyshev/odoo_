@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="res_bank_2" model="res.bank">
+        <field name="name">PJSC ROSBANK</field>
+        <field name="bic">44525256</field>
+        <field name="country" ref="base.ru"/>
+    </record>
+    <record id="res_bank_3" model="res.bank">
+        <field name="name">JSC Raiffeisenbank</field>
+        <field name="bic">44525700</field>
+        <field name="country" ref="base.ru"/>
+    </record>
+    <record id="res_bank_4" model="res.bank">
+        <field name="name">Department of Accounting for Monetary Operations (OKSP)</field>
+        <field name="bic">190201125</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_5" model="res.bank">
+        <field name="name">Regional Branch of Halyk Bank</field>
+        <field name="bic">190301602</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_6" model="res.bank">
+        <field name="name">Almaty branch of State Institution "National Bank of the Republic of Kazakhstan"</field>
+        <field name="bic">190501109</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_7" model="res.bank">
+        <field name="name">AF JSC ATF Bank</field>
+        <field name="bic">190501306</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_8" model="res.bank">
+        <field name="name">AF JSC Bank TuranAlem</field>
+        <field name="bic">190501306</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_9" model="res.bank">
+        <field name="name">AF JSC BTA Bank</field>
+        <field name="bic">190501319</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_10" model="res.bank">
+        <field name="name">JSC METROCOMBANK</field>
+        <field name="bic">190501469</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_11" model="res.bank">
+        <field name="name">AF JSC Tsesna Bank</field>
+        <field name="bic">190501488</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_12" model="res.bank">
+        <field name="name">Bank JSC Kazpost</field>
+        <field name="bic">190501563</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_13" model="res.bank">
+        <field name="name">JSC Halyk Bank</field>
+        <field name="bic">190501601</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_14" model="res.bank">
+        <field name="name">AGF JSC Alliance Bank</field>
+        <field name="bic">190501655</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_15" model="res.bank">
+        <field name="name">JSC Bank Centercredit</field>
+        <field name="bic">190501719</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_16" model="res.bank">
+        <field name="name">AF JSC Kazkommertsbank</field>
+        <field name="bic">190501724</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_17" model="res.bank">
+        <field name="name">Branch of JSC Nurbank</field>
+        <field name="bic">190501749</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_18" model="res.bank">
+        <field name="name">JSC ATF Bank</field>
+        <field name="bic">190501826</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_19" model="res.bank">
+        <field name="name">JSC BankCenterCredit</field>
+        <field name="bic">190501856</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_20" model="res.bank">
+        <field name="name">SB JSC Sberbank</field>
+        <field name="bic">190501914</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_21" model="res.bank">
+        <field name="name">Sberbank JSC DB</field>
+        <field name="bic">190501914</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_22" model="res.bank">
+        <field name="name">JSC DAB ABN AMRO Bank Kazakhstan</field>
+        <field name="bic">190501922</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_23" model="res.bank">
+        <field name="name">JSC DB "RBS (Kazakhstan)"</field>
+        <field name="bic">190501922</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_24" model="res.bank">
+        <field name="name">JSC Kazkommertsbank</field>
+        <field name="bic">190501926</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_25" model="res.bank">
+        <field name="name">JSC DB HSBC Bank Kazakhstan</field>
+        <field name="bic">190501949</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_26" model="res.bank">
+        <field name="name">Branch of JSC ATF Bank</field>
+        <field name="bic">190501956</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_27" model="res.bank">
+        <field name="name">JSC KASPI BANK</field>
+        <field name="bic">190501986</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_28" model="res.bank">
+        <field name="name">AOF No. 139900 JSC Halyk Bank of Kazakhstan</field>
+        <field name="bic">190551601</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_29" model="res.bank">
+        <field name="name">BTA Bank</field>
+        <field name="bic">191201301</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_30" model="res.bank">
+        <field name="name">Branch JSC Bank Turan Alem</field>
+        <field name="bic">191201301</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_31" model="res.bank">
+        <field name="name">AF DB JSC HSBC Bank Kazakhstan</field>
+        <field name="bic">191201440</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_32" model="res.bank">
+        <field name="name">JSC Metrokombank</field>
+        <field name="bic">191201455</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_33" model="res.bank">
+        <field name="name">AF JSC TsesnaBank</field>
+        <field name="bic">191201659</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_34" model="res.bank">
+        <field name="name">JSC Bank Caspian</field>
+        <field name="bic">191201702</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_35" model="res.bank">
+        <field name="name">Branch of JSC Kaspi Bank</field>
+        <field name="bic">191201702</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_36" model="res.bank">
+        <field name="name">JSC Delta Bank</field>
+        <field name="bic">191201704</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_37" model="res.bank">
+        <field name="name">AF JSC NurBank</field>
+        <field name="bic">191201706</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_38" model="res.bank">
+        <field name="name">AF JSC Kazkommertsbank</field>
+        <field name="bic">191201709</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_39" model="res.bank">
+        <field name="name">Branch of JSC Bank CenterCredit</field>
+        <field name="bic">191201714</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_40" model="res.bank">
+        <field name="name">AF JSC Temirbank</field>
+        <field name="bic">191201716</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_41" model="res.bank">
+        <field name="name">AF JSC Eurasian Bank</field>
+        <field name="bic">191201746</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_42" model="res.bank">
+        <field name="name">JSC BANK POSITIV</field>
+        <field name="bic">191201772</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_43" model="res.bank">
+        <field name="name">AF JSC ATF Bank</field>
+        <field name="bic">191201783</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_44" model="res.bank">
+        <field name="name">Branch of SB JSC Sberbank</field>
+        <field name="bic">191201975</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_45" model="res.bank">
+        <field name="name">AF JSC Alliance Bank</field>
+        <field name="bic">191201976</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_46" model="res.bank">
+        <field name="name">Kulsary branch of JSC TuranAlem Bank</field>
+        <field name="bic">191202306</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_47" model="res.bank">
+        <field name="name">Branch of JSC ATF Bank</field>
+        <field name="bic">191401764</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_48" model="res.bank">
+        <field name="name">Karaganda Branch of Kazkommertsbank JSC</field>
+        <field name="bic">191801708</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_49" model="res.bank">
+        <field name="name">AF JSC Alliance Bank</field>
+            <field name="bic">192901675</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_50" model="res.bank">
+        <field name="name">JSC Bank CenterCredit</field>
+        <field name="bic">192901704</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_51" model="res.bank">
+        <field name="name">AF JSC Delta Bank</field>
+        <field name="bic">192901705</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_52" model="res.bank">
+        <field name="name">SCF JSC Tsesnabank</field>
+        <field name="bic">193601676</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_53" model="res.bank">
+        <field name="name">GCF JSC BTA Bank</field>
+        <field name="bic">194901306</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_54" model="res.bank">
+        <field name="name">Branch of JSC Halyk Bank No. 181699</field>
+        <field name="bic">194901602</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_55" model="res.bank">
+        <field name="name">Branch of JSC UV Nurbank</field>
+        <field name="bic">194901668</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_56" model="res.bank">
+        <field name="name">ATF Bank</field>
+        <field name="bic">194901691</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_57" model="res.bank">
+        <field name="name">JSC Bank Center Credit</field>
+        <field name="bic">194901720</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_58" model="res.bank">
+        <field name="name">Branch No. 13 JSC Eurasian Bank</field>
+        <field name="bic">194901746</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_59" model="res.bank">
+        <field name="name">Treasury Committee of the Ministry of Finance of the Republic of Kazakhstan</field>
+        <field name="bic">195301070</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_60" model="res.bank">
+        <field name="name">FAO BTA Bank</field>
+        <field name="bic">195301304</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_61" model="res.bank">
+        <field name="name">Capital branch of JSC Tsesna Bank</field>
+        <field name="bic">195301703</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_62" model="res.bank">
+        <field name="name">JSC Temir Bank</field>
+        <field name="bic">195301712</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_63" model="res.bank">
+        <field name="name">JSC Kazkommertsbank</field>
+        <field name="bic">195301716</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_64" model="res.bank">
+        <field name="name">F-L JSC ATF Bank</field>
+        <field name="bic">195301730</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_65" model="res.bank">
+        <field name="name">SKO Branch of JSC Halyk Bank of Kazakhstan</field>
+        <field name="bic">195801604</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_66" model="res.bank">
+        <field name="name">JSC BTA Bank</field>
+        <field name="bic">ABKZKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_67" model="res.bank">
+        <field name="name">JSC "BTA Bank"</field>
+        <field name="bic">ABKZKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_68" model="res.bank">
+        <field name="name">JSC "FIRST HEARTLAND BANK"</field>
+        <field name="bic">ABNAKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_69" model="res.bank">
+        <field name="name">JSC SB "Alfa-Bank"</field>
+        <field name="bic">ALFAKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_70" model="res.bank">
+        <field name="name">JSC SB "Alfa-Bank"</field>
+        <field name="bic">ALFAKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_71" model="res.bank">
+        <field name="name">JSC "SUBSIDIARY BANK "ALFA-BANK"</field>
+        <field name="bic">ALFAKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_72" model="res.bank">
+        <field name="name">JSC SB "Alfa-Bank"</field>
+        <field name="bic">ALFAKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_73" model="res.bank">
+        <field name="name">JSC "ATF Bank"</field>
+        <field name="bic">ALMNKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_74" model="res.bank">
+        <field name="name">AF JSC ATF Bank</field>
+        <field name="bic">ALMNKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_75" model="res.bank">
+        <field name="name">JSC "ATF Bank"</field>
+        <field name="bic">ALMNKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_76" model="res.bank">
+        <field name="name">JSC Bank "Astana-Finance"</field>
+        <field name="bic">ASFBKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_77" model="res.bank">
+        <field name="name">JSC "Altyn Bank" (SB China Citic Bank Corporation Ltd)</field>
+        <field name="bic">ATYNKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_78" model="res.bank">
+        <field name="name">JSC "Altyn Bank" (SB JSC "Halyk Bank of Kazakhstan")</field>
+        <field name="bic">ATYNKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_79" model="res.bank">
+        <field name="name">JSC "KASPI BANK"</field>
+        <field name="bic">CASPKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_80" model="res.bank">
+        <field name="name">JSC "Citibank Kazakhstan"</field>
+        <field name="bic">CITIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_81" model="res.bank">
+        <field name="name">JSC "Danabank"</field>
+        <field name="bic">DABNKZ2P</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_82" model="res.bank">
+        <field name="name">BankPozitiv Kazakhstan JSC (SB Bank Apoa</field>
+        <field name="bic">DEMIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_83" model="res.bank">
+        <field name="name">Deutschebank AG</field>
+        <field name="bic">DEUTREMM</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_84" model="res.bank">
+        <field name="name">JSC "Eurasian Development Bank"</field>
+        <field name="bic">EABRKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_85" model="res.bank">
+        <field name="name">JSC "Eurasian Bank"</field>
+        <field name="bic">EURIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_86" model="res.bank">
+        <field name="name">EXIMBANK KAZAKHSTAN JSC</field>
+        <field name="bic">EXKAKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_87" model="res.bank">
+        <field name="name">RGKP State center for the payment of</field>
+        <field name="bic">GCVPKZ2A</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_88" model="res.bank">
+        <field name="name">RGKP State Center for the Payment of Pensions</field>
+        <field name="bic">GCVPKZ2A</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_89" model="res.bank">
+        <field name="name">JSC "House Construction Savings Bank of Kazakhstan"</field>
+        <field name="bic">HCSKKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_90" model="res.bank">
+        <field name="name">JSC "Islamic Bank "Al Hilal"</field>
+        <field name="bic">HLALKZKZ</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_91" model="res.bank">
+        <field name="name">SB JSC "HSBC BANK KAZAKHSTAN"</field>
+        <field name="bic">HSBCKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_92" model="res.bank">
+        <field name="name">NAO State Corporation "Government for Citizens"</field>
+        <field name="bic">HSBKKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_93" model="res.bank">
+        <field name="name">JSC Halyk Bank of Kazakhstan</field>
+        <field name="bic">HSBKKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_94" model="res.bank">
+        <field name="name">JSC Halyk Bank of Kazakhstan</field>
+        <field name="bic">HSBKKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_95" model="res.bank">
+        <field name="name">SB JSC Home Credit and Finance Bank</field>
+        <field name="bic">INLMKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_96" model="res.bank">
+        <field name="name">JSC "ForteBank"</field>
+        <field name="bic">IRTYKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_97" model="res.bank">
+        <field name="name">JSC "ForteBank"</field>
+        <field name="bic">IRTYKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_98" model="res.bank">
+        <field name="name">TO JSC "BTA BANK" - JSC "TEMIRBANK"</field>
+        <field name="bic">JSRBKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_99" model="res.bank">
+        <field name="name">JSC "Kazinvestbank"</field>
+        <field name="bic">KAZSKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_100" model="res.bank">
+        <field name="name">Bank CenterCredit JSC</field>
+        <field name="bic">KCJBKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_101" model="res.bank">
+        <field name="name">JSC Bank "Bank RBK"</field>
+        <field name="bic">KINCKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_102" model="res.bank">
+        <field name="name">JSC KAZINCOMBANK</field>
+        <field name="bic">KINCKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_103" model="res.bank">
+        <field name="name">State Institution "Committee of the Treasury of the Ministry of Financial</field>
+        <field name="bic">KKMFKZ2A</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_104" model="res.bank">
+        <field name="name">JSC "KAZPOCHTA"</field>
+        <field name="bic">KPSTKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_105" model="res.bank">
+        <field name="name">JSC "Bank Kassa Nova"</field>
+        <field name="bic">KSNVKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_106" model="res.bank">
+        <field name="name">JSC BANK "Freedom Finance"</field>
+        <field name="bic">KSNVKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_107" model="res.bank">
+        <field name="name">JSC "SB "KAZAKHSTAN-ZIRAAT INTERNATIONAL BANK"</field>
+        <field name="bic">KZIBKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_108" model="res.bank">
+        <field name="name">JSC "KAZKOMMERTSBANK"</field>
+        <field name="bic">KZKOKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_109" model="res.bank">
+        <field name="name">JSC "AsiaCredit Bank (AsiaCredit Bank)"</field>
+        <field name="bic">LARIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_110" model="res.bank">
+        <field name="name">JSC "METROCOMBANK"</field>
+        <field name="bic">MEOKKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_111" model="res.bank">
+        <field name="name">HSBC BANK PLC 60 QUEEN STREET LONDON EC4N 4TR</field>
+        <field name="bic">MIDLGB22</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_112" model="res.bank">
+        <field name="name">GU National Bank of the Republic of Kazakhstan</field>
+        <field name="bic">NBRKKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_113" model="res.bank">
+        <field name="name">JSC "Delta Bank"</field>
+        <field name="bic">NFBAKZ23</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_114" model="res.bank">
+        <field name="name">JSC "Nurbank"</field>
+        <field name="bic">NURSKZKX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_115" model="res.bank">
+        <field name="name">JSC CB PRIVATBANK (RASCHETNY CENTR (BRANCH NO 2))</field>
+        <field name="bic">PBANUA2X</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_116" model="res.bank">
+        <field name="name">SB JSC Sberbank</field>
+        <field name="bic">SABRKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_117" model="res.bank">
+        <field name="name">SB JSC "Sberbank"</field>
+        <field name="bic">SABRKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_118" model="res.bank">
+        <field name="name">Qazaq Bank LLP</field>
+        <field name="bic">SENIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_119" model="res.bank">
+        <field name="name">JSC "Senim-Bank"</field>
+        <field name="bic">SENIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_120" model="res.bank">
+        <field name="name">Qazag Banki JSC</field>
+        <field name="bic">SENIKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_121" model="res.bank">
+        <field name="name">JSC "Capital Bank Kazakhstan"</field>
+        <field name="bic">TBKBKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_122" model="res.bank">
+        <field name="name">TURKIYE GARANTI BANKASI A.S.</field>
+        <field name="bic">TGBATRISXXX</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_123" model="res.bank">
+        <field name="name">JUSAN BANK JSC</field>
+        <field name="bic">TSESKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_124" model="res.bank">
+        <field name="name">JSC "Tsesnabank"</field>
+        <field name="bic">TSESKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_125" model="res.bank">
+        <field name="name">JSC "First Heartland Jysan Bank"</field>
+        <field name="bic">TSESKZKA</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_126" model="res.bank">
+        <field name="name">Subsidiary JSC "Bank VTB" (Kazakhstan)</field>
+        <field name="bic">VTBAKZKZ</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+    <record id="res_bank_127" model="res.bank">
+        <field name="name">JSC "Zaman-Bank"</field>
+        <field name="bic">ZAJSKZ22</field>
+        <field name="country" ref="base.kz"/>
+    </record>
+</odoo>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<odoo>
+  <record id="employee_inherit_work_information" model="ir.ui.view">
+    <field name="name">hr.employee.inherit.work.information</field>
+    <field name="model">hr.employee</field>
+    <field name="inherit_id" ref="hr.view_employee_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//group[@name='managers']" position="after">
+        <group string="HR Settings">
+            <field name="user_id" string="Related User" domain="[('share', '=', False)]" />
+            <field name="pin" string="PIN Code"/>
+            <label for="barcode"/>
+                  <div class="o_row">
+                    <field name="barcode"/>
+                    <button string="Generate" class="btn btn-link" type="object" name="generate_random_barcode" attrs="{'invisible': [('barcode', '!=', False)]}"/>
+                    <button name="%(hr.hr_employee_print_badge)d" string="Print Badge" class="btn btn-link" type="action" attrs="{'invisible': [('barcode', '=', False)]}"/>
+                </div>
+            <field name="employment_contract_id" string="Employment Contract"/>
+            <field name="contract_id"/>
+          </group>
+      </xpath>
+      <xpath expr="//page[@name='hr_settings']" position="before">
+        <page name="Shift" string="Shift" attrs="{'invisible': [('personnel_type', '=', 'outstaffing')]}">
+          <group>
+            <field name="shift_date_from"/>
+            <field name="shift_date_until"/>
+            <field name="work_arrival_time"/>
+            <field name="work_left_time"/>
+          </group>
+        </page>
+      </xpath>
+      <xpath expr="//page[@name='public']" position="inside"/>
+      <xpath expr="//field[@name='id']" position="replace">
+        <field name="work_schedule_type" required="1"/>
+        <field name="outstaff_company" attrs="{'invisible': [('personnel_type', '!=', 'outstaffing')]}"/>
+        <field name="employment_type"/>
+        <field name="timesheet_number" attrs="{'invisible': [('personnel_type', '=', 'outstaffing')]}"/>
+      </xpath>
+    </field>
+  </record>
+
+  <!-- Display of Resume section -->
+  <record id="hr_extended_profile_resume_view" model="ir.ui.view">
+    <field name="name">hr.employee.inherit.resume</field>
+    <field name="model">hr.employee</field>
+    <field name="inherit_id" ref="hr.view_employee_form"/>
+    <field name="arch" type="xml">
+        <xpath expr="//page[@name='hr_family']" position="after">
+          <xpath expr="//page[@name='public']" position="move"/>
+        </xpath>
+    </field>
+  </record>
+  <record id="resume_extended_line_view_form" model="ir.ui.view">
+    <field name="name">hr.resume.extended.line.form</field>
+    <field name="model">hr.resume.line</field>
+    <field name="inherit_id" ref="hr_skills.resume_line_view_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//field[@name='date_end']" position="after">
+        <field name="type_name" invisible="1" />
+        <field name="company_name" attrs="{'invisible': [('type_name', '!=', 'Experience')]}" />
+        <field name="job_position" attrs="{'invisible': [('type_name', '!=', 'Experience')]}" />
+        <field name="dismissal_reason" attrs="{'invisible': [('type_name', '!=', 'Experience')]}"/>
+        <field name="total_year"/>
+        <field name="total_month" />
+        <field name="total_day" />
+      </xpath>
+      <xpath expr="//field[@name='display_type']" position="after">
+        <field name="study_school" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+        <field name="certificate" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+        <field name="study_field" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+        <field name="speciality" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+        <field name="profession" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+        <field name="diploma_number" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+        <field name="diploma_scan" attrs="{'invisible': [('type_name', '!=', 'Education')]}" />
+        <field name="study_form" attrs="{'invisible': [('type_name', '!=', 'Education')]}"/>
+      </xpath>
+      <xpath expr="//field[@name='description']" position="after">
+        <field name="job_responsibilities" placeholder="Job responsibilities"/>
+      </xpath>
+    </field>
+  </record>
+</odoo>

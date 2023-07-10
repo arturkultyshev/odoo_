@@ -1,0 +1,1719 @@
+<?xml version="1.0"?>
+<odoo noupdate="1">
+    <record id="res_university_1" model="res.university">
+        <field name="name">"Bolashak-A" ZHShS</field>
+    </record>
+    <record id="res_university_2" model="res.university">
+        <field name="name">APEC PetroTechnic</field>
+    </record>
+    <record id="res_university_3" model="res.university">
+        <field name="name">Aktobe State Pedagogical Institute</field>
+    </record>
+    <record id="res_university_4" model="res.university">
+        <field name="name">Aviation Technical School</field>
+    </record>
+    <record id="res_university_5" model="res.university">
+        <field name="name">Agrotechnical University</field>
+    </record>
+    <record id="res_university_6" model="res.university">
+        <field name="name">Academic Legal Educational Institute of the Kazakh Academic University</field>
+    </record>
+    <record id="res_university_7" model="res.university">
+        <field name="name">Academy "Ulagat"</field>
+    </record>
+    <record id="res_university_8" model="res.university">
+        <field name="name">Academy of Public Administration under the President of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_9" model="res.university">
+        <field name="name">Financial Police Academy</field>
+    </record>
+    <record id="res_university_10" model="res.university">
+        <field name="name">Akaltyn Hydroreclamation College</field>
+    </record>
+    <record id="res_university_11" model="res.university">
+        <field name="name">Aktau State University named after Sh.Yessenova</field>
+    </record>
+    <record id="res_university_12" model="res.university">
+        <field name="name">Aktau State University named after Sh.Yessenova</field>
+    </record>
+    <record id="res_university_13" model="res.university">
+        <field name="name">Aktobe Higher Polytechnic College</field>
+    </record>
+    <record id="res_university_14" model="res.university">
+        <field name="name">Aktobe state. Zhubanov University</field>
+    </record>
+    <record id="res_university_15" model="res.university">
+        <field name="name">Aktobe Humanitarian and Technical University</field>
+    </record>
+    <record id="res_university_16" model="res.university">
+        <field name="name">Aktobe College of Oil and Gas</field>
+    </record>
+    <record id="res_university_17" model="res.university">
+        <field name="name">Aktobe College of Communications</field>
+    </record>
+    <record id="res_university_18" model="res.university">
+        <field name="name">Aktobe College of Transport, Communications and New Technologies</field>
+    </record>
+    <record id="res_university_19" model="res.university">
+        <field name="name">Aktobe cooperative college</field>
+    </record>
+    <record id="res_university_20" model="res.university">
+        <field name="name">Aktobe Polytechnic College</field>
+    </record>
+    <record id="res_university_21" model="res.university">
+        <field name="name">Aktobe Regional State University named after K. Zhubanov</field>
+    </record>
+    <record id="res_university_22" model="res.university">
+        <field name="name">Aktobe Agricultural College</field>
+    </record>
+    <record id="res_university_23" model="res.university">
+        <field name="name">Aktobe Construction College</field>
+    </record>
+    <record id="res_university_24" model="res.university">
+        <field name="name">Aktobe Technical College</field>
+    </record>
+    <record id="res_university_25" model="res.university">
+        <field name="name">Aktobe UKK PTL-1</field>
+    </record>
+    <record id="res_university_26" model="res.university">
+        <field name="name">Aktobe Financial and Economic College</field>
+    </record>
+    <record id="res_university_27" model="res.university">
+        <field name="name">Aktobe PTU-5</field>
+    </record>
+    <record id="res_university_28" model="res.university">
+        <field name="name">Alga vocational school-2</field>
+    </record>
+    <record id="res_university_29" model="res.university">
+        <field name="name">Alma-Ata State Medical Institute</field>
+    </record>
+    <record id="res_university_30" model="res.university">
+        <field name="name">Alma-Ata Institute of Railway Transport Engineers</field>
+    </record>
+    <record id="res_university_31" model="res.university">
+        <field name="name">Alma-Ata Power Engineering College</field>
+    </record>
+    <record id="res_university_32" model="res.university">
+        <field name="name">Almalyk vocational school No. 10</field>
+    </record>
+    <record id="res_university_33" model="res.university">
+        <field name="name">Almaty Academy of Economics and Statistics</field>
+    </record>
+    <record id="res_university_34" model="res.university">
+        <field name="name">Almaty Investigative School of the State Investigative Committee of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_35" model="res.university">
+        <field name="name">Almaty Agrarian College</field>
+    </record>
+    <record id="res_university_36" model="res.university">
+        <field name="name">Almaty State University named after Abai</field>
+    </record>
+    <record id="res_university_37" model="res.university">
+        <field name="name">Almaty Zooveterinary Institute</field>
+    </record>
+    <record id="res_university_38" model="res.university">
+        <field name="name">Almaty Institute of Railway Transport</field>
+    </record>
+    <record id="res_university_39" model="res.university">
+        <field name="name">Almaty Institute of National Economy</field>
+    </record>
+    <record id="res_university_40" model="res.university">
+        <field name="name">Almaty Institute of Economics and Statistics</field>
+    </record>
+    <record id="res_university_41" model="res.university">
+        <field name="name">Almaty Institute of Energy and Communications</field>
+    </record>
+    <record id="res_university_42" model="res.university">
+        <field name="name">Almaty film technical school</field>
+    </record>
+    <record id="res_university_43" model="res.university">
+        <field name="name">Almaty College of New Technologies</field>
+    </record>
+    <record id="res_university_44" model="res.university">
+        <field name="name">Almaty College at the Kazakh-Almaty University</field>
+    </record>
+    <record id="res_university_45" model="res.university">
+        <field name="name">Almaty College of Telecommunications and Mechanical Engineering</field>
+    </record>
+    <record id="res_university_46" model="res.university">
+        <field name="name">Almaty College of Transport and Communication</field>
+    </record>
+    <record id="res_university_47" model="res.university">
+        <field name="name">Almaty College of Energy and Electronic Instrumentation</field>
+    </record>
+    <record id="res_university_48" model="res.university">
+        <field name="name">Almaty Multidisciplinary Technical and Economic College</field>
+    </record>
+    <record id="res_university_49" model="res.university">
+        <field name="name">Almaty Social and Humanitarian College of CAU</field>
+    </record>
+    <record id="res_university_50" model="res.university">
+        <field name="name">Almaty Technological University</field>
+    </record>
+    <record id="res_university_51" model="res.university">
+        <field name="name">Almaty University of Continuing Education</field>
+    </record>
+    <record id="res_university_52" model="res.university">
+        <field name="name">Almaty University of Technology and Business</field>
+    </record>
+    <record id="res_university_53" model="res.university">
+        <field name="name">Almaty University of Energy and Communications</field>
+    </record>
+    <record id="res_university_54" model="res.university">
+        <field name="name">Andijan College of Agricultural Mechanization</field>
+    </record>
+    <record id="res_university_55" model="res.university">
+        <field name="name">JSC "Kazakh University of International Relations and World Languages named after Abylai Khan"</field>
+    </record>
+    <record id="res_university_56" model="res.university">
+        <field name="name">JSC Kazakh-British Technical University</field>
+    </record>
+    <record id="res_university_57" model="res.university">
+        <field name="name">Astana IT University</field>
+    </record>
+    <record id="res_university_58" model="res.university">
+        <field name="name">Astrakhan State University</field>
+    </record>
+    <record id="res_university_59" model="res.university">
+        <field name="name">Astrakhan Electrical Engineering School of Communications</field>
+    </record>
+    <record id="res_university_60" model="res.university">
+        <field name="name">Astrakhan Vocational School No. 6</field>
+    </record>
+    <record id="res_university_61" model="res.university">
+        <field name="name">Kazakh secondary school 'Koktem', Inder district, Atyrau region</field>
+    </record>
+    <record id="res_university_62" model="res.university">
+        <field name="name">Mukyr secondary school, Kyzylkoginsky district, Atyrau region</field>
+    </record>
+    <record id="res_university_63" model="res.university">
+        <field name="name">Atyrau marine fish industry technical school</field>
+    </record>
+    <record id="res_university_64" model="res.university">
+        <field name="name">Atyrau Agrarian and Technical College</field>
+    </record>
+    <record id="res_university_65" model="res.university">
+        <field name="name">Atyrau State University named after Kh.Dosmukhamedov</field>
+    </record>
+    <record id="res_university_66" model="res.university">
+        <field name="name">Atyrau Humanitarian College named after K. Dutbaev</field>
+    </record>
+    <record id="res_university_67" model="res.university">
+        <field name="name">Atyrau Industrial College</field>
+    </record>
+    <record id="res_university_68" model="res.university">
+        <field name="name">Atyrau Engineering and Humanitarian Institute</field>
+    </record>
+    <record id="res_university_69" model="res.university">
+        <field name="name">Atyrau Engineering and Humanitarian Institute</field>
+    </record>
+    <record id="res_university_70" model="res.university">
+        <field name="name">Atyrau Engineering-Humanitarian College</field>
+    </record>
+    <record id="res_university_71" model="res.university">
+        <field name="name">Atyrau Institute of Oil and Gas</field>
+    </record>
+    <record id="res_university_72" model="res.university">
+        <field name="name">Atyrau College of the Atyrau Institute of Engineering and Humanities</field>
+    </record>
+    <record id="res_university_73" model="res.university">
+        <field name="name">Atyrau College of Business and Law</field>
+    </record>
+    <record id="res_university_74" model="res.university">
+        <field name="name">Atyrau College of Management and Marketing</field>
+    </record>
+    <record id="res_university_75" model="res.university">
+        <field name="name">Atyrau College of Transport and Communication</field>
+    </record>
+    <record id="res_university_76" model="res.university">
+        <field name="name">Atyrau College of Energy and Construction</field>
+    </record>
+    <record id="res_university_77" model="res.university">
+        <field name="name">Atyrau Medical College</field>
+    </record>
+    <record id="res_university_78" model="res.university">
+        <field name="name">Atyrau Interregional Professional Center (college)</field>
+    </record>
+    <record id="res_university_79" model="res.university">
+        <field name="name">Атырауский многопрофильный колледж Болашак</field>
+    </record>
+    <record id="res_university_80" model="res.university">
+        <field name="name">Atyrau Marine Fisheries College</field>
+    </record>
+    <record id="res_university_81" model="res.university">
+        <field name="name">Atyrau pedagogical institution</field>
+    </record>
+    <record id="res_university_82" model="res.university">
+        <field name="name">Atyrau Polytechnic Institute</field>
+    </record>
+    <record id="res_university_83" model="res.university">
+        <field name="name">Atyrau Polytechnic College</field>
+    </record>
+    <record id="res_university_84" model="res.university">
+        <field name="name">Atyrau Agricultural College</field>
+    </record>
+    <record id="res_university_85" model="res.university">
+        <field name="name">Atyrau Agricultural College</field>
+    </record>
+    <record id="res_university_86" model="res.university">
+        <field name="name">Atyrau Technological College of Oil and Gas</field>
+    </record>
+    <record id="res_university_87" model="res.university">
+        <field name="name">Atyrau College of Railway Transport</field>
+    </record>
+    <record id="res_university_88" model="res.university">
+        <field name="name">Atyrau University named after Kh.Dosmukhamedov</field>
+    </record>
+    <record id="res_university_89" model="res.university">
+        <field name="name">Atyrau University of Oil and Gas</field>
+    </record>
+    <record id="res_university_90" model="res.university">
+        <field name="name">Atyrau branch of the Higher Technical School of the Ministry of Defense of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_91" model="res.university">
+        <field name="name">Atyrau branch of the International Academy of Law and Market</field>
+    </record>
+    <record id="res_university_92" model="res.university">
+        <field name="name">Aulieatinsky College No. 6, Taraz</field>
+    </record>
+    <record id="res_university_93" model="res.university">
+        <field name="name">Baishev University</field>
+    </record>
+    <record id="res_university_94" model="res.university">
+        <field name="name">Balkhash multidisciplinary college</field>
+    </record>
+    <record id="res_university_95" model="res.university">
+        <field name="name">Belgorod State University V. G. Shukhova</field>
+    </record>
+    <record id="res_university_96" model="res.university">
+        <field name="name">Business College of Karaganda University of Business? management and law</field>
+    </record>
+    <record id="res_university_97" model="res.university">
+        <field name="name">Business school № 2 Tashkent</field>
+    </record>
+    <record id="res_university_98" model="res.university">
+        <field name="name">Vilnius Higher Command School of Air Defense Radioelectronics, Vilnius</field>
+    </record>
+    <record id="res_university_99" model="res.university">
+        <field name="name">Military Academy of the Armed Forces of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_100" model="res.university">
+        <field name="name">Volgograd College of Business</field>
+    </record>
+    <record id="res_university_101" model="res.university">
+        <field name="name">East Kazakhstan State Technical University named after D. Serikbaev</field>
+    </record>
+    <record id="res_university_102" model="res.university">
+        <field name="name">East Kazakhstan State University named after S. Amanzholov</field>
+    </record>
+    <record id="res_university_103" model="res.university">
+        <field name="name">Eastern Technical and Humanitarian College</field>
+    </record>
+    <record id="res_university_104" model="res.university">
+        <field name="name">Higher vocational school No. 1 of Atyrau</field>
+    </record>
+    <record id="res_university_105" model="res.university">
+        <field name="name">APEC PetroTechnik Higher College</field>
+    </record>
+    <record id="res_university_106" model="res.university">
+        <field name="name">Geological and Technical University of Arna at the Atyrau Institute of Oil and Gas</field>
+    </record>
+    <record id="res_university_107" model="res.university">
+        <field name="name">GKKP "Agricultural College"</field>
+    </record>
+    <record id="res_university_108" model="res.university">
+        <field name="name">GKKP "Ural Polytechnical College" UO AZKO</field>
+    </record>
+    <record id="res_university_109" model="res.university">
+        <field name="name">SMMO Mangistau Polytechnic College</field>
+    </record>
+    <record id="res_university_110" model="res.university">
+        <field name="name">SMMO Mangistau Energy College</field>
+    </record>
+    <record id="res_university_111" model="res.university">
+        <field name="name">GKPP "Construction and Technical College"</field>
+    </record>
+    <record id="res_university_112" model="res.university">
+        <field name="name">City vocational school №150 Chimkent</field>
+    </record>
+    <record id="res_university_113" model="res.university">
+        <field name="name">State Kazakh Academy of Transport and Communications</field>
+    </record>
+    <record id="res_university_114" model="res.university">
+        <field name="name">State Communal State Enterprise College of Agribusiness</field>
+    </record>
+    <record id="res_university_115" model="res.university">
+        <field name="name">State institution lyceum №4</field>
+    </record>
+    <record id="res_university_116" model="res.university">
+        <field name="name">State Agrarian and Technical College</field>
+    </record>
+    <record id="res_university_117" model="res.university">
+        <field name="name">State Atyrau Institute of Oil and Gas</field>
+    </record>
+    <record id="res_university_118" model="res.university">
+        <field name="name">State Makhtaaral Humanitarian-Economic and Agribusiness College</field>
+    </record>
+    <record id="res_university_119" model="res.university">
+        <field name="name">State Ural College of Gas, Oil and Industry Technologies</field>
+    </record>
+    <record id="res_university_120" model="res.university">
+        <field name="name">GPTU 101 gGuriev</field>
+    </record>
+    <record id="res_university_121" model="res.university">
+        <field name="name">State Institution "Professional Lyceum No. 9"</field>
+    </record>
+    <record id="res_university_122" model="res.university">
+        <field name="name">Humanitarian University of Transport and Law named after D.A. Kunaev</field>
+    </record>
+    <record id="res_university_123" model="res.university">
+        <field name="name">Guryev kalasyndagy No. 12 құrylys orta kasiptik - technical school</field>
+    </record>
+    <record id="res_university_124" model="res.university">
+        <field name="name">Guryev kalasynyn orta kasiptik-technical school</field>
+    </record>
+    <record id="res_university_125" model="res.university">
+        <field name="name">Guryev Pedagogical Institute</field>
+    </record>
+    <record id="res_university_126" model="res.university">
+        <field name="name">Guryev Polytechnic College</field>
+    </record>
+    <record id="res_university_127" model="res.university">
+        <field name="name">Guryev Agricultural College</field>
+    </record>
+    <record id="res_university_128" model="res.university">
+        <field name="name">Guryev College of Railway Transport</field>
+    </record>
+    <record id="res_university_129" model="res.university">
+        <field name="name">Guryev vocational school No. 1</field>
+    </record>
+    <record id="res_university_130" model="res.university">
+        <field name="name">Dzhambul Irrigation and Construction Institute</field>
+    </record>
+    <record id="res_university_131" model="res.university">
+        <field name="name">Dzhambul secondary vocational school 11</field>
+    </record>
+    <record id="res_university_132" model="res.university">
+        <field name="name">Dzhambul Chemical-Mechanical College</field>
+    </record>
+    <record id="res_university_133" model="res.university">
+        <field name="name">Dzhambul Chemical-Mechanical College</field>
+    </record>
+    <record id="res_university_134" model="res.university">
+        <field name="name">Dzhezkazgan Mining College</field>
+    </record>
+    <record id="res_university_135" model="res.university">
+        <field name="name">Eurasian Academy</field>
+    </record>
+    <record id="res_university_136" model="res.university">
+        <field name="name">Eurasian Law Academy named after D.A. Kunaev</field>
+    </record>
+    <record id="res_university_137" model="res.university">
+        <field name="name">Eurasian Humanities Institute</field>
+    </record>
+    <record id="res_university_138" model="res.university">
+        <field name="name">Eurasian Technical and Humanitarian College</field>
+    </record>
+    <record id="res_university_139" model="res.university">
+        <field name="name">Eurasian Technological University</field>
+    </record>
+    <record id="res_university_140" model="res.university">
+        <field name="name">Eurasian University named after Gumilyov</field>
+    </record>
+    <record id="res_university_141" model="res.university">
+        <field name="name">Ekibastuz Engineering and Technical Institute named after academician K. Satpaev</field>
+    </record>
+    <record id="res_university_142" model="res.university">
+        <field name="name">Zhalpatulak vocational school No. 17</field>
+    </record>
+    <record id="res_university_143" model="res.university">
+        <field name="name">Zhambyl Irrigation and Construction Institute</field>
+    </record>
+    <record id="res_university_144" model="res.university">
+        <field name="name">Zhambyl Humanitarian and Technical University</field>
+    </record>
+    <record id="res_university_145" model="res.university">
+        <field name="name">Zhambyl Housing and Mechanical College</field>
+    </record>
+    <record id="res_university_146" model="res.university">
+        <field name="name">Zhambyl Pedagogical College named after Abay</field>
+    </record>
+    <record id="res_university_147" model="res.university">
+        <field name="name">Zhambyl Polytechnic College</field>
+    </record>
+    <record id="res_university_148" model="res.university">
+        <field name="name">Zhanaozen College</field>
+    </record>
+    <record id="res_university_149" model="res.university">
+        <field name="name">Zhanaozen College of Oil and Gas</field>
+    </record>
+    <record id="res_university_150" model="res.university">
+        <field name="name">Zhanatas UKC</field>
+    </record>
+    <record id="res_university_151" model="res.university">
+        <field name="name">ZhVSHP "Elteks" Taraz</field>
+    </record>
+    <record id="res_university_152" model="res.university">
+        <field name="name">Zhezkazgan University named after O.A. Baikonurov</field>
+    </record>
+    <record id="res_university_153" model="res.university">
+        <field name="name">Zhetikara Polytechnic College</field>
+    </record>
+    <record id="res_university_154" model="res.university">
+        <field name="name">Zhylyoi Technological College of Oil and Gas</field>
+    </record>
+    <record id="res_university_155" model="res.university">
+        <field name="name">West Kazakhstan Humanitarian and Technical College</field>
+    </record>
+    <record id="res_university_156" model="res.university">
+        <field name="name">West Kazakhstan State Medical Academy. M. Ospanova</field>
+    </record>
+    <record id="res_university_157" model="res.university">
+        <field name="name">West Kazakhstan Agrarian Technical University named after Zhangir Khan</field>
+    </record>
+    <record id="res_university_158" model="res.university">
+        <field name="name">West Kazakhstan Agrarian University</field>
+    </record>
+    <record id="res_university_159" model="res.university">
+        <field name="name">West Kazakhstan Academic College "ATiSO"</field>
+    </record>
+    <record id="res_university_160" model="res.university">
+        <field name="name">West Kazakhstan State University named after M. Utemisov</field>
+    </record>
+    <record id="res_university_161" model="res.university">
+        <field name="name">West Kazakhstan Engineering and Humanities University</field>
+    </record>
+    <record id="res_university_162" model="res.university">
+        <field name="name">West Kazakhstan Engineering and Technology University</field>
+    </record>
+    <record id="res_university_163" model="res.university">
+        <field name="name">West Kazakhstan College of Engineering and Economics</field>
+    </record>
+    <record id="res_university_164" model="res.university">
+        <field name="name">West Kazakhstan Innovation and Technology University</field>
+    </record>
+    <record id="res_university_165" model="res.university">
+        <field name="name">West Kazakhstan Institute of Languages and Management "Eurasia"</field>
+    </record>
+    <record id="res_university_166" model="res.university">
+        <field name="name">West Kazakhstan Agricultural Institute</field>
+    </record>
+    <record id="res_university_167" model="res.university">
+        <field name="name">West Kazakhstan Technological College</field>
+    </record>
+    <record id="res_university_168" model="res.university">
+        <field name="name">Ivanovo radiotechnical school</field>
+    </record>
+    <record id="res_university_169" model="res.university">
+        <field name="name">Iidersky Proflyceum</field>
+    </record>
+    <record id="res_university_170" model="res.university">
+        <field name="name">Inder Multidisciplinary College of Agriculture</field>
+    </record>
+    <record id="res_university_171" model="res.university">
+        <field name="name">Inder professional lyceum №8</field>
+    </record>
+    <record id="res_university_172" model="res.university">
+        <field name="name">Engineering and Educational Center LLP "BK Uniway"</field>
+    </record>
+    <record id="res_university_173" model="res.university">
+        <field name="name">Engineering and Technology College of the Western-Kazakh Engineering and Technology University</field>
+    </record>
+    <record id="res_university_174" model="res.university">
+        <field name="name">Institute of World Economy and Finance (IMEF)</field>
+    </record>
+    <record id="res_university_175" model="res.university">
+        <field name="name">Institute of Oil and Gas of Atyrau University</field>
+    </record>
+    <record id="res_university_176" model="res.university">
+        <field name="name">Institute of Management and Law</field>
+    </record>
+    <record id="res_university_177" model="res.university">
+        <field name="name">Kazakh Academy of Transport and Communications named after M. Tynyshpaev</field>
+    </record>
+    <record id="res_university_178" model="res.university">
+        <field name="name">Kazakh State Academy of Architecture and Civil Engineering</field>
+    </record>
+    <record id="res_university_179" model="res.university">
+        <field name="name">Kazakh Automobile and Road University named after L.B. Goncharov</field>
+    </record>
+    <record id="res_university_180" model="res.university">
+        <field name="name">Kazakh Agrotechnical University named after S.Seifullin</field>
+    </record>
+    <record id="res_university_181" model="res.university">
+        <field name="name">Kazakh State National University named after Al-Farabi</field>
+    </record>
+    <record id="res_university_182" model="res.university">
+        <field name="name">Abay Kazakh State University</field>
+    </record>
+    <record id="res_university_183" model="res.university">
+        <field name="name">Kazakh Humanitarian Law University</field>
+    </record>
+    <record id="res_university_184" model="res.university">
+        <field name="name">Kazakh Institute of Law and International Relations</field>
+    </record>
+    <record id="res_university_185" model="res.university">
+        <field name="name">Kazakh National Agrarian University</field>
+    </record>
+    <record id="res_university_186" model="res.university">
+        <field name="name">Kazakh National Agrarian University</field>
+    </record>
+    <record id="res_university_187" model="res.university">
+        <field name="name">Kazakh National Research and Technical University named after K.I. Satpayev</field>
+    </record>
+    <record id="res_university_188" model="res.university">
+        <field name="name">Kazakh National Pedagogical University named after Abay</field>
+    </record>
+    <record id="res_university_189" model="res.university">
+        <field name="name">Kazakh National Technical University named after K.I. Satpayev</field>
+    </record>
+    <record id="res_university_190" model="res.university">
+        <field name="name">Al-Farabi Kazakh National University</field>
+    </record>
+    <record id="res_university_191" model="res.university">
+        <field name="name">Kazakh Order of the Banner of Labor Agricultural Institute</field>
+    </record>
+    <record id="res_university_192" model="res.university">
+        <field name="name">Kazakh Polytechnic Institute named after V.I. Lenin</field>
+    </record>
+    <record id="res_university_193" model="res.university">
+        <field name="name">Kazakh Polytechnic Institute of the Ural Mining Institute</field>
+    </record>
+    <record id="res_university_194" model="res.university">
+        <field name="name">Kazakh University of International Relations and World Languages named after Abylai Khan</field>
+    </record>
+    <record id="res_university_195" model="res.university">
+        <field name="name">Kazakh University of International Relations and World Languages named after Abylaikhan</field>
+    </record>
+    <record id="res_university_196" model="res.university">
+        <field name="name">Kazakh University of Railways</field>
+    </record>
+    <record id="res_university_197" model="res.university">
+        <field name="name">Kazakh University of Railways</field>
+    </record>
+    <record id="res_university_198" model="res.university">
+        <field name="name">Kazakh University of Railways</field>
+    </record>
+    <record id="res_university_199" model="res.university">
+        <field name="name">Kazakh University of Economics, Finance and International Trade</field>
+    </record>
+    <record id="res_university_200" model="res.university">
+        <field name="name">Kazakh Institute of Chemical Technology</field>
+    </record>
+    <record id="res_university_201" model="res.university">
+        <field name="name">Kazakh Economic University named after T. Ryskulov</field>
+    </record>
+    <record id="res_university_202" model="res.university">
+        <field name="name">Kazakh-Arab University</field>
+    </record>
+    <record id="res_university_203" model="res.university">
+        <field name="name">Kazakh-Russian International University</field>
+    </record>
+    <record id="res_university_204" model="res.university">
+        <field name="name">Kazakh-Uzbek Engineering and Humanitarian University</field>
+    </record>
+    <record id="res_university_205" model="res.university">
+        <field name="name">Kazakhstan Agrotechnical College</field>
+    </record>
+    <record id="res_university_206" model="res.university">
+        <field name="name">Kazakhstan Institute of Management, Economics and Forecasting</field>
+    </record>
+    <record id="res_university_207" model="res.university">
+        <field name="name">Kazakhstan Institute of Economics and Law</field>
+    </record>
+    <record id="res_university_208" model="res.university">
+        <field name="name">Kazakhstan Institute of Languages and Management "Eurasia"</field>
+    </record>
+    <record id="res_university_209" model="res.university">
+        <field name="name">Kazakhstan Order of Lenin state farm-technical school</field>
+    </record>
+    <record id="res_university_210" model="res.university">
+        <field name="name">Kazakhstan Peoples' Friendship University</field>
+    </record>
+    <record id="res_university_211" model="res.university">
+        <field name="name">Kazakhstan University of Innovation and Telecommunication Systems</field>
+    </record>
+    <record id="res_university_212" model="res.university">
+        <field name="name">KAZIITU</field>
+    </record>
+    <record id="res_university_215" model="res.university">
+        <field name="name">Kandyagash Industrial and Economic College</field>
+    </record>
+    <record id="res_university_216" model="res.university">
+        <field name="name">Karaganda Higher School of the Ministry of Internal Affairs</field>
+    </record>
+    <record id="res_university_217" model="res.university">
+        <field name="name">Karaganda State Technical University</field>
+    </record>
+    <record id="res_university_218" model="res.university">
+        <field name="name">Karaganda State University named after academician E. Buketov</field>
+    </record>
+    <record id="res_university_219" model="res.university">
+        <field name="name">Karaganda Industrial Pedagogical College</field>
+    </record>
+    <record id="res_university_220" model="res.university">
+        <field name="name">Karaganda Institute of Actual Education "Bolashak"</field>
+    </record>
+    <record id="res_university_221" model="res.university">
+        <field name="name">Karaganda Institute of System Engineering and Business</field>
+    </record>
+    <record id="res_university_222" model="res.university">
+        <field name="name">Karaganda Order of the Red Banner of Labor Polytechnic Institute</field>
+    </record>
+    <record id="res_university_223" model="res.university">
+        <field name="name">Karaganda Pedagogical Institute</field>
+    </record>
+    <record id="res_university_224" model="res.university">
+        <field name="name">Karaganda Pedagogical Institute</field>
+    </record>
+    <record id="res_university_225" model="res.university">
+        <field name="name">Karaganda Economic University of Kazpotrebsoyuz</field>
+    </record>
+    <record id="res_university_226" model="res.university">
+        <field name="name">Karatau Mining and Construction College</field>
+    </record>
+    <record id="res_university_227" model="res.university">
+        <field name="name">Karatau Humanitarian and Technical College</field>
+    </record>
+    <record id="res_university_228" model="res.university">
+        <field name="name">Karatau College №2</field>
+    </record>
+    <record id="res_university_229" model="res.university">
+        <field name="name">Karatau College of Technology, Education and Business</field>
+    </record>
+    <record id="res_university_230" model="res.university">
+        <field name="name">Karatau multi-branch college of TarSU named after M.Kh. Dulati</field>
+    </record>
+    <record id="res_university_231" model="res.university">
+        <field name="name">Karatau Vocational-Technical Lyceum №2</field>
+    </record>
+    <record id="res_university_232" model="res.university">
+        <field name="name">Karatau Construction College</field>
+    </record>
+    <record id="res_university_233" model="res.university">
+        <field name="name">Karatau branch of the Kazakh Polytechnic Institute</field>
+    </record>
+    <record id="res_university_234" model="res.university">
+        <field name="name">Caspian State University of Technology and Engineering named after Esenov</field>
+    </record>
+    <record id="res_university_235" model="res.university">
+        <field name="name">Caspian Public University</field>
+    </record>
+    <record id="res_university_236" model="res.university">
+        <field name="name">KGKP "Atyrau Polytechnic College"</field>
+    </record>
+    <record id="res_university_237" model="res.university">
+        <field name="name">KGKP "State Medical College named after D. Kalmataev, Semey"</field>
+    </record>
+    <record id="res_university_238" model="res.university">
+        <field name="name">KGKP "College of Radio Engineering and Communications"</field>
+    </record>
+    <record id="res_university_239" model="res.university">
+        <field name="name">KGKP "Pavlodar Engineering College"</field>
+    </record>
+    <record id="res_university_240" model="res.university">
+        <field name="name">KGKP Rudny College of Technology and Service UOAKO</field>
+    </record>
+    <record id="res_university_241" model="res.university">
+        <field name="name">KSE "Atyrauoblgaz" training center in Atyrau</field>
+    </record>
+    <record id="res_university_242" model="res.university">
+        <field name="name">KSE "Obltransgaz" training center</field>
+    </record>
+    <record id="res_university_243" model="res.university">
+        <field name="name">Kentau vocational technical school №22</field>
+    </record>
+    <record id="res_university_244" model="res.university">
+        <field name="name">Kentau vocational school No. 7</field>
+    </record>
+    <record id="res_university_245" model="res.university">
+        <field name="name">Kentau vocational school №2</field>
+    </record>
+    <record id="res_university_246" model="res.university">
+        <field name="name">Kentau Mining and Metallurgical College</field>
+    </record>
+    <record id="res_university_247" model="res.university">
+        <field name="name">Kentau Multidisciplinary College</field>
+    </record>
+    <record id="res_university_248" model="res.university">
+        <field name="name">Kentau Technical Lyceum</field>
+    </record>
+    <record id="res_university_249" model="res.university">
+        <field name="name">Kentau Technical Lyceum -VPU №2</field>
+    </record>
+    <record id="res_university_250" model="res.university">
+        <field name="name">Kentau College of Economics</field>
+    </record>
+    <record id="res_university_251" model="res.university">
+        <field name="name">Ketau professional lyceum №7 South Kazakhstan region college №7 Kentau</field>
+    </record>
+    <record id="res_university_252" model="res.university">
+        <field name="name">Kyzylorda secondary vocational school No. 1</field>
+    </record>
+    <record id="res_university_253" model="res.university">
+        <field name="name">Kirovohrad technical school №1</field>
+    </record>
+    <record id="res_university_254" model="res.university">
+        <field name="name">Kokchetav Automechanical College</field>
+    </record>
+    <record id="res_university_255" model="res.university">
+        <field name="name">Kokshetau Technical Institute</field>
+    </record>
+    <record id="res_university_256" model="res.university">
+        <field name="name">Kokshetau Higher Technical School</field>
+    </record>
+    <record id="res_university_257" model="res.university">
+        <field name="name">College "Parasat" SKGI named after M. Saparbayev</field>
+    </record>
+    <record id="res_university_258" model="res.university">
+        <field name="name">College of Aktau State University named after Sh. Yessenov</field>
+    </record>
+    <record id="res_university_259" model="res.university">
+        <field name="name">College of Atyrau Engineering and Humanities Institute</field>
+    </record>
+    <record id="res_university_260" model="res.university">
+        <field name="name">College of Atyrau Engineering and Humanities Institute</field>
+    </record>
+    <record id="res_university_261" model="res.university">
+        <field name="name">College of Geodesy and Cartography</field>
+    </record>
+    <record id="res_university_262" model="res.university">
+        <field name="name">College of Geodesy and Cartography Semey</field>
+    </record>
+    <record id="res_university_263" model="res.university">
+        <field name="name">College of Rail Transport</field>
+    </record>
+    <record id="res_university_264" model="res.university">
+        <field name="name">College of Informatics, Communications and Technology</field>
+    </record>
+    <record id="res_university_265" model="res.university">
+        <field name="name">College of KazGUU, Aktobe</field>
+    </record>
+    <record id="res_university_266" model="res.university">
+        <field name="name">College of Kazakhstan Modern Academy "Bolashak"</field>
+    </record>
+    <record id="res_university_267" model="res.university">
+        <field name="name">College KazNTU named after K.I.Satpaev</field>
+    </record>
+    <record id="res_university_268" model="res.university">
+        <field name="name">College Kainar Semey</field>
+    </record>
+    <record id="res_university_269" model="res.university">
+        <field name="name">College of KarSU named after Ak.Boketov E.A.</field>
+    </record>
+    <record id="res_university_270" model="res.university">
+        <field name="name">College of Oil and Gas in Aktobe</field>
+    </record>
+    <record id="res_university_271" model="res.university">
+        <field name="name">College of Economics and Information Technology</field>
+    </record>
+    <record id="res_university_272" model="res.university">
+        <field name="name">College of Energy and Electronic Instrumentation</field>
+    </record>
+    <record id="res_university_273" model="res.university">
+        <field name="name">College of South Kazakhstan State University</field>
+    </record>
+    <record id="res_university_274" model="res.university">
+        <field name="name">Kosaral secondary school of Atyrau region</field>
+    </record>
+    <record id="res_university_275" model="res.university">
+        <field name="name">Kostanay Academy of the Ministry of Internal Affairs of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_276" model="res.university">
+        <field name="name">Kostanay Social Academy</field>
+    </record>
+    <record id="res_university_277" model="res.university">
+        <field name="name">Kostanay State University named after A. Baitursynov</field>
+    </record>
+    <record id="res_university_278" model="res.university">
+        <field name="name">Kostanay Humanitarian Institute</field>
+    </record>
+    <record id="res_university_279" model="res.university">
+        <field name="name">Kostanay Engineering and Pedagogical University</field>
+    </record>
+    <record id="res_university_280" model="res.university">
+        <field name="name">Kostanay Engineering and Economic University</field>
+    </record>
+    <record id="res_university_281" model="res.university">
+        <field name="name">Kostanay Pedagogical College</field>
+    </record>
+    <record id="res_university_282" model="res.university">
+        <field name="name">Kostanay Polytechnic College</field>
+    </record>
+    <record id="res_university_283" model="res.university">
+        <field name="name">Kostanay Socio-Technical University named after Aldamzhar</field>
+    </record>
+    <record id="res_university_284" model="res.university">
+        <field name="name">Kostanay Economic College of Kazpotrebsoyuz</field>
+    </record>
+    <record id="res_university_285" model="res.university">
+        <field name="name">Kostanay Law Institute of the Ministry of Internal Affairs of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_286" model="res.university">
+        <field name="name">Kuibyshev Polytechnic School of Communications of the Ministry of Communications of the USSR</field>
+    </record>
+    <record id="res_university_287" model="res.university">
+        <field name="name">Kulsary Humanitarian and Technical College</field>
+    </record>
+    <record id="res_university_288" model="res.university">
+        <field name="name">Kulsary Vocational School-Lyceum №6</field>
+    </record>
+    <record id="res_university_289" model="res.university">
+        <field name="name">Kurmangazinsky Agrarian and Technical College</field>
+    </record>
+    <record id="res_university_290" model="res.university">
+        <field name="name">Kurmangazinsky professional lyceum №3</field>
+    </record>
+    <record id="res_university_291" model="res.university">
+        <field name="name">Kustanai Engineering and Economic University named after M.Dulatov</field>
+    </record>
+    <record id="res_university_292" model="res.university">
+        <field name="name">Kustanai IMC</field>
+    </record>
+    <record id="res_university_293" model="res.university">
+        <field name="name">Kustanai College of Motor Transport</field>
+    </record>
+    <record id="res_university_294" model="res.university">
+        <field name="name">Kustanai Technological College of Light Industry</field>
+    </record>
+    <record id="res_university_295" model="res.university">
+        <field name="name">Kyzylorda vocational school №6</field>
+    </record>
+    <record id="res_university_296" model="res.university">
+        <field name="name">Kyzylorda Agrarian and Technical College</field>
+    </record>
+    <record id="res_university_297" model="res.university">
+        <field name="name">Kyzylorda Agrarian-Technical College named after I. Abdukarimova</field>
+    </record>
+    <record id="res_university_298" model="res.university">
+        <field name="name">Kyzylorda State University named after Korkyt Ata</field>
+    </record>
+    <record id="res_university_299" model="res.university">
+        <field name="name">Kyzylorda College of Economics, Education and Law</field>
+    </record>
+    <record id="res_university_300" model="res.university">
+        <field name="name">Kyzylorda multidisciplinary college</field>
+    </record>
+    <record id="res_university_301" model="res.university">
+        <field name="name">Kyzylorda Polytechnic Institute named after Zhakhaev</field>
+    </record>
+    <record id="res_university_302" model="res.university">
+        <field name="name">Kyrgyz State Technical University named after I. Razzakov</field>
+    </record>
+    <record id="res_university_303" model="res.university">
+        <field name="name">Kyrgyz-Russian Slavic University</field>
+    </record>
+    <record id="res_university_304" model="res.university">
+        <field name="name">Lenger vocational school No. 8</field>
+    </record>
+    <record id="res_university_305" model="res.university">
+        <field name="name">Lenger Secondary Vocational School No. 7</field>
+    </record>
+    <record id="res_university_306" model="res.university">
+        <field name="name">Lisakovsky Technical College</field>
+    </record>
+    <record id="res_university_307" model="res.university">
+        <field name="name">Magnitogorsk Mining and Metallurgical Institute named after G.I.Nosov</field>
+    </record>
+    <record id="res_university_308" model="res.university">
+        <field name="name">Magnitogorsk Polytechnic College (non-state)</field>
+    </record>
+    <record id="res_university_309" model="res.university">
+        <field name="name">Mangystau Institute "Bolashak"</field>
+    </record>
+    <record id="res_university_310" model="res.university">
+        <field name="name">Mangistau Polytechnic College</field>
+    </record>
+    <record id="res_university_311" model="res.university">
+        <field name="name">Mangistau Energy College</field>
+    </record>
+    <record id="res_university_312" model="res.university">
+        <field name="name">Makhambet Multidisciplinary College of Agriculture</field>
+    </record>
+    <record id="res_university_313" model="res.university">
+        <field name="name">Medical College of Karaganda State Medical Academy</field>
+    </record>
+    <record id="res_university_314" model="res.university">
+        <field name="name">International Academy of Labor</field>
+    </record>
+    <record id="res_university_315" model="res.university">
+        <field name="name">International Market Institute Samara RF</field>
+    </record>
+    <record id="res_university_316" model="res.university">
+        <field name="name">International Kazakh-Turkish University named after Kh.Yasavi</field>
+    </record>
+    <record id="res_university_317" model="res.university">
+        <field name="name">International educational corporate (CAMPUS)</field>
+    </record>
+    <record id="res_university_318" model="res.university">
+        <field name="name">Multidisciplinary College at TarSU named after M.Kh. Dulati</field>
+    </record>
+    <record id="res_university_319" model="res.university">
+        <field name="name">Multidisciplinary College of TarSU named after M.Kh. Dulati</field>
+    </record>
+    <record id="res_university_320" model="res.university">
+        <field name="name">Multidisciplinary College of Aktobe State University named after K. Zhubanov</field>
+    </record>
+    <record id="res_university_321" model="res.university">
+        <field name="name">Marine Fishery College of Atyrau</field>
+    </record>
+    <record id="res_university_322" model="res.university">
+        <field name="name">Moscow Humanitarian University</field>
+    </record>
+    <record id="res_university_323" model="res.university">
+        <field name="name">Mubarek Industrial College</field>
+    </record>
+    <record id="res_university_324" model="res.university">
+        <field name="name">Muynak Industrial and Transport College</field>
+    </record>
+    <record id="res_university_325" model="res.university">
+        <field name="name">IMC of Kostanay</field>
+    </record>
+    <record id="res_university_326" model="res.university">
+        <field name="name">Navoi State Pedagogical Institute</field>
+    </record>
+    <record id="res_university_327" model="res.university">
+        <field name="name">Navoi Industrial College</field>
+    </record>
+    <record id="res_university_328" model="res.university">
+        <field name="name">Navoi Industrial College</field>
+    </record>
+    <record id="res_university_329" model="res.university">
+        <field name="name">NJSC "Atyrau University of Oil and Gas named after Safi Utebaev"</field>
+    </record>
+    <record id="res_university_330" model="res.university">
+        <field name="name">Non-state South Kazakhstan University</field>
+    </record>
+    <record id="res_university_331" model="res.university">
+        <field name="name">Novosibirsk State University of Geosystems and Technology</field>
+    </record>
+    <record id="res_university_332" model="res.university">
+        <field name="name">Nukus Industrial College</field>
+    </record>
+    <record id="res_university_333" model="res.university">
+        <field name="name">Nukus Computer-Information Technological Vocational-Technical College</field>
+    </record>
+    <record id="res_university_334" model="res.university">
+        <field name="name">Nukus profession</field>
+    </record>
+    <record id="res_university_335" model="res.university">
+        <field name="name">Omsk School of Vocational Education</field>
+    </record>
+    <record id="res_university_336" model="res.university">
+        <field name="name">Omsk State Technical University</field>
+    </record>
+    <record id="res_university_337" model="res.university">
+        <field name="name">Order of the Red Banner of Labor state farm-technical school "Kommunar"</field>
+    </record>
+    <record id="res_university_338" model="res.university">
+        <field name="name">Orenburg State University</field>
+    </record>
+    <record id="res_university_339" model="res.university">
+        <field name="name">Department of secondary vocational education at Aktobe University "Duniye"</field>
+    </record>
+    <record id="res_university_340" model="res.university">
+        <field name="name">Toraighyrov University</field>
+    </record>
+    <record id="res_university_341" model="res.university">
+        <field name="name">Pavlodar Polytechnic College</field>
+    </record>
+    <record id="res_university_342" model="res.university">
+        <field name="name">PL-8 Kandagash</field>
+    </record>
+    <record id="res_university_343" model="res.university">
+        <field name="name">Volga State Academy of Telecommunications and Informatics</field>
+    </record>
+    <record id="res_university_344" model="res.university">
+        <field name="name">Polytechnic College of Ayagoza</field>
+    </record>
+    <record id="res_university_345" model="res.university">
+        <field name="name">Polytechnic College Nukus</field>
+    </record>
+    <record id="res_university_346" model="res.university">
+        <field name="name">Caspian Modern College</field>
+    </record>
+    <record id="res_university_347" model="res.university">
+        <field name="name">Caspian Modern College</field>
+    </record>
+    <record id="res_university_348" model="res.university">
+        <field name="name">Vocational school No. 2, Dossor village</field>
+    </record>
+    <record id="res_university_349" model="res.university">
+        <field name="name">Professional Lyceum No. 2, Atyrau</field>
+    </record>
+    <record id="res_university_350" model="res.university">
+        <field name="name">Professional Lyceum No. 6</field>
+    </record>
+    <record id="res_university_351" model="res.university">
+        <field name="name">Professional Lyceum No. 8</field>
+    </record>
+    <record id="res_university_352" model="res.university">
+        <field name="name">Professional school No. 16 of the West Kazakhstan region</field>
+    </record>
+    <record id="res_university_353" model="res.university">
+        <field name="name">Vocational School No. 4, Uralsk</field>
+    </record>
+    <record id="res_university_354" model="res.university">
+        <field name="name">Vocational School No. 6</field>
+    </record>
+    <record id="res_university_355" model="res.university">
+        <field name="name">Vocational school No. 8 of Tolebi district</field>
+    </record>
+    <record id="res_university_356" model="res.university">
+        <field name="name">Vocational School No. 1 of Atyrau</field>
+    </record>
+    <record id="res_university_357" model="res.university">
+        <field name="name">Professional school №1, Uralsk</field>
+    </record>
+    <record id="res_university_358" model="res.university">
+        <field name="name">Vocational School No. 13</field>
+    </record>
+    <record id="res_university_359" model="res.university">
+        <field name="name">Vocational School No. 13</field>
+    </record>
+    <record id="res_university_360" model="res.university">
+        <field name="name">Vocational school №14 with Chapaevo WKO</field>
+    </record>
+    <record id="res_university_361" model="res.university">
+        <field name="name">Professional school №16 gKentau</field>
+    </record>
+    <record id="res_university_362" model="res.university">
+        <field name="name">Professional school №18 Aktau</field>
+    </record>
+    <record id="res_university_363" model="res.university">
+        <field name="name">Professional school №2 Dossora</field>
+    </record>
+    <record id="res_university_364" model="res.university">
+        <field name="name">Vocational school №3 in Atyrau</field>
+    </record>
+    <record id="res_university_365" model="res.university">
+        <field name="name">Vocational school No. 3 of Zhalagash district, Kyzylorda region</field>
+    </record>
+    <record id="res_university_366" model="res.university">
+        <field name="name">Vocational School No. 5 in Zhanatas</field>
+    </record>
+    <record id="res_university_367" model="res.university">
+        <field name="name">Vocational school №5 p.Inderborsky</field>
+    </record>
+    <record id="res_university_368" model="res.university">
+        <field name="name">Vocational School No. 6 in Taraz</field>
+    </record>
+    <record id="res_university_369" model="res.university">
+        <field name="name">Vocational school №7 in Almaty</field>
+    </record>
+    <record id="res_university_370" model="res.university">
+        <field name="name">Vocational School No. 7 in Atyrau</field>
+    </record>
+    <record id="res_university_371" model="res.university">
+        <field name="name">Vocational School No. 9 in Atyrau</field>
+    </record>
+    <record id="res_university_372" model="res.university">
+        <field name="name">Vocational technical school No. 7 of Atyrau</field>
+    </record>
+    <record id="res_university_373" model="res.university">
+        <field name="name">Vocational school No. 229, Magnitogorsk, Chelyabinsk region</field>
+    </record>
+    <record id="res_university_374" model="res.university">
+        <field name="name">Vocational school №3 in Atyrau</field>
+    </record>
+    <record id="res_university_375" model="res.university">
+        <field name="name">Vocational-technical lyceum № 1 gAtyrau</field>
+    </record>
+    <record id="res_university_376" model="res.university">
+        <field name="name">Vocational-technical lyceum №6 Aktau</field>
+    </record>
+    <record id="res_university_377" model="res.university">
+        <field name="name">Vocational-technical lyceum of Khromtau</field>
+    </record>
+    <record id="res_university_378" model="res.university">
+        <field name="name">Vocational school No. 13 in Guryev</field>
+    </record>
+    <record id="res_university_379" model="res.university">
+        <field name="name">Vocational school No. 1, Aktyubinsk</field>
+    </record>
+    <record id="res_university_380" model="res.university">
+        <field name="name">Vocational School No. 11</field>
+    </record>
+    <record id="res_university_381" model="res.university">
+        <field name="name">Vocational school No. 11, Orenburg</field>
+    </record>
+    <record id="res_university_382" model="res.university">
+        <field name="name">Vocational school No. 1 of Sarkand</field>
+    </record>
+    <record id="res_university_383" model="res.university">
+        <field name="name">Vocational school No. 1, Atyrau</field>
+    </record>
+    <record id="res_university_384" model="res.university">
+        <field name="name">Vocational school №1 Guryev</field>
+    </record>
+    <record id="res_university_385" model="res.university">
+        <field name="name">Vocational school No. 7, Lenger</field>
+    </record>
+    <record id="res_university_386" model="res.university">
+        <field name="name">Vocational school No. 8 in Aktobe</field>
+    </record>
+    <record id="res_university_387" model="res.university">
+        <field name="name">Professional Lyceum No. 6</field>
+    </record>
+    <record id="res_university_388" model="res.university">
+        <field name="name">Professional Lyceum No. 2</field>
+    </record>
+    <record id="res_university_389" model="res.university">
+        <field name="name">Professional Lyceum No. 4 of Atyrau</field>
+    </record>
+    <record id="res_university_390" model="res.university">
+        <field name="name">Professional Lyceum No. 6</field>
+    </record>
+    <record id="res_university_391" model="res.university">
+        <field name="name">Professional Lyceum No. 6 of Atyrau</field>
+    </record>
+    <record id="res_university_392" model="res.university">
+        <field name="name">Professional Lyceum No. 7</field>
+    </record>
+    <record id="res_university_393" model="res.university">
+        <field name="name">Professional Lyceum No. 7 of Atyrau</field>
+    </record>
+    <record id="res_university_394" model="res.university">
+        <field name="name">Professional Lyceum No. 9 of the Tolebi district</field>
+    </record>
+    <record id="res_university_395" model="res.university">
+        <field name="name">Professional Lyceum №1 in Aktau</field>
+    </record>
+    <record id="res_university_396" model="res.university">
+        <field name="name">Professional Lyceum №1 in Aktobe</field>
+    </record>
+    <record id="res_university_397" model="res.university">
+        <field name="name">Professional Lyceum No. 1 of Atyrau</field>
+    </record>
+    <record id="res_university_398" model="res.university">
+        <field name="name">Professional Lyceum №1, Taraz</field>
+    </record>
+    <record id="res_university_399" model="res.university">
+        <field name="name">Professional Lyceum №10</field>
+    </record>
+    <record id="res_university_400" model="res.university">
+        <field name="name">Professional Lyceum №12</field>
+    </record>
+    <record id="res_university_401" model="res.university">
+        <field name="name">Professional Lyceum №12, Atyrau</field>
+    </record>
+    <record id="res_university_402" model="res.university">
+        <field name="name">Professional Lyceum №12 in Taraz</field>
+    </record>
+    <record id="res_university_403" model="res.university">
+        <field name="name">Professional Lyceum №12, Uralsk</field>
+    </record>
+    <record id="res_university_404" model="res.university">
+        <field name="name">Professional Lyceum №12 Guralsk</field>
+    </record>
+    <record id="res_university_405" model="res.university">
+        <field name="name">Professional Lyceum №2, Atyrau</field>
+    </record>
+    <record id="res_university_406" model="res.university">
+        <field name="name">Professional Lyceum №2 Karatau</field>
+    </record>
+    <record id="res_university_407" model="res.university">
+        <field name="name">Professional Lyceum №4</field>
+    </record>
+    <record id="res_university_408" model="res.university">
+        <field name="name">Professional lyceum №4 in Almaty</field>
+    </record>
+    <record id="res_university_409" model="res.university">
+        <field name="name">Professional Lyceum №5 Dossor settlement</field>
+    </record>
+    <record id="res_university_410" model="res.university">
+        <field name="name">Professional Lyceum No. 6 of Atyrau</field>
+    </record>
+    <record id="res_university_411" model="res.university">
+        <field name="name">Professional Lyceum No. 6 in Taraz</field>
+    </record>
+    <record id="res_university_412" model="res.university">
+        <field name="name">Professional Lyceum №7</field>
+    </record>
+    <record id="res_university_413" model="res.university">
+        <field name="name">Professional Lyceum №7 Atyrau</field>
+    </record>
+    <record id="res_university_414" model="res.university">
+        <field name="name">Professional Lyceum No. 7 of Atyrau</field>
+    </record>
+    <record id="res_university_415" model="res.university">
+        <field name="name">Professional Lyceum №8 Kandyagash</field>
+    </record>
+    <record id="res_university_416" model="res.university">
+        <field name="name">Professional Lyceum No. 8 of Inder settlement</field>
+    </record>
+    <record id="res_university_417" model="res.university">
+        <field name="name">Professional Lyceum №9 in Kulsary</field>
+    </record>
+    <record id="res_university_418" model="res.university">
+        <field name="name">Professional Lyceum Beshkainar</field>
+    </record>
+    <record id="res_university_419" model="res.university">
+        <field name="name">Professional Lyceum of Zhanatas</field>
+    </record>
+    <record id="res_university_420" model="res.university">
+        <field name="name">Professional Lyceum №2</field>
+    </record>
+    <record id="res_university_421" model="res.university">
+        <field name="name">Professional Lyceum No. 6, Atyrau</field>
+    </record>
+    <record id="res_university_422" model="res.university">
+        <field name="name">Vocational school № 3</field>
+    </record>
+    <record id="res_university_423" model="res.university">
+        <field name="name">Vocational school No. 7 of Atyrau</field>
+    </record>
+    <record id="res_university_424" model="res.university">
+        <field name="name">Vocational school No. 7 in Guryev</field>
+    </record>
+    <record id="res_university_425" model="res.university">
+        <field name="name">Vocational school №4</field>
+    </record>
+    <record id="res_university_426" model="res.university">
+        <field name="name">Vocational School No. 110, Karatau</field>
+    </record>
+    <record id="res_university_427" model="res.university">
+        <field name="name">Vocational school №11, Zhambyl</field>
+    </record>
+    <record id="res_university_428" model="res.university">
+        <field name="name">Vocational school №7 glenger</field>
+    </record>
+    <record id="res_university_429" model="res.university">
+        <field name="name">PTU-021 Pavlodar</field>
+    </record>
+    <record id="res_university_430" model="res.university">
+        <field name="name">PTU-1, Uralsk</field>
+    </record>
+    <record id="res_university_431" model="res.university">
+        <field name="name">PTU-10 of Atyrau region</field>
+    </record>
+    <record id="res_university_432" model="res.university">
+        <field name="name">PTU-16 of the Ural region</field>
+    </record>
+    <record id="res_university_433" model="res.university">
+        <field name="name">PTU-6 Aktau</field>
+    </record>
+    <record id="res_university_434" model="res.university">
+        <field name="name">PTU-8, Atyrau</field>
+    </record>
+    <record id="res_university_435" model="res.university">
+        <field name="name">PTSh No. 1, Uralsk</field>
+    </record>
+    <record id="res_university_436" model="res.university">
+        <field name="name">PTSh No. 102, Dzhambul</field>
+    </record>
+    <record id="res_university_437" model="res.university">
+        <field name="name">PTSh No. 8, Atyrau</field>
+    </record>
+    <record id="res_university_438" model="res.university">
+        <field name="name">PTSh-7 WKO Chingirlau</field>
+    </record>
+    <record id="res_university_439" model="res.university">
+        <field name="name">PS №7 Almaty</field>
+    </record>
+    <record id="res_university_440" model="res.university">
+        <field name="name">PS No. 7 Makhambet district</field>
+    </record>
+    <record id="res_university_441" model="res.university">
+        <field name="name">Pyatigorsk State Linguistic University</field>
+    </record>
+    <record id="res_university_442" model="res.university">
+        <field name="name">Republican Scientific and Methodological Development Center</field>
+    </record>
+    <record id="res_university_443" model="res.university">
+        <field name="name">Russian State University of Oil and Gas named after I.M. Gubkin in Orenburg</field>
+    </record>
+    <record id="res_university_444" model="res.university">
+        <field name="name">Rostov Law Institute</field>
+    </record>
+    <record id="res_university_445" model="res.university">
+        <field name="name">Rudny Industrial Institute</field>
+    </record>
+    <record id="res_university_446" model="res.university">
+        <field name="name">Rudny Polytechnic College (state)</field>
+    </record>
+    <record id="res_university_447" model="res.university">
+        <field name="name">Rybinsk State Aviation Technical University named after P. A. Solovyov</field>
+    </record>
+    <record id="res_university_448" model="res.university">
+        <field name="name">Sagiz vocational school №8</field>
+    </record>
+    <record id="res_university_449" model="res.university">
+        <field name="name">Samara State Technical University</field>
+    </record>
+    <record id="res_university_450" model="res.university">
+        <field name="name">Saratov State Technical University</field>
+    </record>
+    <record id="res_university_451" model="res.university">
+        <field name="name">Saratov Construction College of Transport Construction</field>
+    </record>
+    <record id="res_university_452" model="res.university">
+        <field name="name">Sarykol College of Agribusiness and Law</field>
+    </record>
+    <record id="res_university_453" model="res.university">
+        <field name="name">Semipalatinsk Law College of the Ministry of Internal Affairs of the Republic of Kazakhstan</field>
+    </record>
+    <record id="res_university_454" model="res.university">
+        <field name="name">Modern Humanitarian Academy</field>
+    </record>
+    <record id="res_university_455" model="res.university">
+        <field name="name">Modern Humanitarian Institute, Moscow</field>
+    </record>
+    <record id="res_university_456" model="res.university">
+        <field name="name">SPGU Semipalatinsk</field>
+    </record>
+    <record id="res_university_457" model="res.university">
+        <field name="name">SPTU - 21 Taranovsky</field>
+    </record>
+    <record id="res_university_458" model="res.university">
+        <field name="name">SPTU №1 Gatyrau</field>
+    </record>
+    <record id="res_university_459" model="res.university">
+        <field name="name">SPTU No. 6, Atyrau</field>
+    </record>
+    <record id="res_university_460" model="res.university">
+        <field name="name">SPTU-12, Uralsk</field>
+    </record>
+    <record id="res_university_461" model="res.university">
+        <field name="name">SPTU-19 Kuibyshev</field>
+    </record>
+    <record id="res_university_462" model="res.university">
+        <field name="name">SPTU-4 Taldykurgan</field>
+    </record>
+    <record id="res_university_463" model="res.university">
+        <field name="name">SPTU-52</field>
+    </record>
+    <record id="res_university_464" model="res.university">
+        <field name="name">SPTU-52 Saratov</field>
+    </record>
+    <record id="res_university_465" model="res.university">
+        <field name="name">SPTU-7 Atyrau</field>
+    </record>
+    <record id="res_university_466" model="res.university">
+        <field name="name">SPTU-9</field>
+    </record>
+    <record id="res_university_467" model="res.university">
+        <field name="name">SPTU-91 Makhambet district</field>
+    </record>
+    <record id="res_university_468" model="res.university">
+        <field name="name">Secondary vocational technical school No. 7 of Zhambyl</field>
+    </record>
+    <record id="res_university_469" model="res.university">
+        <field name="name">Secondary vocational school No. 3 of Guryev</field>
+    </record>
+    <record id="res_university_470" model="res.university">
+        <field name="name">Secondary vocational school No. 8</field>
+    </record>
+    <record id="res_university_471" model="res.university">
+        <field name="name">Secondary vocational school No. 11 in Guryev</field>
+    </record>
+    <record id="res_university_472" model="res.university">
+        <field name="name">Secondary vocational school No. 11 of Dzhambul</field>
+    </record>
+    <record id="res_university_473" model="res.university">
+        <field name="name">Secondary vocational school No. 4, Guryev, Kaz.SSR</field>
+    </record>
+    <record id="res_university_474" model="res.university">
+        <field name="name">Secondary specialized school</field>
+    </record>
+    <record id="res_university_475" model="res.university">
+        <field name="name">High school</field>
+    </record>
+    <record id="res_university_476" model="res.university">
+        <field name="name">Taipak College</field>
+    </record>
+    <record id="res_university_477" model="res.university">
+        <field name="name">Talgar College of Agricultural Mechanization</field>
+    </record>
+    <record id="res_university_478" model="res.university">
+        <field name="name">Taldy-Kurgan Industrial Pedagogical College</field>
+    </record>
+    <record id="res_university_479" model="res.university">
+        <field name="name">Taldykurgan medical school</field>
+    </record>
+    <record id="res_university_480" model="res.university">
+        <field name="name">Taraz State University named after M.Kh.Dulati</field>
+    </record>
+    <record id="res_university_481" model="res.university">
+        <field name="name">Taraz Innovation and Humanities University</field>
+    </record>
+    <record id="res_university_482" model="res.university">
+        <field name="name">Taraz College "Parasat"</field>
+    </record>
+    <record id="res_university_483" model="res.university">
+        <field name="name">Taraz College of Technology and Business</field>
+    </record>
+    <record id="res_university_484" model="res.university">
+        <field name="name">Taraz Polytechnic College</field>
+    </record>
+    <record id="res_university_485" model="res.university">
+        <field name="name">Taraz Technical Institute</field>
+    </record>
+    <record id="res_university_486" model="res.university">
+        <field name="name">Taraz branch of the State Enterprise Military Technical School</field>
+    </record>
+    <record id="res_university_487" model="res.university">
+        <field name="name">Tashkent Order of Friendship of Peoples Polytechnic Institute named after A.R. Beruni</field>
+    </record>
+    <record id="res_university_488" model="res.university">
+        <field name="name">Tashkent College of Railway Transport</field>
+    </record>
+    <record id="res_university_489" model="res.university">
+        <field name="name">Branch of technical education development and vocational education in RK</field>
+    </record>
+    <record id="res_university_490" model="res.university">
+        <field name="name">Techno-Economic College of KInEU named after M. Dulati</field>
+    </record>
+    <record id="res_university_491" model="res.university">
+        <field name="name">Technical School No. 9 Guryev</field>
+    </record>
+    <record id="res_university_492" model="res.university">
+        <field name="name">Technical School No. 1, Frunze</field>
+    </record>
+    <record id="res_university_493" model="res.university">
+        <field name="name">Technical School No. 1 of Astrakhan</field>
+    </record>
+    <record id="res_university_494" model="res.university">
+        <field name="name">Technical school №24, Uralsk</field>
+    </record>
+    <record id="res_university_495" model="res.university">
+        <field name="name">Tolebi professional school № 8</field>
+    </record>
+    <record id="res_university_496" model="res.university">
+        <field name="name">Tomsk State University of Architecture and Civil Engineering</field>
+    </record>
+    <record id="res_university_497" model="res.university">
+        <field name="name">Tomsk State University of Systems and Radioelectronics</field>
+    </record>
+    <record id="res_university_498" model="res.university">
+        <field name="name">Tomsk Polytechnic University</field>
+    </record>
+    <record id="res_university_499" model="res.university">
+        <field name="name">LLP "Higher Technical School "APEC Petroechnic"</field>
+    </record>
+    <record id="res_university_500" model="res.university">
+        <field name="name">LLP "NK-Center-Retraining of Personnel" ZHShS</field>
+    </record>
+    <record id="res_university_501" model="res.university">
+        <field name="name">LLP "PVASS Nur kutkarushysy"</field>
+    </record>
+    <record id="res_university_502" model="res.university">
+        <field name="name">Torgai Humanitarian College</field>
+    </record>
+    <record id="res_university_503" model="res.university">
+        <field name="name">Turkestan City Vocational School No. 21</field>
+    </record>
+    <record id="res_university_504" model="res.university">
+        <field name="name">Turkestan Industrial Pedagogical College of Vocational Education</field>
+    </record>
+    <record id="res_university_505" model="res.university">
+        <field name="name">Turkestan branch of the Kazakh Academy of Labor of Social Relations</field>
+    </record>
+    <record id="res_university_506" model="res.university">
+        <field name="name">Tulkubas College of Agribusiness and Tourism</field>
+    </record>
+    <record id="res_university_507" model="res.university">
+        <field name="name">Tyumen Construction College</field>
+    </record>
+    <record id="res_university_508" model="res.university">
+        <field name="name">University "Auliye-Ata"</field>
+    </record>
+    <record id="res_university_509" model="res.university">
+        <field name="name">University "Kainar"</field>
+    </record>
+    <record id="res_university_510" model="res.university">
+        <field name="name">University "Kainar"</field>
+    </record>
+    <record id="res_university_511" model="res.university">
+        <field name="name">Miras University</field>
+    </record>
+    <record id="res_university_512" model="res.university">
+        <field name="name">University "Turan"</field>
+    </record>
+    <record id="res_university_513" model="res.university">
+        <field name="name">University of Brasov Socialist Republic of Romania</field>
+    </record>
+    <record id="res_university_514" model="res.university">
+        <field name="name">Peoples' Friendship University named after academician A. Kuatbekov</field>
+    </record>
+    <record id="res_university_515" model="res.university">
+        <field name="name">University of International Business named after Kenzhegali Sagadiev</field>
+    </record>
+    <record id="res_university_516" model="res.university">
+        <field name="name">University of Sheffield</field>
+    </record>
+    <record id="res_university_517" model="res.university">
+        <field name="name">Ural College of Oil, Gas and Industry Technologies</field>
+    </record>
+    <record id="res_university_518" model="res.university">
+        <field name="name">Ural Pedagogical College</field>
+    </record>
+    <record id="res_university_519" model="res.university">
+        <field name="name">Ural Polytechnic College</field>
+    </record>
+    <record id="res_university_520" model="res.university">
+        <field name="name">Ural College of Agricultural Mechanization</field>
+    </record>
+    <record id="res_university_521" model="res.university">
+        <field name="name">Ural Technical Institute "Amanat"</field>
+    </record>
+    <record id="res_university_522" model="res.university">
+        <field name="name">Ufa State Oil University</field>
+    </record>
+    <record id="res_university_523" model="res.university">
+        <field name="name">Training and course combine</field>
+    </record>
+    <record id="res_university_524" model="res.university">
+        <field name="name">Training and production plant "Stroitel"</field>
+    </record>
+    <record id="res_university_525" model="res.university">
+        <field name="name">Training center of the State Statistics Committee of Turkmenistan</field>
+    </record>
+    <record id="res_university_526" model="res.university">
+        <field name="name">Training center "IQ Group"</field>
+    </record>
+    <record id="res_university_527" model="res.university">
+        <field name="name">Training Center "Yellow Pages"</field>
+    </record>
+    <record id="res_university_528" model="res.university">
+        <field name="name">Training center "Kazakhstan Bolashagy" Aktobe</field>
+    </record>
+    <record id="res_university_529" model="res.university">
+        <field name="name">Training center "Capital"</field>
+    </record>
+    <record id="res_university_530" model="res.university">
+        <field name="name">Miras Training Center</field>
+    </record>
+    <record id="res_university_531" model="res.university">
+        <field name="name">Miras Training Center</field>
+    </record>
+    <record id="res_university_532" model="res.university">
+        <field name="name">Munaishi Training Center</field>
+    </record>
+    <record id="res_university_533" model="res.university">
+        <field name="name">Training center "SAK" Shymkent</field>
+    </record>
+    <record id="res_university_534" model="res.university">
+        <field name="name">Training center "SALUS"</field>
+    </record>
+    <record id="res_university_535" model="res.university">
+        <field name="name">Training center "Builder"</field>
+    </record>
+    <record id="res_university_536" model="res.university">
+        <field name="name">Training center "Technoservice"</field>
+    </record>
+    <record id="res_university_537" model="res.university">
+        <field name="name">Training center DPO "Energetik"</field>
+    </record>
+    <record id="res_university_538" model="res.university">
+        <field name="name">Training center IP "Kabdelova R. Sh."</field>
+    </record>
+    <record id="res_university_539" model="res.university">
+        <field name="name">Vocational Education Training Center Yellow Pages 2</field>
+    </record>
+    <record id="res_university_540" model="res.university">
+        <field name="name">Training center LLP "Daryn"</field>
+    </record>
+    <record id="res_university_541" model="res.university">
+        <field name="name">Institution Academy "Kokshe" coolage</field>
+    </record>
+    <record id="res_university_542" model="res.university">
+        <field name="name">Institution Academy "Kokshe" College</field>
+    </record>
+    <record id="res_university_543" model="res.university">
+        <field name="name">Financial and Economic College of Aktobe</field>
+    </record>
+    <record id="res_university_544" model="res.university">
+        <field name="name">Central Asian University</field>
+    </record>
+    <record id="res_university_545" model="res.university">
+        <field name="name">Chelyabinsk Assembly College</field>
+    </record>
+    <record id="res_university_546" model="res.university">
+        <field name="name">Chelyabinsk Polytechnic College</field>
+    </record>
+    <record id="res_university_547" model="res.university">
+        <field name="name">Shymkent Automechanical College</field>
+    </record>
+    <record id="res_university_548" model="res.university">
+        <field name="name">Chimkent Irrigation and Construction College</field>
+    </record>
+    <record id="res_university_549" model="res.university">
+        <field name="name">Chimkent Energy College</field>
+    </record>
+    <record id="res_university_550" model="res.university">
+        <field name="name">Shalkar Agrotechnical College</field>
+    </record>
+    <record id="res_university_551" model="res.university">
+        <field name="name">Shalkar professional lyceum №11</field>
+    </record>
+    <record id="res_university_552" model="res.university">
+        <field name="name">Shakhty Technological College</field>
+    </record>
+    <record id="res_university_553" model="res.university">
+        <field name="name">Shielinsky Industrial and Agrarian College</field>
+    </record>
+    <record id="res_university_554" model="res.university">
+        <field name="name">Shielinsky professional lyceum №11</field>
+    </record>
+    <record id="res_university_555" model="res.university">
+        <field name="name">Aksyonov School of Business, Kursk, Russia</field>
+    </record>
+    <record id="res_university_556" model="res.university">
+        <field name="name">Shymkent Agrarian College</field>
+    </record>
+    <record id="res_university_557" model="res.university">
+        <field name="name">Shymkent Agrotechnical College</field>
+    </record>
+    <record id="res_university_558" model="res.university">
+        <field name="name">Shymkent College of Economics and Law</field>
+    </record>
+    <record id="res_university_559" model="res.university">
+        <field name="name">Shymkent College of Energy and Business</field>
+    </record>
+    <record id="res_university_560" model="res.university">
+        <field name="name">Shymkent Pedagogical Institute of Physical Culture</field>
+    </record>
+    <record id="res_university_561" model="res.university">
+        <field name="name">Shymkent Transport College KazATK named after Tynyshpaev</field>
+    </record>
+    <record id="res_university_562" model="res.university">
+        <field name="name">Shymkent University</field>
+    </record>
+    <record id="res_university_563" model="res.university">
+        <field name="name">Shymkent Energy College</field>
+    </record>
+    <record id="res_university_564" model="res.university">
+        <field name="name">Shymkent SPTU-3</field>
+    </record>
+    <record id="res_university_565" model="res.university">
+        <field name="name">Ekibastuz Engineering and Technical Institute named after Academician Satpayev</field>
+    </record>
+    <record id="res_university_566" model="res.university">
+        <field name="name">Ekibastuz College No. 4</field>
+    </record>
+    <record id="res_university_567" model="res.university">
+        <field name="name">Ekibastuz professional lyceum № 4</field>
+    </record>
+    <record id="res_university_568" model="res.university">
+        <field name="name">Economic and Financial Business College, Moscow</field>
+    </record>
+    <record id="res_university_569" model="res.university">
+        <field name="name">South Kazakhstan State University. M. Auezov</field>
+    </record>
+    <record id="res_university_570" model="res.university">
+        <field name="name">South Kazakhstan Humanitarian University</field>
+    </record>
+    <record id="res_university_571" model="res.university">
+        <field name="name">South Kazakhstan College of Law and Industry Technologies</field>
+    </record>
+    <record id="res_university_572" model="res.university">
+        <field name="name">South Kazakhstan Polytechnic College</field>
+    </record>
+    <record id="res_university_573" model="res.university">
+        <field name="name">South Kazakhstan Economics and Technology College "Miras"</field>
+    </record>
+    <record id="res_university_574" model="res.university">
+        <field name="name">South Ural State University</field>
+    </record>
+</odoo>

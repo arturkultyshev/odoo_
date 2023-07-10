@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="hr_contract_extended_tree_view" model="ir.ui.view">
+        <field name="name">hr.contract.extended.tree.view</field>
+        <field name="model">hr.contract</field>
+        <field name="inherit_id" ref="hr_contract.hr_contract_view_tree"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='date_end']" position="after">
+                <field name="previous_contract_id"/>
+                <field name="contract_type"/>
+                <field name="employment_type"/>
+            </xpath>
+            <xpath expr="//field[@name='resource_calendar_id']" position="before">
+                <field name="work_schedule_type"/>
+            </xpath>
+            <xpath expr="//field[@name='resource_calendar_id']" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </xpath>
+        </field>
+    </record>
+    <record id="hr_contract_history__extended_view" model="ir.ui.view">
+        <field name="name">hr.contract.history.extended.view</field>
+        <field name="model">hr.contract.history</field>
+        <field name="inherit_id" ref="hr_contract.hr_contract_history_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='date_end']" position="after">
+                <field name="contract_type"/>
+            </xpath>
+            <xpath expr="//tree/field[@name='resource_calendar_id']" position="before">
+                <field name="work_schedule_type"/>
+            </xpath>
+            <xpath expr="//tree/field[@name='resource_calendar_id']" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </xpath>
+        </field>
+
+    </record>
+
+    <record id="hr_contract_extended_form_view" model="ir.ui.view">
+        <field name="name">hr.contract.extend.form.view</field>
+        <field name="model">hr.contract</field>
+        <field name="inherit_id" ref="hr_contract.hr_contract_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='date_end']" position="after">
+                <field name="contract_type"/>
+                <field name="employment_type"/>
+                <field name="contract_concluded"/>
+                <field name="work_schedule_type"/>
+                <field name="working_rest_time"/>
+                <field name="probationary_period"/>
+                <field name="probationary_period_end_date"/>
+            </xpath>
+            <xpath expr="//field[@name='department_id']" position="after">
+                <field name="location"/>
+            </xpath>
+             <!-- <xpath expr="//field[@name='date_end']" position="attributes">
+                <attribute name="invisible">1</attribute>
+             </xpath> -->
+            <xpath expr="//group[@name='salary_info']" position="before">
+                <group>
+                    <field name="tariff_category"/>
+                </group>
+            </xpath>
+            <xpath expr="//page[@name='information']" position="inside">
+                <group>
+                    <field name="payment_type"/>
+                    <field name="work_rate"/>
+                    <field name="surcharge"/>
+                </group>
+            </xpath>
+            <xpath expr="//field[@name='employee_id']" position="before">
+                <field name="order_number"/>
+            </xpath>
+            <xpath expr="//field[@name='structure_type_id']" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </xpath>
+            <xpath expr="//field[@name='contract_type_id']" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </xpath>
+            <xpath expr="//label[@for='wage']" position="before">
+                <label for="hourly_wage" attrs="{'invisible': [('tariff_category', '!=', 'tariff')]}"/>
+                <div class="o_row" name="hourly_wage" attrs="{'invisible': [('tariff_category', '!=', 'tariff')]}">
+                    <field name="hourly_wage" nolabel="1"/>
+                    <span>/ hour</span>
+                </div>
+            </xpath>
+            <xpath expr="//label[@for='wage']" position="attributes">
+                <attribute name="attrs">{'invisible': [('tariff_category', '=', 'tariff')]}</attribute>
+            </xpath>
+            <xpath expr="//div[@name='wage']" position="attributes">
+                <attribute name="attrs">{'invisible': [('tariff_category', '=', 'tariff')]}</attribute>
+            </xpath>
+            <xpath expr="//field[@name='hr_responsible_id']" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </xpath>
+            </field>
+    </record>
+</odoo>

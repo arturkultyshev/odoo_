@@ -1,0 +1,14 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hr_employee_family_member_user,hr.employee.family_member.user,model_hr_employee_family_member,base.group_user,1,1,1,1
+access_hr_employee_personal_document_user,hr.employee.personal_document.user,model_hr_employee_personal_document,base.group_user,1,1,1,1
+access_hr_employee_professional_certificate_user,hr.employee.professional_certificate.user,model_hr_employee_professional_certificate,base.group_user,1,1,1,1
+hr_employee_extended_profile.access_hr_resume_line,access_hr_resume_line,hr_employee_extended_profile.model_hr_resume_line,base.group_user,1,1,1,1
+access_work_rest_model,access_work_rest_model,model_work_rest_model,base.group_user,1,1,1,1
+access_hr_employee_language_user,access_hr_employee_language.user,model_hr_employee_language,base.group_user,1,1,1,1
+access_hr_language_user,access_hr_language.user,model_hr_language,base.group_user,1,1,1,1
+access_hr_language_level_user,access_hr_language_level.user,model_hr_language_level,base.group_user,1,1,1,1
+access_hr_employee_nationality_user,access_hr_employee_nationality.user,model_hr_employee_nationality,base.group_user,1,1,1,1
+access_hr_employee_veteran_status_user,access_hr_employee_veteran_status.user,model_hr_employee_veteran_status,base.group_user,1,1,1,1
+access_hr_employee_pension_nofitication_cron_job_user,access_hr_employee_pension_nofitication_cron_job.user,model_hr_employee_pension_nofitication_cron_job,base.group_user,1,1,1,1
+access_payment_type,access_payment_type,model_payment_type,base.group_user,1,1,1,1
+access_res_locality_user,access_res_locality.user,model_res_locality,base.group_user,1,1,1,1

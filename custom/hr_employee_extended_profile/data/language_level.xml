@@ -1,0 +1,14 @@
+<odoo noupdate="1">
+    <record id="language_level_one" model="hr.language.level">
+        <field name="name">Fluent</field>
+    </record>
+    <record id="language_level_two" model="hr.language.level">
+        <field name="name">Native</field>
+    </record>
+    <record id="language_level_three" model="hr.language.level">
+        <field name="name">Reads and can explain</field>
+    </record>
+    <record id="language_level_four" model="hr.language.level">
+        <field name="name">Read and translates with dictionary</field>
+    </record>
+</odoo>

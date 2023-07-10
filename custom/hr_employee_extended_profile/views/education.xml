@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<odoo>
+  <record id="employee_professional_certificate_inherit" model="ir.ui.view">
+    <field name="name">hr.employee.professional_certificate.inherit</field>
+    <field name="model">hr.employee</field>
+    <field name="inherit_id" ref="hr.view_employee_form"/>
+
+    <field name="arch" type="xml">
+      <xpath expr="//page[@name='hr_settings']" position="after">
+        <page name="hr_education" string="Education" groups="hr.group_hr_user">
+          <group string="Certificates">
+            <field name="professional_certification_ids">
+              <kanban class="o_kanban_mobile">
+                <templates>
+                    <t t-name="kanban-box">
+                      <div class="oe_kanban_content oe_kanban_global_click">
+                        <div class="col">
+                          <div class="row">
+                            <p>Qualification: </p>
+                            <field name="qualification"/>
+                          </div>
+                          <div class="row">
+                            <p>Badge Training: </p>
+                            <field name="badge_training"/>
+                          </div>
+                           <div class="row">
+                            <p>Date Passed: </p>
+                            <field name="date_passed"/>
+                          </div>
+                          <div class="row">
+                            <p>TCO certification: </p>
+                            <field name="tco_certification"/>
+                          </div>
+                          <div class="row">
+                            <p>Certificate scan: </p>
+                            <field name="certificate_scan"/>
+                          </div>
+                        </div>
+                      </div>
+                    </t>
+                </templates>
+              </kanban>
+            </field>
+
+            <field name="language_ids">
+              <kanban class="o_kanban_mobile">
+                <templates>
+                    <t t-name="kanban-box">
+                      <div class="oe_kanban_content oe_kanban_global_click">
+                        <div class="col">
+                          <div class="row">
+                            <p>Language: </p>
+                            <field name="language"/>
+                          </div>
+                          <div class="row">
+                            <p>Language level: </p>
+                            <field name="language_level"/>
+                          </div>
+                        </div>
+                      </div>
+                    </t>
+                </templates>
+              </kanban>
+            </field>
+
+            <field name="computer_skills" />
+
+          </group>
+        </page>
+      </xpath>
+    </field>
+  </record>
+</odoo>

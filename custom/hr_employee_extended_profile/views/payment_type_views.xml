@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="payment_type_view_tree" model="ir.ui.view">
+        <field name="name">payment.type.view.tree</field>
+        <field name="model">payment.type</field>
+        <field name="arch" type="xml">
+            <tree editable="bottom">
+                <field name="name"/>
+            </tree>
+        </field>
+    </record>
+    <record id="payment_type_view_form" model="ir.ui.view">
+        <field name="name">payment.type.view.form</field>
+        <field name="model">payment.type</field>
+        <field name="arch" type="xml">
+            <form string="Payment types">
+                <sheet>
+                    <group>
+                        <field name="name"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="payment_type_action" model="ir.actions.act_window">
+        <field name="name">Payment Type</field>
+        <field name="res_model">payment.type</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+</odoo>

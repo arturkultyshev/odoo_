@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="payment_type_1" model="payment.type">
+        <field name="code">monthly_salary</field>
+        <field name="name">Monthly salary</field>
+    </record>
+    <record id="payment_type_2" model="payment.type">
+        <field name="code">hourly_salary</field>
+        <field name="name">Hourly salary</field>
+    </record>
+    <record id="payment_type_3" model="payment.type">
+        <field name="name">Payment by hourly rate</field>
+    </record>
+    <record id="payment_type_5" model="payment.type">
+        <field name="name">Income not taxed at the source of payment</field>
+    </record>
+    <record id="payment_type_6" model="payment.type">
+        <field name="name">Compensation for business trips</field>
+    </record>
+    <record id="payment_type_7" model="payment.type">
+        <field name="name">Vacation compensation</field>
+    </record>
+    <record id="payment_type_8" model="payment.type">
+        <field name="name">Retirement leave compensation</field>
+    </record>
+    <record id="payment_type_9" model="payment.type">
+        <field name="name">Salary from reverse</field>
+    </record>
+    <record id="payment_type_10" model="payment.type">
+        <field name="name">Reverse salary by day</field>
+    </record>
+    <record id="payment_type_11" model="payment.type">
+        <field name="name">Reverse salary by the hour</field>
+    </record>
+    <record id="payment_type_12" model="payment.type">
+        <field name="name">Payment for sick leave</field>
+    </record>
+    <record id="payment_type_13" model="payment.type">
+        <field name="name">Vacation pay</field>
+    </record>
+    <record id="payment_type_14" model="payment.type">
+        <field name="name">Other income taxable at source</field>
+    </record>
+    <record id="payment_type_15" model="payment.type">
+        <field name="name">Surcharge for work on holidays and weekends (night time)</field>
+    </record>
+    <record id="payment_type_16" model="payment.type">
+        <field name="name">Surcharge for work on holidays and weekends (daytime)</field>
+    </record>
+    <record id="payment_type_17" model="payment.type">
+        <field name="name">Overtime pay</field>
+    </record>
+    <record id="payment_type_18" model="payment.type">
+        <field name="name">Night work surcharge</field>
+    </record>
+    <record id="payment_type_19" model="payment.type">
+        <field name="name">Overtime pay without increased pay</field>
+    </record>
+    <record id="payment_type_20" model="payment.type">
+        <field name="name">Payment for work on holidays and weekends without increased pay</field>
+    </record>
+    <record id="payment_type_21" model="payment.type">
+        <field name="name">Payment for work on holidays and weekends</field>
+    </record>
+    <record id="payment_type_22" model="payment.type">
+        <field name="name">Piecework earnings (for those working on an hourly rate)</field>
+    </record>
+    <record id="payment_type_23" model="payment.type">
+        <field name="name">Piecework (for salaried employees)</field>
+    </record>
+    <record id="payment_type_24" model="payment.type">
+        <field name="name">Premium for a month</field>
+    </record>
+    <record id="payment_type_25" model="payment.type">
+        <field name="name">Premium for a year</field>
+    </record>
+    <record id="payment_type_26" model="payment.type">
+        <field name="name">One-time premium</field>
+    </record>
+</odoo>

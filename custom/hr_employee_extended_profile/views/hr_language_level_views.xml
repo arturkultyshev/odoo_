@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="hr_language_level_view_tree" model="ir.ui.view">
+        <field name="name">hr.language.level.view.tree</field>
+        <field name="model">hr.language.level</field>
+        <field name="arch" type="xml">
+            <tree editable="bottom">
+                <field name="name"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="hr_language_level_view_form" model="ir.ui.view">
+        <field name="name">hr.language.level.view.form</field>
+        <field name="model">hr.language.level</field>
+        <field name="arch" type="xml">
+            <form string="Language levels">
+                <sheet>
+                    <group>
+                        <field name="name"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="hr_language_level_action" model="ir.actions.act_window">
+        <field name="name">Language levels</field>
+        <field name="res_model">hr.language.level</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+</odoo>

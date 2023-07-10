@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+<!--    Employee list in kanban view-->
+    <record id="hr_employee_view_activity_inherit" model="ir.ui.view">
+        <field name="name">hr.employee.activity</field>
+        <field name="model">hr.employee</field>
+        <field name="inherit_id" ref="hr.hr_kanban_view_employees" />
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='name']" position="replace">
+                <field name="full_name" />
+            </xpath>
+        </field>
+    </record>
+</odoo>

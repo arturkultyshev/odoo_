@@ -1,0 +1,3886 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Employee extended profile\n"
+"Language: kk\n"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule__14/14
+msgid "14/14"
+msgstr "14/14"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule__15/15
+msgid "15/15"
+msgstr "15/15"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__wage25
+msgid "25% of wage"
+msgstr "Жалақының 25%-ы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule__28/28
+msgid "28/28"
+msgstr "28/28"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule__30/30
+msgid "30/30"
+msgstr "30/30"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule__5/2
+msgid "5/2"
+msgstr "5/2"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule__6/1
+msgid "6/1"
+msgstr "6/1"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__wage75
+msgid "75% of wage"
+msgstr "Жалақының 75%-ы"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.hr_contract_extended_form_view
+msgid "<span>/ hour</span>"
+msgstr "<span>/ сағ</span>"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__accounting_category
+msgid "Accounting Category"
+msgstr "Бухгалтерлік есеп категориясы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__accounting_group
+msgid "Accounting Group"
+msgstr "Бухгалтерлік есеп тобы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__accrual
+msgid "Accrual"
+msgstr "Есептеу"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__contract_type__additional
+msgid "Additional"
+msgstr "Қосымша"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Additional Information"
+msgstr "Қосымша Ақпарат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__individual_address_info
+msgid "Address for informing individuals"
+msgstr "Жеке тұлғаларды хабардар етуге арналған мекенжай"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__personnel_type__administrative
+msgid "Administrative"
+msgstr "Әкімшілік"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.constraint,message:hr_employee_extended_profile.constraint_hr_contract_order_number_uniq
+msgid "All order numbers must be unique"
+msgstr "Барлық тапсырыс нөмірлері бірегей болуы керек"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_apartment
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_apartment
+msgid "Apartment"
+msgstr "Пәтер"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__work_arrival_time
+msgid "Arrived at work"
+msgstr "Жұмысқа келді"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_registration_attitude
+msgid "Attitude to military registration"
+msgstr "Әскери тіркеуге деген көзқарас"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_service_attitude
+msgid "Attitude towards military service"
+msgstr "Әскери қызметке деген көзқарас"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__bic
+msgid "BIC"
+msgstr "БИК"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__bachelor
+msgid "Bachelor"
+msgstr "Бакалавр"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__badge_training
+msgid "Badge Training"
+msgstr "Белгілерді оқыту"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Badge Training:"
+msgstr "Белгілерді оқыту:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_bank
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__bank
+msgid "Bank"
+msgstr "Банк"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__name
+msgid "Bank Name"
+msgstr "Банк атауы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_building
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_building
+msgid "Building"
+msgstr "Ғимарат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__card_number
+msgid "Card number"
+msgstr "Карточка нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__certificate_level
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__certificate
+msgid "Certificate Level"
+msgstr "Сертификат деңгейі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__validity_period
+msgid "Certificate Validity Period"
+msgstr "Сертификаттың жарамдылық мерзімі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__certificate_scan
+msgid "Certificate scan"
+msgstr "Сертификатты сканерлеу"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Certificate scan:"
+msgstr "Куәлікті сканерлеу:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__tco_certification
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Certificates"
+msgstr "Сертификаттар"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__work_schedule_type__changing
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule_type__changing
+msgid "Changing"
+msgstr "Ауыспалы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_family_member__relation__child
+msgid "Child"
+msgstr "Бала"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__citizenship
+msgid "Citizenship"
+msgstr "Азаматтық"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_city
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_city
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__birth_city
+msgid "City"
+msgstr "Қала"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__employment_type__combination
+msgid "Combination"
+msgstr "Комбинация"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__company_name
+msgid "Company"
+msgstr "Компания"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_composition
+msgid "Composition (profile)"
+msgstr "Құрамы (профиль)"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__computer_skills
+msgid "Computer skills"
+msgstr "Компьютерлік дағдылар"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__military_service_attitude__conscript
+msgid "Conscript"
+msgstr "Әскери міндетті"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__continuous_experience
+msgid "Continuous experience"
+msgstr "Үздіксіз тәжірибе"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_contract
+msgid "Contract"
+msgstr "Келісімшарт"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__name
+msgid "Contract Reference"
+msgstr "Келісімшарт анықтамасы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__contract_type
+msgid "Contract Type"
+msgstr "Келісімшарт түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_contract_history
+msgid "Contract history"
+msgstr "Келісімшарт тарихы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__study_form__correspondence
+msgid "Correspondence"
+msgstr "Корреспонденция"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_country_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_country_id
+msgid "Country"
+msgstr "Мемлекет"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__create_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__create_uid
+msgid "Created by"
+msgstr "Құрушы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__create_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__create_date
+msgid "Created on"
+msgstr "Құрылған күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__currency_id
+msgid "Currency"
+msgstr "Валюта"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__date_of_birth
+msgid "Date Of Birth"
+msgstr "Туған күні"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Date Passed:"
+msgstr "Өткізілген күні:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__date_start
+msgid "Date Start"
+msgstr "Басталу күні"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_family_inherit
+msgid "Date of birth:"
+msgstr "Туған күні:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__contract_registration_date
+msgid "Date of employment contract registration"
+msgstr "Еңбек шартын тіркеу күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__medical_examination_date
+msgid "Date of medical examination"
+msgstr "Медициналық тексеруден өткен күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__total_day
+msgid "Day"
+msgstr "Күн"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__diploma_number
+msgid "Diploma Number"
+msgstr "Диплом нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__diploma_number_date
+msgid "Diploma Number Date"
+msgstr "Диплом нөмірі күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__diploma_number
+msgid "Diploma number "
+msgstr "Диплом нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__diploma_scan
+msgid "Diploma scan"
+msgstr "Диплом сканы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__employee_type__direct
+msgid "Direct"
+msgstr "Тікелей"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__disability_group
+msgid "Disability Group"
+msgstr "Мүгедектік тобы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__disability_description
+msgid "Disability description"
+msgstr "Мүгедектік сипаттамасы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__display_name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__display_name
+msgid "Display Name"
+msgstr "Көрсетілетін атау"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__study_form__distance
+msgid "Distance"
+msgstr "Қашықтықтан"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_district
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_district
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__birth_district
+msgid "District"
+msgstr "Аудан/қала"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__doctor
+msgid "Doctor"
+msgstr "Дәрігер"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__document_date
+msgid "Document Filling date"
+msgstr "Құжатты толтыру күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__document_number
+msgid "Document Number"
+msgstr "Құжат нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee_personal_document__document_type
+msgid "Document Type"
+msgstr "Құжат түрі"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Document Type:"
+msgstr "Құжат түрі:"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Documents"
+msgstr "Құжаттар"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__education_ids
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Education"
+msgstr "Білім"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employee_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__employee_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__employee_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__employee_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__employee_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__employee_id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__employee_id
+msgid "Employee"
+msgstr "Қызметкер"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__employee_contract_number
+msgid "Employee Contract Number"
+msgstr "Қызметкердің келісімшарт нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employee_type
+msgid "Employee Type"
+msgstr "Қызметкер түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee__monthly_salary
+msgid "Employee's monthly gross wage."
+msgstr "Қызметкердің айлық жалпы жалақысы."
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "Employment Contract"
+msgstr "Еңбек шарты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employment_type
+msgid "Employment Type"
+msgstr "Жұмыс түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employment_contract_number
+msgid "Employment contract conclusion number"
+msgstr "Еңбек шартының жасасу нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employment_contract_start_date
+msgid "Employment contract valid from"
+msgstr "Келісімшарт күшіне ену күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employment_contract_end_date
+msgid "Employment contract valid until"
+msgstr "Келісімшарт аяқталу уақыты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__employment_contract_end_date
+msgid "End Date"
+msgstr "Аяқталу күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_contract__employment_contract_end_date
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee__employment_contract_end_date
+msgid "End date of the contract (if it's a fixed-term contract)."
+msgstr "Келісімшарттың аяқталу күні (егер ол мерзімді келісімшарт болса)."
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_contract__probationary_period_end_date
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_contract__trial_date_end
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee__probationary_period_end_date
+msgid "End date of the trial period (if there is one)."
+msgstr "Сынақ мерзімінің аяқталу күні (бар болса)."
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__probationary_period_end_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__trial_date_end
+msgid "End of Trial Period"
+msgstr "Сынақ кезеңінің аяқталуы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__probationary_period_end_date
+msgid "End of probation"
+msgstr "Сынақ мерзімінің аяқталуы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__study_form__evening
+msgid "Evening"
+msgstr "Кеш"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__experience_resume_line_ids
+msgid "Experience Resume Line"
+msgstr "Тәжірибе резюме желісі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__study_form__external
+msgid "External"
+msgstr "Сыртқы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__outstaff_company__fcca
+msgid "FCCA"
+msgstr "FCCA"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_family_inherit
+msgid "Family"
+msgstr "Отбасы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_family_member
+msgid "Family Member Info"
+msgstr "Отбасы мүшелері туралы ақпарат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__family_members_ids
+msgid "Family Members"
+msgstr "Отбасы мүшелері"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_family_inherit
+msgid "Family member name:"
+msgstr "Отбасы мүшесінің аты:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__study_field
+msgid "Field of Study"
+msgstr "Зерттеу аймағы"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_wages
+msgid "Financal Information"
+msgstr "Қаржылық ақпарат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__label__fired
+msgid "Fired"
+msgstr "Жұмыстан шығарылды"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__disability_group__first
+msgid "First"
+msgstr "Бірінші"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__first_name
+msgid "First name"
+msgstr "Аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_fitness
+msgid "Fitness for Military Service"
+msgstr "Әскери қызметке жарамдылығы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__work_schedule_type__five_days
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule_type__five_days
+msgid "Five days"
+msgstr "Бес күндік"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__foreign_specialist
+msgid "Foreign specialist"
+msgstr "Шетелдік маман"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__study_form
+msgid "Form of study"
+msgstr "Оқу формасы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__formatted_employment_contract_end_date
+msgid "Formatted Employment Contract End Date"
+msgstr "Өзгертілген еңбек шартының аяқталу күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__formatted_employment_contract_start_date
+msgid "Formatted Employment Contract Start Date"
+msgstr "Өзгертілген еңбек шартының басталу күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__full_name_latin
+msgid "Full Name Latin"
+msgstr "Латынша толық аты-жөні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__full_name
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit
+msgid "Full name"
+msgstr "Толық аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__study_form__full_time
+msgid "Full-time"
+msgstr "Тұрақты негізде"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "Generate"
+msgstr "Жасау"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__graduate
+msgid "Graduate"
+msgstr "Түлек"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__graduation_year
+msgid "Graduation Date"
+msgstr "Бітіру күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_language
+msgid "HR Employee language"
+msgstr "HR қызметкерінің тілі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee
+msgid "HR Employee military duty information"
+msgstr "HR қызметкерінің әскери міндеті туралы ақпарат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_nationality
+msgid "HR Employee nationality"
+msgstr "HR қызметкерінің ұлты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_residence_region
+msgid "HR Employee residence region"
+msgstr "HR қызметкерінің тұрғылықты жері"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "HR Settings"
+msgstr "HR параметрлері"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_language_level
+msgid "HR language level"
+msgstr "HR тіл деңгейі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_language
+msgid "HR languages"
+msgstr "HR тілдері"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Hide Additional Information"
+msgstr "Қосымша ақпаратты жасыру"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__accrual__hourly
+msgid "Hourly"
+msgstr "Сағат сайын"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__hourly_wage
+msgid "Hourly wage"
+msgstr "Сағаттық жалақы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_house
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_house
+msgid "House"
+msgstr "Үй"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__work_schedule_type__hybrid
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule_type__hybrid
+msgid "Hybrid"
+msgstr "Гибридті"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__id
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__id
+msgid "ID"
+msgstr "ID"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__document_type__id_card
+msgid "ID Card"
+msgstr "Жеке куәлік"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__id_scan
+msgid "ID scan"
+msgstr "ID сканы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__iin
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__iin
+msgid "IIN"
+msgstr "ЖСН"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__incomplete_higher
+msgid "Incomplete higher education"
+msgstr "Аяқталмаған жоғары білім"
+
+#. module: hr_employee_extended_profile
+#: model:ir.actions.server,name:hr_employee_extended_profile.hr_contract_recompute_order_number_ir_actions_server
+#: model:ir.cron,cron_name:hr_employee_extended_profile.hr_contract_recompute_order_number
+#: model:ir.cron,name:hr_employee_extended_profile.hr_contract_recompute_order_number
+msgid "Index order number"
+msgstr "Тапсырыс нөмірінің индексі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__employee_type__indirect
+msgid "Indirect"
+msgstr "Жанама"
+
+#. module: hr_employee_extended_profile
+#: model:ir.actions.server,name:hr_employee_extended_profile.hr_initilize_contract_histoy_ir_actions_server
+#: model:ir.cron,cron_name:hr_employee_extended_profile.hr_initilize_contract_histoy
+#: model:ir.cron,name:hr_employee_extended_profile.hr_initilize_contract_histoy
+msgid "Initilize contract history"
+msgstr "Келісімшарт тарихын құру"
+
+#. module: hr_employee_extended_profile
+#: model:ir.actions.server,name:hr_employee_extended_profile.hr_contract_fill_start_date_ir_actions_server
+#: model:ir.cron,cron_name:hr_employee_extended_profile.hr_contract_fill_start_date
+#: model:ir.cron,name:hr_employee_extended_profile.hr_contract_fill_start_date
+msgid "Initilize employee start date of contract"
+msgstr "Қызметкердің келісім-шарттың басталу күнін жазу"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__issue_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__issue_date
+msgid "Issue Date"
+msgstr "Берілген кезі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__issued_by
+msgid "Issued By"
+msgstr "Берген"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__job_position
+msgid "Job position"
+msgstr "Жұмыс лауазымы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__job_responsibilities
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.resume_extended_line_view_form
+msgid "Job responsibilities"
+msgstr "Лауазымдық міндеттері"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__label
+msgid "Label"
+msgstr "Заттаңба"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__language_ids
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__language
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__name
+msgid "Language"
+msgstr "Тіл"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__language_and_level
+msgid "Language and level"
+msgstr "Тіл және деңгей"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__language_level
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__name
+msgid "Language level"
+msgstr "Тіл деңгейі"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Language level:"
+msgstr "Тіл деңгейі:"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Language:"
+msgstr "Тіл:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type____last_update
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model____last_update
+msgid "Last Modified on"
+msgstr "Соңғы өзгертілген күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__write_uid
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__write_uid
+msgid "Last Updated by"
+msgstr "Соңғы рет жаңартқан"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_bank__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_language__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_language_level__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__write_date
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__write_date
+msgid "Last Updated on"
+msgstr "Соңғы жаңартылған күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__last_name
+msgid "Last name"
+msgstr "Тегі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__first_name_latin
+msgid "Latin first name"
+msgstr "Латын аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__last_name_latin
+msgid "Latin last name"
+msgstr "Латын тегі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__middle_name_latin
+msgid "Latin middle name"
+msgstr "Латынша әкесінің аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__name_latin
+msgid "Latin name"
+msgstr "Латын атауы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__work_left_time
+msgid "Left from work"
+msgstr "Жұмыстан қалды"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__military_service_attitude__liable
+msgid "Liable for the military"
+msgstr "Әскерге баруға жарамды"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_locality
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_locality
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__birth_locality
+msgid "Locality"
+msgstr "Елді мекен"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_family_inherit
+msgid "Marital status:"
+msgstr "Отбасы жағдайы:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__master
+msgid "Master"
+msgstr "Мастер"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__middle_name
+msgid "Middle name"
+msgstr "Әкесінің аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__accounting_specialty
+msgid "Military Accounting Specialty"
+msgstr "Әскери есеп мамандығы"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_military_duty
+msgid "Military Duty"
+msgstr "Әскери міндет"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_id_scan
+msgid "Military ID scan"
+msgstr "Әскери куәлік сканы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_rank
+msgid "Military Rank"
+msgstr "Әскери атағы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_registration
+msgid "Military registration and enlistment office"
+msgstr "Әскери комиссариат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__mia
+msgid "Ministry of Internal Affairs"
+msgstr "Ішкі істер министрлігі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__mrf
+msgid "Ministry of Internal Affairs of the Russian Federation"
+msgstr "Ресей Федерациясының Ішкі істер министрлігі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__mj
+msgid "Ministry of Justice"
+msgstr "Әділет министрлігі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__total_month
+msgid "Month"
+msgstr "Ай"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_veteran_status__name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_payment_type__name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_resource_resource__name
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_work_rest_model__name
+msgid "Name"
+msgstr "Аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__nationality
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_nationality__name
+msgid "Nationality"
+msgstr "Ұлты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__foreign_specialist__no
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_foreign_resident__no
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_pension_right__no
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_social_insurance__no
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_social_medical_insurance__no
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__pension__no
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__pension_pay_provide__no
+msgid "No"
+msgstr "Жоқ"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__no_pension_right
+msgid "No right for pension"
+msgstr "Зейнетақы алуға құқығы жоқ"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__no_social_insurance
+msgid "No social insurance"
+msgstr "Әлеуметтік сақтандыру жоқ"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__no_social_medical_insurance
+msgid "No social medical insurance"
+msgstr "Әлеуметтік медициналық сақтандыру жоқ"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employment_order_number
+msgid "No. of the employment order"
+msgstr "Жұмысқа қабылдау туралы бұйрықтың №"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_professional_certificate__badge_training__not_passed
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_professional_certificate__tco_certification__not_passed
+msgid "Not Passed"
+msgstr "Өтпеді"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__no_foreign_resident
+msgid "Not a foreign resident"
+msgstr "Шетелдік тұрғын емес"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__military_service_attitude__not_liable
+msgid "Not liable for the military"
+msgstr "Әскерге баруға жарамсыз"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__series_number
+msgid "Number Series"
+msgstr "Сандар қатары"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Number:"
+msgstr "Саны:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__order_number
+msgid "Order Number"
+msgstr "Тапсырыс нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__other
+msgid "Other"
+msgstr "Басқа"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__personnel_type__outstaffing
+msgid "Outstaffing"
+msgstr "Аутстаффинг"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__outstaff_company
+msgid "Outstaffing Company"
+msgstr "Аутстаффингтік компания"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "PIN Code"
+msgstr "PIN коды"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_family_member__relation__parent
+msgid "Parent"
+msgstr "Ата-ана"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__date_passed
+msgid "Pass date"
+msgstr "Өткізу күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_professional_certificate__badge_training__passed
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_professional_certificate__tco_certification__passed
+msgid "Passed"
+msgstr "Өтті"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__document_type__passport
+msgid "Passport"
+msgstr "Паспорт"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_payment_type
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__payment_type
+msgid "Payment Type"
+msgstr "Төлем түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__payment_type
+msgid "Payment type"
+msgstr "Төлем түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__payroll_fund
+msgid "Payroll fund"
+msgstr "Жалақы қоры"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__pension
+msgid "Pension"
+msgstr "Зейнетақы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__pension_date
+msgid "Pension date"
+msgstr "Зейнетақы күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__card_account_validity_start_date
+msgid "Period (the beginning of the validity of the card account)"
+msgstr "Мерзім (карталық шоттың әрекет етуінің басталуы)"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_personal_document
+msgid "Personal Document"
+msgstr "Жеке құжат"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Personal Information"
+msgstr "Жеке ақпарат"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit
+msgid "Personal number"
+msgstr "Жеке нөмір"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__personnel_type
+msgid "Personnel Type"
+msgstr "Персонал түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_phone_number
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_phone_number__phone_number
+msgid "Phone Number"
+msgstr "Телефон нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Place of Birth"
+msgstr "Туған жері"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__previous_contract_id
+msgid "Previous Contract"
+msgstr "Алдыңғы келісім-шарт"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__contract_type__primary
+msgid "Primary"
+msgstr "Негізгі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__employment_contract_id
+msgid "Primary Contract"
+msgstr "Бастапқы келісім-шарт"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__employment_type__primary_employment
+msgid "Primary Employment"
+msgstr "Негізгі жұмыспен қамту"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "Print Badge"
+msgstr "Бейджді басып шығару"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__private_documents
+msgid "Private Documents"
+msgstr "Жеке құжаттар"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Private Information"
+msgstr "Жеке ақпарат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__probationary_period
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__probationary_period
+msgid "Probationary period (in months)"
+msgstr "Сынақ мерзімі (айлармен)"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__profession
+msgid "Profession"
+msgstr "Мамандық"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_professional_certificate
+msgid "Professional Certificate"
+msgstr "Кәсіби сертификат"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__professional_certification_ids
+msgid "Professional Certification"
+msgstr "Кәсіби сертификаттау"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__professions
+msgid "Professions"
+msgstr "Мамандықтар"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__pension_pay_provide
+msgid "Provide pension pay"
+msgstr "Зейнетақы төлеумен қамтамасыз ету"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_professional_certificate__qualification
+msgid "Qualification"
+msgstr "Біліктілік"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "Qualification:"
+msgstr "Біліктілік:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__dismissal_reason
+msgid "Reason for dismissal"
+msgstr "Жұмыстан босату себебі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__military_registration_record
+msgid "Record of military registration data"
+msgstr "Әскери есепке алынуының деректері"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__reference_series
+msgid "Reference Series"
+msgstr "Анықтамалық серия"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_region
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_region
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__birth_region
+msgid "Region"
+msgstr "Аймақ"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Registration Address"
+msgstr "Тіркеу мекенжайы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__registration_date
+msgid "Registration Date"
+msgstr "Тіркеу күні"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_information
+msgid "Registration Information"
+msgstr "Тіркеу ақпараты"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "Related User"
+msgstr "Қатысты пайдаланушы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee_family_member__relation
+msgid "Relation type"
+msgstr "Қатынас түрі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__work_schedule_type__remote
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule_type__remote
+msgid "Remote"
+msgstr "Қашықтан"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__label__reserve
+msgid "Reserve"
+msgstr "Резерв"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__document_type__residence
+msgid "Residence"
+msgstr "Резиденция"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Residence Address"
+msgstr "Тұрғылықты мекенжайы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__document_type__foreigner_residence
+msgid "Residence permit of a foreigner"
+msgstr "Шетелдіктің тұруға рұқсаты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_residence_region__name
+msgid "Residence region"
+msgstr "Тұрғылықты жері"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_resource_resource
+msgid "Resources"
+msgstr "Ресурстар"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_resume_line
+msgid "Resumé line of an employee"
+msgstr "Қызметкердің түйіндеме желісі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__room_number
+msgid "Room"
+msgstr "Бөлме"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__roseau
+msgid "Roseau"
+msgstr "Roseau"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__tariff_category__salary
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__accrual__salary
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_wages
+msgid "Salary"
+msgstr "Жалақы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__hourly_salary
+msgid "Salary (hourly work)"
+msgstr "Жалақы (сағаттық жұмыс)"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__work_schedule
+msgid "Schedule"
+msgstr "Жұмыс графигі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__work_schedule_type
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__work_schedule_type
+msgid "Schedule Type"
+msgstr "Жұмыс графигі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__study_school
+msgid "School"
+msgstr "Мектеп"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__school_and_graduation_year
+msgid "School And Graduation Year"
+msgstr "Мектеп және бітіру жылы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__disability_group__second
+msgid "Second"
+msgstr "Екінші"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__ste
+msgid "Secondary technical education"
+msgstr "Орта техникалық білім"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__certificate__sve
+msgid "Secondary vocational education"
+msgstr "Орта кәсіптік білім"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__serial_number
+msgid "Serial Number"
+msgstr "Сериялық нөмір"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__work_schedule_type__shift
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule_type__shift
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_work_information
+msgid "Shift"
+msgstr "Shift"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__shift_date_until
+msgid "Shift end date"
+msgstr "Аяқталу күнін ауыстыру"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__shift_date_from
+msgid "Shift start date"
+msgstr "Ауысымның басталу күні"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit_personal_info
+msgid "Show Additional Information"
+msgstr "Қосымша ақпаратты көрсету"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__show_information
+msgid "Show Information"
+msgstr "Ақпаратты көрсету"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__personnel_type__site
+msgid "Site"
+msgstr "Сайт"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__work_schedule_type__six_days
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__work_schedule_type__six_days
+msgid "Six days"
+msgstr "Алты күн"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__specialities
+msgid "Specialities"
+msgstr "Мамандықтар"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__speciality
+msgid "Speciality"
+msgstr "Мамандығы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_family_member__relation__spouse
+msgid "Spouse"
+msgstr "Жұбайы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__date_start
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__employment_contract_start_date
+msgid "Start Date"
+msgstr "Басталатын күн"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_contract__date_start
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_contract__employment_contract_start_date
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee__employment_contract_start_date
+msgid "Start date of the contract."
+msgstr "Келісімшарттың басталу күні."
+
+#. module: hr_employee_extended_profile
+#: model:res.country,name:hr_employee_extended_profile.stateless_person
+msgid "Stateless Person"
+msgstr "Азаматтығы жоқ адам"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__registration_street
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__residence_street
+msgid "Street"
+msgstr "Көше"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__study_forms
+msgid "Study Forms"
+msgstr "Оқу формалары"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__surcharge
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__surcharge
+msgid "Surcharge"
+msgstr "Қосымша ақы"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_professional_certificate_inherit
+msgid "TCO certification:"
+msgstr "ТШО сертификаты:"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__outstaff_company__tm
+msgid "TM"
+msgstr "TM"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__tariff_category__tariff
+msgid "Tariff"
+msgstr "Тариф"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__tariff_category
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__tariff_category
+msgid "Tariff category"
+msgstr "Тарифтік категория"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__tax
+msgid "Tax"
+msgstr "Салық"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,help:hr_employee_extended_profile.field_hr_employee__employee_type
+msgid "The employee type. Although the primary purpose may seem to categorize employees, this field has also an impact in the Contract History. Only Employee type is supposed to be under contract and will have a Contract History."
+msgstr "Қызметкер түрі. Негізгі мақсат қызметкерлерді санаттарға бөлу сияқты көрінгенімен, бұл өріс Келісім-шарттар тарихында да әсер етеді. Тек қызметкер түрі келісімшарт бойынша болуы керек және Келісім-шарт тарихы болады."
+
+#. module: hr_employee_extended_profile
+#: code:addons/hr_employee_extended_profile/models/hr_contract_extended.py:0
+msgid "There can be only one primary contract for an employee."
+msgstr "Қызметкер үшін бір ғана негізгі шарт болуы мүмкін."
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__disability_group__third
+msgid "Third"
+msgstr "Үшінші"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__timesheet_number
+msgid "Timesheet number"
+msgstr "Уақыт кестесінің нөмірі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__total_experience
+msgid "Total Experience"
+msgstr "Жалпы тәжірибе"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_family_member__relation
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee_personal_document__document_type
+msgid "Type"
+msgstr "Түр"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__type_name
+msgid "Type Name"
+msgstr "Атын теріңіз"
+
+#. module: hr_employee_extended_profile
+#: model:ir.actions.server,name:hr_employee_extended_profile.hr_contract_extended_profile_cron_ir_actions_server
+#: model:ir.cron,cron_name:hr_employee_extended_profile.hr_contract_extended_profile_cron
+#: model:ir.cron,name:hr_employee_extended_profile.hr_contract_extended_profile_cron
+msgid "Update employee contract"
+msgstr "Еңбек шартын жаңарту"
+
+#. module: hr_employee_extended_profile
+#: model:ir.actions.server,name:hr_employee_extended_profile.hr_employee_extended_profile_cron_ir_actions_server
+#: model:ir.cron,cron_name:hr_employee_extended_profile.hr_employee_extended_profile_cron
+#: model:ir.cron,name:hr_employee_extended_profile.hr_employee_extended_profile_cron
+msgid "Update employee extended profile"
+msgstr "Қызметкердің кеңейтілген профилін жаңартыңыз"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__validity_begin_date
+msgid "Valid from"
+msgstr "Бастап жарамды"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_hr_employee_veteran_status
+msgid "Veteran Status"
+msgstr "Ардагер мәртебесі"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__monthly_salary
+msgid "Wages"
+msgstr "Жалақы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_employee__war_veteran
+msgid "War veteran"
+msgstr "Соғыс ардагері"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__tax__with
+msgid "With Tax"
+msgstr "Салықпен"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__tax__without
+msgid "Without Tax"
+msgstr "Салықсыз"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model,name:hr_employee_extended_profile.model_work_rest_model
+msgid "Work and Rest Options"
+msgstr "Жұмыс және демалыс опциялары"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__working_rest_time
+msgid "Work and Rest time"
+msgstr "Жұмыс және демалыс уақыты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__work_rate
+msgid "Work rate"
+msgstr "Ставка"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__label__working
+msgid "Working"
+msgstr "Жұмыс істеу"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_resume_line__total_year
+msgid "Year"
+msgstr "Жыл"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__foreign_specialist__yes
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_foreign_resident__yes
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_pension_right__yes
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_social_insurance__yes
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__no_social_medical_insurance__yes
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__pension__yes
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee__pension_pay_provide__yes
+msgid "Yes"
+msgstr "Иә"
+
+#. module: hr_employee_extended_profile
+#: model_terms:ir.ui.view,arch_db:hr_employee_extended_profile.employee_inherit
+msgid "name"
+msgstr "аты"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__dismissal_reason__reason_1
+msgid "p.2 of Art.51 of the Labor Code of the Republic of Kazakhstan Expiration of the term of the employment contract."
+msgstr "Қазақстан Республикасы Еңбек кодексінің 51-бабының 2-тармағы. Еңбек шартының мерзімінің аяқталуы."
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__dismissal_reason__reson_2
+msgid "p.1 of Art.49 of the Labor Code of the Republic of Kazakhstan (by agreement of the parties)"
+msgstr "Қазақстан Республикасы Еңбек кодексінің 49-бабының 1-тармағы (тараптардың келісімі бойынша)"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_resume_line__dismissal_reason__reason_3
+msgid "p.1 of Art.49, p.3 of Art.50 of the Labor Code of the Republic of Kazakhstan (by agreement of the parties)"
+msgstr "Қазақстан Республикасы Еңбек кодексінің 49-бабының 1-тармағы, 50-бабының 3-тармағы (тараптардың келісімі бойынша)"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_1
+msgid "Monthly salary"
+msgstr "Айлық"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_2
+msgid "Hourly salary"
+msgstr "Сағат бойынша жалақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_3
+msgid "Payment by hourly rate"
+msgstr "Сағаттық мөлшерлеме бойынша төлем"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_4
+msgid "Salary by day"
+msgstr "Күн бойынша жалақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_5
+msgid "Income not taxed at the source of payment"
+msgstr "Төлем көзінен салық салынбайтын табыс"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_6
+msgid "Compensation for business trips"
+msgstr "Іс-сапарлар үшін өтемақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_7
+msgid "Vacation compensation"
+msgstr "Демалыс үшін өтемақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_8
+msgid "Retirement leave compensation"
+msgstr "Зейнеткерлік демалысқа өтемақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_9
+msgid "Salary from reverse"
+msgstr "Кері жалақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_10
+msgid "Reverse salary by day"
+msgstr "Күні бойы жалақыны өзгерту"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_11
+msgid "Reverse salary by the hour"
+msgstr "Сағаттық жалақыны кері қайтару"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_12
+msgid "Payment for sick leave"
+msgstr "Ауру демалысы үшін төлем"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_13
+msgid "Vacation pay"
+msgstr "Демалыс төлемі"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_14
+msgid "Other income taxable at source"
+msgstr "Салық салынатын басқа да табыстар"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_15
+msgid "Surcharge for work on holidays and weekends (night time)"
+msgstr "Мереке және демалыс күндеріндегі жұмыс үшін қосымша ақы (түнгі уақытта)"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_16
+msgid "Surcharge for work on holidays and weekends (daytime)"
+msgstr "Мереке және демалыс күндеріндегі жұмыс үшін қосымша ақы (күндізгі)"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_17
+msgid "Overtime pay"
+msgstr "Қосымша жұмыс ақысы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_18
+msgid "Night work surcharge"
+msgstr "Түнгі жұмысқа қосымша ақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_19
+msgid "Overtime pay without increased pay"
+msgstr "Үстеме сағаттардың көбейтілмеген төлемі"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_20
+msgid "Payment for work on holidays and weekends without increased pay"
+msgstr "Мереке және демалыс күндеріндегі жұмыс ақы  көбейтілмеген төлемі"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_21
+msgid "Payment for work on holidays and weekends"
+msgstr "Мереке және демалыс күндеріндегі жұмыс ақы төлемі"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_22
+msgid "Piecework earnings (for those working on an hourly rate)"
+msgstr "Келісімді табыс(сағаттық тариф бойынша жұмыс істейтіндер үшін)"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_23
+msgid "Piecework (for salaried employees)"
+msgstr "Келісімді жұмыс(жалақы алатын жұмысшылар үшін)"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_24
+msgid "Premium for a month"
+msgstr "Айлық сыйлықақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_25
+msgid "Premium for a year"
+msgstr "Жылдық сыйлықақы"
+
+#. module: hr_employee_extended_profile
+#: model:payment.type,name:hr_employee_extended_profile.payment_type_26
+msgid "One-time premium"
+msgstr "Бір реттік сыйлықақы"
+
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_1
+msgid "Azerbaijani"
+msgstr "Әзірбайжан"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_10
+msgid "Kazakh"
+msgstr "Қазақ"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_11
+msgid "Kalmyk"
+msgstr "Қалмық"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_12
+msgid "Karakalpak"
+msgstr "Қарақалпақ"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_13
+msgid "Korean"
+msgstr "Кәріс"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_14
+msgid "Kumyk"
+msgstr "Кумық"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_15
+msgid "Kyrgyz"
+msgstr "Қырғыз"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_16
+msgid "Moldovan"
+msgstr "Молдаван"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_17
+msgid "German"
+msgstr "Неміс"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_18
+msgid "Portuguese"
+msgstr "Португалдық"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_19
+msgid "Romanian"
+msgstr "Румын"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_2
+msgid "American"
+msgstr "Американдық"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_20
+msgid "Russian"
+msgstr "Орыс"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_21
+msgid "Tatar"
+msgstr "Татар"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_22
+msgid "Turkish"
+msgstr "Түрік"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_23
+msgid "Uzbek"
+msgstr "Өзбек"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_24
+msgid "Uyghur"
+msgstr "Ұйғыр"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_25
+msgid "Ukrainian"
+msgstr "Украин"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_26
+msgid "Chechen"
+msgstr "Шешен"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_eight
+msgid "German"
+msgstr "Неміс тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_eighteen
+msgid "Turkish"
+msgstr "Түрік тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_eleven
+msgid "Italian"
+msgstr "Италиян тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_fifteen
+msgid "Portuguese"
+msgstr "Португал тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_five
+msgid "Chinese"
+msgstr "Қытай тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_four
+msgid "Arabic"
+msgstr "Араб тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_fourteen
+msgid "Polish"
+msgstr "Поляк тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_nine
+msgid "Greek"
+msgstr "Грек тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_one
+msgid "Kazakh"
+msgstr "Қазақ тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_seven
+msgid "French"
+msgstr "Француз тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_seventeen
+msgid "Swahili"
+msgstr "Суахили тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_six
+msgid "Dutch"
+msgstr "Нидерланды тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_sixteen
+msgid "Spanish"
+msgstr "Испан тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_ten
+msgid "Hindi"
+msgstr "Хинди тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_thirteen
+msgid "Korean"
+msgstr "Корей тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_three
+msgid "English"
+msgstr "Ағылшын тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_twelve
+msgid "Japanese"
+msgstr "Жапон тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language,name:hr_employee_extended_profile.language_two
+msgid "Russian"
+msgstr "Орыс тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language.level,name:hr_employee_extended_profile.language_level_four
+msgid "Read and translates with dictionary"
+msgstr "Оқиды және сөздік арқылы аударады"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language.level,name:hr_employee_extended_profile.language_level_one
+msgid "Fluent"
+msgstr "Еркін сөйлейді"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language.level,name:hr_employee_extended_profile.language_level_three
+msgid "Reads and can explain"
+msgstr "Оқиды және түсіндіре алады"
+
+#. module: hr_employee_extended_profile
+#: model:hr.language.level,name:hr_employee_extended_profile.language_level_two
+msgid "Native"
+msgstr "Туған тілі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_27
+msgid "Chuvash"
+msgstr "Чуваш"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_28
+msgid "South African"
+msgstr "Оңтүстік африкандық"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_29
+msgid "Stateless person"
+msgstr "Ұлты жоқ"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_3
+msgid "Bashkir"
+msgstr "Башқүрт"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_4
+msgid "Belarusian"
+msgstr "Беларус"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_5
+msgid "Bulgarian"
+msgstr "Болгар"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_6
+msgid "British"
+msgstr "Британдық"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_7
+msgid "Greek"
+msgstr "Грек"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_8
+msgid "Ingush"
+msgstr "Ингуш"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.nationality,name:hr_employee_extended_profile.nationality_9
+msgid "Hindu"
+msgstr "Үндіс"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_1
+msgid "Semey"
+msgstr "Семей қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_10
+msgid "Urdzharsky district"
+msgstr "Үржар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_100
+msgid "Priozersk"
+msgstr "Приозер қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_101
+msgid "Saran"
+msgstr "Саран қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_102
+msgid "Temirtau"
+msgstr "Теміртау қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_103
+msgid "Shakhtinsk"
+msgstr "Шахтинск қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_104
+msgid "Abaysky district"
+msgstr "Абай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_105
+msgid "Aktogay district"
+msgstr "Ақтоғай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_106
+msgid "Bukhar-Zhyrau district"
+msgstr "Бұқар жырау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_107
+msgid "Karkaraly district"
+msgstr "Қарқаралы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_108
+msgid "Nurinsky district"
+msgstr "Нұра ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_109
+msgid "Osakarovskiy district"
+msgstr "Осакаров ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_11
+msgid "Astana"
+msgstr "Астана қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_110
+msgid "Shetsky district"
+msgstr "Шет ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_111
+msgid "Kostanay"
+msgstr "Қостанай қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_112
+msgid "Arkalyk"
+msgstr "Арқалық қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_113
+msgid "Lisakovsk"
+msgstr "Лисаков қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_114
+msgid "Rudny"
+msgstr "Рудный қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_115
+msgid "Altynsarinsky district"
+msgstr "Алтынсарин ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_116
+msgid "Amangeldy district"
+msgstr "Амангелді ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_117
+msgid "Auliekolsky district"
+msgstr "Әулиекөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_118
+msgid "Denisovsky district"
+msgstr "Денисов ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_119
+msgid "Zhangeldy district"
+msgstr "Жангелдин ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_12
+msgid "Kokshetau"
+msgstr "Көкшетау қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_120
+msgid "Zhitikarinsky district"
+msgstr "Жітіқара ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_121
+msgid "Kamystinsky district"
+msgstr "Қамысты ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_122
+msgid "Karabalyk district"
+msgstr "Қарабалық ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_123
+msgid "Karasu district"
+msgstr "Қарасу ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_124
+msgid "Kostanay district"
+msgstr "Қостанай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_125
+msgid "Mendykarinsky district"
+msgstr "Меңдіқара ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_126
+msgid "Naurzum district"
+msgstr "Наурызым ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_127
+msgid "Sarykol district"
+msgstr "Сарыкөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_128
+msgid "Beimbet Maylin district"
+msgstr "Бейімбет Майлин ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_129
+msgid "Uzunkol district"
+msgstr "Ұзынкөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_13
+msgid "Kosshy"
+msgstr "Қосшы қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_130
+msgid "Fedorovsky district"
+msgstr "Федоров ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_131
+msgid "Kyzylorda"
+msgstr "Қызылорда қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_132
+msgid "Baikonyr"
+msgstr "Байқоңыр қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_133
+msgid "Aral district"
+msgstr "Арал ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_134
+msgid "Zhalagashsky district"
+msgstr "Жалағаш ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_135
+msgid "Zhanakorgan district"
+msgstr "Жаңақорған ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_136
+msgid "Kazalinsky district"
+msgstr "Қазалы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_137
+msgid "Karmakshy district"
+msgstr "Қармақшы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_138
+msgid "Syrdarya district"
+msgstr "Сырдария ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_139
+msgid "Chiili district"
+msgstr "Шиелі ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_14
+msgid "Stepnogorsk"
+msgstr "Степногор қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_140
+msgid "Aktau"
+msgstr "Ақтау қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_141
+msgid "Zhanaozen"
+msgstr "Жаңаөзен қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_142
+msgid "Beyneusky district"
+msgstr "Бейнеу ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_143
+msgid "Karakiya district"
+msgstr "Қарақия ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_144
+msgid "Mangystau district"
+msgstr "Маңғыстау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_145
+msgid "Munailinsky district"
+msgstr "Мұнайлы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_146
+msgid "Tupkaragansky district"
+msgstr "Түпқараған ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_147
+msgid "Pavlodar"
+msgstr "Павлодар қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_148
+msgid "Aksu"
+msgstr "Ақсу қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_149
+msgid "Ekibastuz"
+msgstr "Екібастұз қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_15
+msgid "Akkol district"
+msgstr "Ақкөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_150
+msgid "Aktogay district"
+msgstr "Ақтоғай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_151
+msgid "Bayanaul district"
+msgstr "Баянауыл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_152
+msgid "Zhelezinsky district"
+msgstr "Железин ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_153
+msgid "Irtyshsky district"
+msgstr "Ертіс ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_154
+msgid "Terenköl district"
+msgstr "Тереңкөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_155
+msgid "Akkuly district"
+msgstr "Аққулы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_156
+msgid "Maisky district"
+msgstr "Май ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_157
+msgid "Pavlodar district"
+msgstr "Павлодар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_158
+msgid "Uspensky district"
+msgstr "Успен ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_159
+msgid "Shcherbakty district"
+msgstr "Шарбақты ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_16
+msgid "Arshaly district"
+msgstr "Аршалы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_160
+msgid "Petropavlovsk"
+msgstr "Петропавл қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_161
+msgid "Akkayinsky district"
+msgstr "Аққайың ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_162
+msgid "Aiyrtau district"
+msgstr "Айыртау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_163
+msgid "Akzhar district"
+msgstr "Ақжар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_164
+msgid "Esilsky district"
+msgstr "Есіл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_165
+msgid "Zhambyl district"
+msgstr "Жамбыл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_166
+msgid "Kyzylzhar district"
+msgstr "Қызылжар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_167
+msgid "Mamlyut district"
+msgstr "Мамлют ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_168
+msgid "Gabit Musrepov district"
+msgstr "Ғабит Мүсірепов атын.ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_169
+msgid "Tayynshinsky district"
+msgstr "Тайынша ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_17
+msgid "Astrakhan district"
+msgstr "Астрахан ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_170
+msgid "Timiryazevsky district"
+msgstr "Тимирязев ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_171
+msgid "Shal akyn district"
+msgstr "Шал ақын ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_172
+msgid "Magzhan Zhumabayev district"
+msgstr "Мағжан Жұмабаев ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_173
+msgid "Ualikhanovskiy district"
+msgstr "Уәлиханов ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_174
+msgid "Shymkent"
+msgstr "Шымкент қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_175
+msgid "Turkestan"
+msgstr "Түркістан қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_176
+msgid "Arys"
+msgstr "Арыс қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_177
+msgid "Kentau"
+msgstr "Кентау қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_178
+msgid "Baidibek district"
+msgstr "Бәйдібек ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_179
+msgid "Zhetisai district"
+msgstr "Жетісай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_18
+msgid "Atbasar district"
+msgstr "Атбасар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_180
+msgid "Kelessky district"
+msgstr "Келес ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_181
+msgid "Kazygurtsky district"
+msgstr "Қазығұрт ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_182
+msgid "Maktaaral district"
+msgstr "Мақтаарал ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_183
+msgid "Ordabasy district"
+msgstr "Ордабасы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_184
+msgid "Otrar district"
+msgstr "Отырар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_185
+msgid "Sairam district"
+msgstr "Сайрам ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_186
+msgid "Saryagash district"
+msgstr "Сарыағаш ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_187
+msgid "Sauran district"
+msgstr "Сауран ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_188
+msgid "Suzak district"
+msgstr "Созақ ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_189
+msgid "Tolebi district"
+msgstr "Төле би ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_19
+msgid "Bulandy district"
+msgstr "Бұланды ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_190
+msgid "Tulkubas district"
+msgstr "Түлкібас ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_191
+msgid "Shardara district"
+msgstr "Шардара ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_192
+msgid "Zhezkazgan"
+msgstr "Жезқазған қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_193
+msgid "Karazhal"
+msgstr "Қаражал қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_194
+msgid "Satpaev"
+msgstr "Сәтбаев қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_195
+msgid "Zhanaarkinsky district"
+msgstr "Жаңаарқа ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_196
+msgid "Ulytausky district"
+msgstr "Ұлытау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_197
+msgid "Ust-Kamenogorsk"
+msgstr "Өскемен қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_198
+msgid "Ridder"
+msgstr "Риддер қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_199
+msgid "Glubokovsky district"
+msgstr "Глубокое ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_2
+msgid "Kurchatov"
+msgstr "Курчатов қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_20
+msgid "Yegindykolsky district"
+msgstr "Егіндікөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_200
+msgid "Zaysan district"
+msgstr "Зайсан ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_201
+msgid "Altai district"
+msgstr "Алтай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_202
+msgid "Kurchumsky district"
+msgstr "Күршім ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_203
+msgid "Katon-Karagay district"
+msgstr "Катонқарағай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_204
+msgid "Samar district"
+msgstr "Самар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_205
+msgid "Tarbagatai district"
+msgstr "Тарбағатай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_206
+msgid "Ulansky district"
+msgstr "Ұлан ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_207
+msgid "Shemonaikha district"
+msgstr "Шемонаиха ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_21
+msgid "Birzhan sal district"
+msgstr "Біржан сал ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_22
+msgid "Ereymentau district"
+msgstr "Ерейментау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_23
+msgid "Esilsky district"
+msgstr "Есіл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_24
+msgid "Zhaksinsky district"
+msgstr "Жақсы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_25
+msgid "Zharkainsky district"
+msgstr "Жарқайың ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_26
+msgid "Zerenda district"
+msgstr "Зеренді ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_27
+msgid "Korgalzhyn district"
+msgstr "Қорғалжын ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_28
+msgid "Sandyktau district"
+msgstr "Сандықтау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_29
+msgid "Tselinograd district"
+msgstr "Целиноград ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_3
+msgid "Abaysky district"
+msgstr "Абай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_30
+msgid "Shortandinsky district"
+msgstr "Шортанды ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_31
+msgid "Burabay district"
+msgstr "Бурабай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_32
+msgid "Aktobe"
+msgstr "Ақтөбе қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_33
+msgid "Alginsky district"
+msgstr "Алға ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_34
+msgid "Aitekebi district"
+msgstr "Әйтеке би ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_35
+msgid "Baiganinsky district"
+msgstr "Байғанин ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_36
+msgid "Kargaly district"
+msgstr "Қарғалы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_37
+msgid "Khobdinsky district"
+msgstr "Қобда ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_38
+msgid "Martuk district"
+msgstr "Мәртөк ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_39
+msgid "Mugalzharsky district"
+msgstr "Мұғалжар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_4
+msgid "Aksuat district"
+msgstr "Ақсуат ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_40
+msgid "Uilsky district"
+msgstr "Ойыл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_41
+msgid "Temirsky district"
+msgstr "Темір ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_42
+msgid "Khromtausky district"
+msgstr "Хромтау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_43
+msgid "Shalkar district"
+msgstr "Шалқар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_44
+msgid "Irgiz district"
+msgstr "Ырғыз ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_45
+msgid "Almaty"
+msgstr "Алматы қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_46
+msgid "Konaev"
+msgstr "Қонаев қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_47
+msgid "Balkhash district"
+msgstr "Балқаш ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_48
+msgid "Enbekshikazakh district"
+msgstr "Еңбекшіқазақ ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_49
+msgid "Zhambyl district"
+msgstr "Жамбыл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_5
+msgid "Ayagoz district"
+msgstr "Аягөз ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_50
+msgid "Kegen district"
+msgstr "Кеген ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_51
+msgid "Karasai district"
+msgstr "Қарасай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_52
+msgid "Rayymbek district"
+msgstr "Райымбек ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_53
+msgid "Talgar district"
+msgstr "Талғар ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_54
+msgid "Uyghur district"
+msgstr "Ұйғыр ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_55
+msgid "Iliysky district"
+msgstr "Іле ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_56
+msgid "Atyrau"
+msgstr "Атырау қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_57
+msgid "Zhylyoi district"
+msgstr "Жылыой ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_58
+msgid "Indersky district"
+msgstr "Индер ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_59
+msgid "Isatai district"
+msgstr "Исатай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_6
+msgid "Beskaragai district"
+msgstr "Бесқарағай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_60
+msgid "Kurmangazinsky district"
+msgstr "Құрманғазы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_61
+msgid "Kzylkoginsky district"
+msgstr "Қызылқоға ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_62
+msgid "Makat district"
+msgstr "Мақат ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_63
+msgid "Makhambet district"
+msgstr "Махамбет ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_64
+msgid "Uralsk"
+msgstr "Орал қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_65
+msgid "Akzhaik district"
+msgstr "Ақжайық ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_66
+msgid "Burlinsky district"
+msgstr "Бөрлі ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_67
+msgid "Zhangalinsky district"
+msgstr "Жаңақала ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_68
+msgid "Zhanibek district"
+msgstr "Жәнібек ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_69
+msgid "Baiterek district"
+msgstr "Бәйтерек ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_7
+msgid "Borodulikha district"
+msgstr "Бородулиха ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_70
+msgid "Kaztalovsky district"
+msgstr "Казталовка ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_71
+msgid "Karatobinsky district"
+msgstr "Қаратөбе ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_72
+msgid "Bokeyorda district"
+msgstr "Бөкейордасы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_73
+msgid "Syrymsky district"
+msgstr "Сырым ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_74
+msgid "Taskalinsky district"
+msgstr "Тасқала ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_75
+msgid "Terektinsky district"
+msgstr "Теректі ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_76
+msgid "Chingirlau district"
+msgstr "Шыңғырлау ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_77
+msgid "Taraz"
+msgstr "Тараз қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_78
+msgid "Bayzaksky district"
+msgstr "Байзақ ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_79
+msgid "Zhambyl district"
+msgstr "Жамбыл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_8
+msgid "Zharma district"
+msgstr "Жарма ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_80
+msgid "Zhualynsky district"
+msgstr "Жуалы ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_81
+msgid "Korday district"
+msgstr "Қордай ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_82
+msgid "Turara Ryskulov district"
+msgstr "Тұрар Рысқұлов ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_83
+msgid "Merken district"
+msgstr "Мерке ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_84
+msgid "Moyinkumsky district"
+msgstr "Мойынқұм ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_85
+msgid "Sarysu district"
+msgstr "Сарысу ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_86
+msgid "Talas district"
+msgstr "Талас ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_87
+msgid "Shu district"
+msgstr "Шу ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_88
+msgid "Taldykorgan"
+msgstr "Талдықорған қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_89
+msgid "Tekeli"
+msgstr "Текелі қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_9
+msgid "Kokpektinsky district"
+msgstr "Көкпекті ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_90
+msgid "Aksu district"
+msgstr "Ақсу ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_91
+msgid "Alakol district"
+msgstr "Алакөл ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_92
+msgid "Eskeldinsky district"
+msgstr "Ескелді ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_93
+msgid "Kerbulak district"
+msgstr "Кербұлақ ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_94
+msgid "Koksu district"
+msgstr "Көксу ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_95
+msgid "Karatal district"
+msgstr "Қаратал ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_96
+msgid "Panfilovsky district"
+msgstr "Панфилов ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_97
+msgid "Sarkand district"
+msgstr "Сарқант ауданы"
+
+#. module: hr_employee_extended_profile
+#: model:res.city,name:hr_employee_extended_profile.kz_city_98
+msgid "Karaganda"
+msgstr "Қарағанды қ."
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_1
+msgid "Abai Region"
+msgstr "Абай облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_10
+msgid "Kostanay Region"
+msgstr "Қостанай облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_11
+msgid "Kyzylorda Region"
+msgstr "Қызылорда облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_12
+msgid "Mangystau Region"
+msgstr "Маңғыстау облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_13
+msgid "North Kazakhstan Region"
+msgstr "СҚО"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_14
+msgid "Pavlodar Region"
+msgstr "Павлодар облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_15
+msgid "Turkistan Region"
+msgstr "Түркістан облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_16
+msgid "Ulytau Region"
+msgstr "Ұлытау облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_17
+msgid "West Kazakhstan Region"
+msgstr "БҚО"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_2
+msgid "Akmola Region"
+msgstr "Ақмола облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_3
+msgid "Aktobe Region"
+msgstr "Ақтөбе облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_4
+msgid "Almaty Region"
+msgstr "Алматы облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_5
+msgid "Atyrau Region"
+msgstr "Атырау облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_6
+msgid "East Kazakhstan Region"
+msgstr "ШҚО"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_7
+msgid "Jambyl Region"
+msgstr "Жамбыл облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_8
+msgid "Jetisu Region"
+msgstr "Жетісу облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kz_state_9
+msgid "Karaganda Region"
+msgstr "Қарағанды облысы"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_one
+msgid "Veterans of the GPW (participants and invalids of the GPW)"
+msgstr "Ұлы Отан соғысының ардагерлері (Ұлы Отан соғысының қатысушылары мен мүгедектері)"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_two
+msgid "Veterans equated in benefits to veterans of the GPW (1. Persons equated in benefits to participants in the GPW)"
+msgstr "Жеңілдіктер бойынша Ұлы Отан соғысы ардагерлеріне теңестірілген ардагерлер(1. Ұлы Отан соғысының ардагерлеріне жеңілдіктер бойынша теңестірілген тұлғалар)"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_three
+msgid "Veterans equated in benefits to veterans of the GPW (2. Persons equated in benefits to disabled veterans of the GPW)"
+msgstr "Жеңілдіктер бойынша Ұлы Отан соғысы ардагерлеріне теңестірілген ардагерлер(2. Ұлы Отан соғысының мүгедектеріне жеңілдіктер бойынша теңестірілген тұлғалар)"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_four
+msgid "Veterans of military operations in the territory of other states"
+msgstr "Басқа мемлекеттер аумағындағы әскери қимылдардың ардагерлері"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_five
+msgid "Labor veterans"
+msgstr "Еңбек ардагерлері"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_six
+msgid "Another category of persons equated to participants in the GPW"
+msgstr "Ұлы Отан соғысына қатысушыларына теңестірілген тұлғалардың тағы бір санаты"
+
+#. module: hr_employee_extended_profile
+#: model:hr.employee.veteran.status,name:hr_employee_extended_profile.veteran_status_seven
+msgid "Disabled GPW (until May 2020)"
+msgstr "Екінші дүниежүзілік соғыс мүгедектері (2020 жылдың мамырына дейін)"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_2
+msgid "PJSC ROSBANK"
+msgstr "РОСБАНК ЖАҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_3
+msgid "JSC Raiffeisenbank"
+msgstr "«Райффайзенбанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_4
+msgid "Department of Accounting for Monetary Operations (OKSP)"
+msgstr "Монетарлық операцияларды есепке алу бөлімі (ОКСП)"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_5
+msgid "Regional Branch of Halyk Bank"
+msgstr "Халық банкінің облыстық филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_6
+msgid "Almaty branch of State Institution 'National Bank of the Republic of Kazakhstan'"
+msgstr "«Қазақстан Республикасының Ұлттық Банкі» ММ Алматы филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_7
+msgid "AF JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_8
+msgid "AF JSC Bank TuranAlem"
+msgstr "«ТұранӘлем Банкі» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_9
+msgid "AF JSC BTA Bank"
+msgstr "«БТА Банк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_10
+msgid "JSC METROCOMBANK"
+msgstr "МЕТРОКОМБАНК АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_11
+msgid "AF JSC Tsesna Bank"
+msgstr "«Цесна Банк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_12
+msgid "Bank JSC Kazpost"
+msgstr "«Қазпочта банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_13
+msgid "JSC Halyk Bank"
+msgstr "«Қазақстан Халық Банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_14
+msgid "AGF JSC Alliance Bank"
+msgstr "AGF «Альянс Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_15
+msgid "JSC Bank Centercredit"
+msgstr "«Банк ЦентрКредит» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_16
+msgid "AF JSC Kazkommertsbank"
+msgstr "«Казкоммерцбанк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_17
+msgid "Branch of JSC Nurbank"
+msgstr "«Нұрбанк» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_18
+msgid "JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_19
+msgid "JSC BankCenterCredit"
+msgstr "«БанкЦентрКредит» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_20
+msgid "SB JSC Sberbank"
+msgstr "«Сбербанк» АҚ ЕБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_21
+msgid "Sberbank JSC DB"
+msgstr "«Сбербанк» АҚ ДБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_22
+msgid "JSC DAB ABN AMRO Bank Kazakhstan"
+msgstr "«DAB ABN AMRO Bank Kazakhstan» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_23
+msgid "JSC DB 'RBS (Kazakhstan)'"
+msgstr "«РБС (Қазақстан)» ДБ АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_24
+msgid "JSC Kazkommertsbank"
+msgstr "«Казкоммерцбанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_25
+msgid "JSC DB HSBC Bank Kazakhstan"
+msgstr "АҚ ДБ HSBC Банк Қазақстан"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_26
+msgid "Branch of JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_27
+msgid "JSC KASPI BANK"
+msgstr "«KASPI BANK» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_28
+msgid "AOF No. 139900 JSC Halyk Bank of Kazakhstan"
+msgstr "АОФ № 139900 «Қазақстан Халық Банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_29
+msgid "BTA Bank"
+msgstr "БТА банкі"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_30
+msgid "Branch JSC Bank Turan Alem"
+msgstr "«Тұран Әлем Банкі» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_31
+msgid "AF DB JSC HSBC Bank Kazakhstan"
+msgstr "АФ ДБ АҚ HSBC Банк Қазақстан"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_32
+msgid "JSC Metrokombank"
+msgstr "«Метрокомбанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_33
+msgid "AF JSC TsesnaBank"
+msgstr "«ЦеснаБанк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_34
+msgid "JSC Bank Caspian"
+msgstr "«Каспий Банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_35
+msgid "Branch of JSC Kaspi Bank"
+msgstr "«Kaspi Bank» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_36
+msgid "JSC Delta Bank"
+msgstr "«Delta Bank» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_37
+msgid "AF JSC NurBank"
+msgstr "«НұрБанк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_38
+msgid "AF JSC Kazkommertsbank"
+msgstr "«Казкоммерцбанк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_39
+msgid "Branch of JSC Bank CenterCredit"
+msgstr "«Банк ЦентрКредит» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_40
+msgid "AF JSC Temirbank"
+msgstr "«Темірбанк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_41
+msgid "AF JSC Eurasian Bank"
+msgstr "«Еуразиялық банк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_42
+msgid "JSC BANK POSITIV"
+msgstr "АҚ БАНК ПОЗИТИВ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_43
+msgid "AF JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_44
+msgid "Branch of SB JSC Sberbank"
+msgstr "«Сбербанк» АҚ ЕБ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_45
+msgid "AF JSC Alliance Bank"
+msgstr "«Альянс Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_46
+msgid "Kulsary branch of JSC TuranAlem Bank"
+msgstr "«ТұранӘлем Банкі» АҚ Құлсары филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_47
+msgid "Branch of JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_48
+msgid "Karaganda Branch of Kazkommertsbank JSC"
+msgstr "«Казкоммерцбанк» АҚ Қарағанды ​​филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_49
+msgid "AF JSC Alliance Bank"
+msgstr "«Альянс Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_50
+msgid "JSC Bank CenterCredit"
+msgstr "«Банк ЦентрКредит» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_51
+msgid "AF JSC Delta Bank"
+msgstr "АФ АҚ Delta Bank"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_52
+msgid "SCF JSC Tsesnabank"
+msgstr "«Цеснабанк» АҚ СКФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_53
+msgid "GCF JSC BTA Bank"
+msgstr "«БТА Банкі» АҚ GCF"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_54
+msgid "Branch of JSC Halyk Bank No. 181699"
+msgstr "«Халық банкі» АҚ филиалы No 181699"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_55
+msgid "Branch of JSC UV Nurbank"
+msgstr "«УВ Нұрбанк» АҚ филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_56
+msgid "ATF Bank"
+msgstr "АТФ банкі"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_57
+msgid "JSC Bank Center Credit"
+msgstr "«Банк Центр Кредит» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_58
+msgid "Branch No. 13 JSC Eurasian Bank"
+msgstr "«Еуразиялық банк» АҚ №13 филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_59
+msgid "Treasury Committee of the Ministry of Finance of the Republic of Kazakhstan"
+msgstr "Қазақстан Республикасы Қаржы министрлігінің Қазынашылық комитеті"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_60
+msgid "FAO BTA Bank"
+msgstr "ФАО БТА банкі"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_61
+msgid "Capital branch of JSC Tsesna Bank"
+msgstr "«Цесна Банк» АҚ астаналық филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_62
+msgid "JSC Temir Bank"
+msgstr "«Темір банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_63
+msgid "JSC Kazkommertsbank"
+msgstr "«Казкоммерцбанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_64
+msgid "F-L JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ F-L"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_65
+msgid "SKO Branch of JSC Halyk Bank of Kazakhstan"
+msgstr "«Қазақстан Халық Банкі» АҚ ОҚО филиалы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_66
+msgid "JSC BTA Bank"
+msgstr "«БТА Банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_67
+msgid "JSC 'BTA Bank'"
+msgstr "«БТА Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_68
+msgid "JSC 'FIRST HEARTLAND BANK'"
+msgstr "АҚ «FIRST HEARTLAND BANK»"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_69
+msgid "JSC SB 'Alfa-Bank'"
+msgstr "«Альфа-Банк» ЕБ АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_70
+msgid "JSC SB 'Alfa-Bank'"
+msgstr "«Альфа-Банк» ЕБ АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_71
+msgid "JSC 'SUBSIDIARY BANK 'ALFA-BANK'"
+msgstr "«АЛЬФА-БАНК» ЕНШІлес банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_72
+msgid "JSC SB 'Alfa-Bank'"
+msgstr "«Альфа-Банк» ЕБ АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_73
+msgid "JSC 'ATF Bank'"
+msgstr "«АТФ Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_74
+msgid "AF JSC ATF Bank"
+msgstr "«АТФ Банк» АҚ АФ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_75
+msgid "JSC 'ATF Bank'"
+msgstr "«АТФ Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_76
+msgid "JSC Bank 'Astana-Finance'"
+msgstr "«Астана-финанс» банкі АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_77
+msgid "JSC 'Altyn Bank' (SB China Citic Bank Corporation Ltd)"
+msgstr "«Altyn Bank» АҚ (SB China Citic Bank Corporation Ltd)"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_78
+msgid "JSC 'Altyn Bank' (SB JSC 'Halyk Bank of Kazakhstan')"
+msgstr "«Altyn Bank» АҚ («Қазақстан Халық Банкі» АҚ ЕБ)"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_79
+msgid "JSC 'KASPI BANK'"
+msgstr "«KASPI BANK» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_80
+msgid "JSC 'Citibank Kazakhstan'"
+msgstr "«Ситибанк Қазақстан» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_81
+msgid "JSC 'Danabank'"
+msgstr "«Данабанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_82
+msgid "BankPozitiv Kazakhstan JSC (SB Bank Apoa"
+msgstr "«BankPozitiv Kazakhstan» АҚ (Банк Апоа ЕБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_83
+msgid "Deutschebank AG"
+msgstr "Deutschebank AG"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_84
+msgid "JSC 'Eurasian Development Bank'"
+msgstr "«Еуразиялық даму банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_85
+msgid "JSC 'Eurasian Bank'"
+msgstr "«Еуразиялық банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_86
+msgid "EXIMBANK KAZAKHSTAN JSC"
+msgstr "«ЭКСИМБАНК ҚАЗАҚСТАН» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_87
+msgid "RGKP State center for the payment of"
+msgstr "РГКП мемлекеттік төлем орталығы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_88
+msgid "RGKP State Center for the Payment of Pensions"
+msgstr "РГКП Зейнетақы төлеу жөніндегі мемлекеттік орталығы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_89
+msgid "JSC 'House Construction Savings Bank of Kazakhstan'"
+msgstr "«Қазақстанның тұрғын үй құрылыс жинақ банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_90
+msgid "JSC 'Islamic Bank 'Al Hilal'"
+msgstr "«Әл Хилал» Ислам банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_91
+msgid "SB JSC 'HSBC BANK KAZAKHSTAN'"
+msgstr "«HSBC BANK KAZAKHSTAN» АҚ ЕБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_92
+msgid "NAO State Corporation 'Government for Citizens'"
+msgstr "«Азаматтарға арналған үкімет» мемлекеттік корпорациясы"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_93
+msgid "JSC Halyk Bank of Kazakhstan"
+msgstr "«Қазақстан Халық Банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_94
+msgid "JSC Halyk Bank of Kazakhstan"
+msgstr "«Қазақстан Халық Банкі» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_95
+msgid "SB JSC Home Credit and Finance Bank"
+msgstr "«Хоум Кредит және Қаржы Банкі» АҚ ЕБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_96
+msgid "JSC 'ForteBank'"
+msgstr "«ForteBank» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_97
+msgid "JSC 'ForteBank'"
+msgstr "«ForteBank» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_98
+msgid "TO JSC 'BTA BANK' - JSC 'TEMIRBANK'"
+msgstr "«БТА БАНК» АҚ - «ТЕМІРБАНК» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_99
+msgid "JSC 'Kazinvestbank'"
+msgstr "«Қазинвестбанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_100
+msgid "Bank CenterCredit JSC"
+msgstr "«Банк ЦентрКредит» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_101
+msgid "JSC Bank 'Bank RBK'"
+msgstr "Банк «Bank RBK» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_102
+msgid "JSC KAZINCOMBANK"
+msgstr "«KAZINCOMBANK» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_103
+msgid "State Institution 'Committee of the Treasury of the Ministry of Financial"
+msgstr "«Қаржы министрлігінің Қазынашылық комитеті» мемлекеттік мекемесі"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_104
+msgid "JSC 'KAZPOCHTA'"
+msgstr "«ҚАЗПОЧТА» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_105
+msgid "JSC 'Bank Kassa Nova'"
+msgstr "«Банк Касса Нова» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_106
+msgid "JSC BANK 'Freedom Finance'"
+msgstr "«Фридом Финанс» БАНК АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_107
+msgid "JSC 'SB 'KAZAKHSTAN-ZIRAAT INTERNATIONAL BANK'"
+msgstr "«ҚАЗАҚСТАН-ЗИРААТ ХАЛЫҚАРАЛЫҚ БАНК» ЕБ» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_108
+msgid "JSC 'KAZKOMMERTSBANK'"
+msgstr "«ҚАЗКОММЕРЦБАНК» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_109
+msgid "JSC 'AsiaCredit Bank (AsiaCredit Bank)'"
+msgstr "«AsiaCredit Bank (AsiaCredit Bank)» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_110
+msgid "JSC 'METROCOMBANK'"
+msgstr "«МЕТРОКОМБАНК» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_111
+msgid "HSBC BANK PLC 60 QUEEN STREET LONDON EC4N 4TR"
+msgstr "HSBC BANK PLC 60 QUEEN STREET LONDON EC4N 4TR"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_112
+msgid "GU National Bank of the Republic of Kazakhstan"
+msgstr "ГУ Қазақстан Республикасының Ұлттық Банкі"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_113
+msgid "JSC 'Delta Bank'"
+msgstr "«Дельта Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_114
+msgid "JSC 'Nurbank'"
+msgstr "«Нұрбанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_115
+msgid "JSC CB PRIVATBANK (RASCHETNY CENTR (BRANCH NO 2))"
+msgstr "«ПРИВАТБАНК ОК» АҚ (РАЩЕТНЫЙ ОРТАЛЫҚ (ФИЛИАЛ № 2))"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_116
+msgid "SB JSC Sberbank"
+msgstr "«Сбербанк» АҚ ЕБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_117
+msgid "SB JSC 'Sberbank'"
+msgstr "«Сбербанк» АҚ ЕБ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_118
+msgid "Qazaq Bank LLP"
+msgstr "«Qazaq Bank» ЖШС"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_119
+msgid "JSC 'Senim-Bank'"
+msgstr "«Сенім-Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_120
+msgid "Qazag Banki JSC"
+msgstr "«Qazag Banki» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_121
+msgid "JSC 'Capital Bank Kazakhstan'"
+msgstr "«Капитал Банк Қазақстан» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_122
+msgid "TURKIYE GARANTI BANKASI A.S."
+msgstr "TURKIYE GARANTI BANKASI A.S."
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_123
+msgid "JUSAN BANK JSC"
+msgstr "«ЖУСАН БАНК» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_124
+msgid "JSC 'Tsesnabank'"
+msgstr "«Цеснабанк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_125
+msgid "JSC 'First Heartland Jysan Bank'"
+msgstr "«Бірінші Heartland Jysan Bank» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:res.bank,name:hr_employee_extended_profile.res_bank_126
+msgid "Subsidiary JSC 'Bank VTB' (Kazakhstan)"
+msgstr "«Банк ВТБ» АҚ еншілес ұйымы (Қазақстан)"
+
+#. module: hr_employee_extended_profile
+#: model:res.bankres_bank_,name:hr_employee_extended_profile.res_bank_127
+msgid "JSC 'Zaman-Bank'"
+msgstr "«Заман-Банк» АҚ"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__baku
+msgid "Baku"
+msgstr "Баку"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__lucknow
+msgid "Lucknow"
+msgstr "Лакхнау"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__jaipur
+msgid "Jaipur"
+msgstr "Джайпур"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__mumbai
+msgid "Mumbai"
+msgstr "Мумбай"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_employee_personal_document__issued_by__delhi
+msgid "Delhi"
+msgstr "Дели"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.uz_state_4
+msgid "Fergana region"
+msgstr "Ферғана облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.uz_state_14
+msgid "Republic of Karakalpakstan"
+msgstr "Қарақалпақстан Республикасы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.ua_state_24
+msgid "Chernivtsi region"
+msgstr "Черновцы облысы"
+
+#. module: hr_employee_extended_profile
+#: model:res.country.state,name:hr_employee_extended_profile.kg_state_8
+msgid "Chuy region"
+msgstr "Шу облысы"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__contract_concluded__2
+msgid "For the duration of certain works"
+msgstr "Белгілі бір тапсырмаларды орындау мерзіміне"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__contract_concluded__1
+msgid "For the duration of the working permit"
+msgstr "Жұмыс істеуге берілген рұқсат мерзіміне"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields.selection,name:hr_employee_extended_profile.selection__hr_contract__contract_concluded__3
+msgid "It is simply concluded for 1 calendar year"
+msgstr "1 күнтізбелік жылға жасалған"
+
+#. module: hr_employee_extended_profile
+#: model:ir.model.fields,field_description:hr_employee_extended_profile.field_hr_contract__contract_concluded
+msgid "Contract concluded"
+msgstr "Келісім-шарт жасалды"
+
+#. module: hr_employee_extended_profile
+#: model:hr.work.location,name:hr_employee_extended_profile.cm_location
+msgid "Atyrau region, Zhilioisky district, field Tengiz"
+msgstr "Атырау облысы, Жылыой ауданы, Теңіз өрісі"
+
+#. module: hr_employee_extended_profile
+#: model:hr.work.location,name:hr_employee_extended_profile.tt_location
+msgid "Atyrau, street Ushkonyr, building 2"
+msgstr "Атырау облысы, Атырау қаласы, Үшқоныр көшесі, үй 2 - Тесла Тан офисы"
+
+#. module: hr_employee_extended_profile
+#: model:hr.work.location,name:hr_employee_extended_profile.kal_location
+msgid "East-Kazakhstan region, Ayagoz district, field Aktogai, 25 km from station Aktogay"
+msgstr "ШҚО, Аягөз ауданы, Ақтоғай бекетінен 25 шақырымыда орналасқан Ақтоғай кен орны"

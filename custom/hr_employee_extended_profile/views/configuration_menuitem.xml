@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <menuitem
+                id="menu_human_resources_configuration_custom"
+                name="Custom"
+                parent="hr.menu_human_resources_configuration"
+                groups="base.group_no_one"
+                sequence="2"/>
+
+        <menuitem
+                id="menu_payment_type"
+                name="Payment types"
+                parent="menu_human_resources_configuration_custom"
+                groups="hr.group_hr_user"
+                action="payment_type_action"
+                sequence="10"/>
+
+        <menuitem
+                id="menu_hr_nationality"
+                name="Nationalities"
+                parent="menu_human_resources_configuration_custom"
+                groups="hr.group_hr_user"
+                action="hr_employee_nationality_action"
+                sequence="20"/>
+        <menuitem
+                id="menu_res_bank"
+                name="Banks"
+                parent="menu_human_resources_configuration_custom"
+                groups="hr.group_hr_user"
+                action="base.action_res_bank_form"
+                sequence="30"/>
+        <menuitem
+                id="menu_hr_language"
+                name="Languages"
+                parent="menu_human_resources_configuration_custom"
+                groups="hr.group_hr_user"
+                action="hr_language_action"
+                sequence="40"/>
+        <menuitem
+                id="menu_hr_language_level"
+                name="Language levels"
+                parent="menu_human_resources_configuration_custom"
+                groups="hr.group_hr_user"
+                action="hr_language_level_action"
+                sequence="50"/>
+    </data>
+</odoo>

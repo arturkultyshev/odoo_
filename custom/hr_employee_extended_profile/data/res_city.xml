@@ -1,0 +1,1037 @@
+<odoo noupdate="1">
+    <record id="kz_city_1" model="res.city">
+        <field name="name">Semey</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_2" model="res.city">
+        <field name="name">Kurchatov</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_3" model="res.city">
+        <field name="name">Abaysky district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_4" model="res.city">
+        <field name="name">Aksuat district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_5" model="res.city">
+        <field name="name">Ayagoz district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_6" model="res.city">
+        <field name="name">Beskaragai district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_7" model="res.city">
+        <field name="name">Borodulikha district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_8" model="res.city">
+        <field name="name">Zharma district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_9" model="res.city">
+        <field name="name">Kokpektinsky district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_10" model="res.city">
+        <field name="name">Urdzharsky district</field>
+        <field name="state_id" ref="kz_state_1"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_11" model="res.city">
+        <field name="name">Astana</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_12" model="res.city">
+        <field name="name">Kokshetau</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_13" model="res.city">
+        <field name="name">Kosshy</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_14" model="res.city">
+        <field name="name">Stepnogorsk</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_15" model="res.city">
+        <field name="name">Akkol district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_16" model="res.city">
+        <field name="name">Arshaly district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_17" model="res.city">
+        <field name="name">Astrakhan district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_18" model="res.city">
+        <field name="name">Atbasar district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_19" model="res.city">
+        <field name="name">Bulandy district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_20" model="res.city">
+        <field name="name">Yegindykolsky district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_21" model="res.city">
+        <field name="name">Birzhan sal district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_22" model="res.city">
+        <field name="name">Ereymentau district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_23" model="res.city">
+        <field name="name">Esilsky district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_24" model="res.city">
+        <field name="name">Zhaksinsky district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_25" model="res.city">
+        <field name="name">Zharkainsky district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_26" model="res.city">
+        <field name="name">Zerenda district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_27" model="res.city">
+        <field name="name">Korgalzhyn district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_28" model="res.city">
+        <field name="name">Sandyktau district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_29" model="res.city">
+        <field name="name">Tselinograd district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_30" model="res.city">
+        <field name="name">Shortandinsky district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_31" model="res.city">
+        <field name="name">Burabay district</field>
+        <field name="state_id" ref="kz_state_2"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_32" model="res.city">
+        <field name="name">Aktobe</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_33" model="res.city">
+        <field name="name">Alginsky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_34" model="res.city">
+        <field name="name">Aitekebi district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_35" model="res.city">
+        <field name="name">Baiganinsky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_36" model="res.city">
+        <field name="name">Kargaly district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_37" model="res.city">
+        <field name="name">Khobdinsky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_38" model="res.city">
+        <field name="name">Martuk district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_39" model="res.city">
+        <field name="name">Mugalzharsky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_40" model="res.city">
+        <field name="name">Uilsky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_41" model="res.city">
+        <field name="name">Temirsky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_42" model="res.city">
+        <field name="name">Khromtausky district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_43" model="res.city">
+        <field name="name">Shalkar district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_44" model="res.city">
+        <field name="name">Irgiz district</field>
+        <field name="state_id" ref="kz_state_3"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_45" model="res.city">
+        <field name="name">Almaty</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_46" model="res.city">
+        <field name="name">Konaev</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_47" model="res.city">
+        <field name="name">Balkhash district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_48" model="res.city">
+        <field name="name">Enbekshikazakh district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_49" model="res.city">
+        <field name="name">Zhambyl district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_50" model="res.city">
+        <field name="name">Kegen district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_51" model="res.city">
+        <field name="name">Karasai district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_52" model="res.city">
+        <field name="name">Rayymbek district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_53" model="res.city">
+        <field name="name">Talgar district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_54" model="res.city">
+        <field name="name">Uyghur district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_55" model="res.city">
+        <field name="name">Iliysky district</field>
+        <field name="state_id" ref="kz_state_4"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_56" model="res.city">
+        <field name="name">Atyrau</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_57" model="res.city">
+        <field name="name">Zhylyoi district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_58" model="res.city">
+        <field name="name">Indersky district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_59" model="res.city">
+        <field name="name">Isatai district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_60" model="res.city">
+        <field name="name">Kurmangazinsky district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_61" model="res.city">
+        <field name="name">Kzylkoginsky district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_62" model="res.city">
+        <field name="name">Makat district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_63" model="res.city">
+        <field name="name">Makhambet district</field>
+        <field name="state_id" ref="kz_state_5"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_64" model="res.city">
+        <field name="name">Uralsk</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_65" model="res.city">
+        <field name="name">Akzhaik district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_66" model="res.city">
+        <field name="name">Burlinsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_67" model="res.city">
+        <field name="name">Zhangalinsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_68" model="res.city">
+        <field name="name">Zhanibek district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_69" model="res.city">
+        <field name="name">Baiterek district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_70" model="res.city">
+        <field name="name">Kaztalovsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_71" model="res.city">
+        <field name="name">Karatobinsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_72" model="res.city">
+        <field name="name">Bokeyorda district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_73" model="res.city">
+        <field name="name">Syrymsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_74" model="res.city">
+        <field name="name">Taskalinsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_75" model="res.city">
+        <field name="name">Terektinsky district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_76" model="res.city">
+        <field name="name">Chingirlau district</field>
+        <field name="state_id" ref="kz_state_17"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_77" model="res.city">
+        <field name="name">Taraz</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_78" model="res.city">
+        <field name="name">Bayzaksky district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_79" model="res.city">
+        <field name="name">Zhambyl district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_80" model="res.city">
+        <field name="name">Zhualynsky district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_81" model="res.city">
+        <field name="name">Korday district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_82" model="res.city">
+        <field name="name">Turara Ryskulov district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_83" model="res.city">
+        <field name="name">Merken district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_84" model="res.city">
+        <field name="name">Moyinkumsky district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_85" model="res.city">
+        <field name="name">Sarysu district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_86" model="res.city">
+        <field name="name">Talas district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_87" model="res.city">
+        <field name="name">Shu district</field>
+        <field name="state_id" ref="kz_state_7"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_88" model="res.city">
+        <field name="name">Taldykorgan</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_89" model="res.city">
+        <field name="name">Tekeli</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_90" model="res.city">
+        <field name="name">Aksu district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_91" model="res.city">
+        <field name="name">Alakol district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_92" model="res.city">
+        <field name="name">Eskeldinsky district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_93" model="res.city">
+        <field name="name">Kerbulak district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_94" model="res.city">
+        <field name="name">Koksu district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_95" model="res.city">
+        <field name="name">Karatal district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_96" model="res.city">
+        <field name="name">Panfilovsky district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_97" model="res.city">
+        <field name="name">Sarkand district</field>
+        <field name="state_id" ref="kz_state_8"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_98" model="res.city">
+        <field name="name">Karaganda</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_99" model="res.city">
+        <field name="name">Balkhash</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_100" model="res.city">
+        <field name="name">Priozersk</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_101" model="res.city">
+        <field name="name">Saran</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_102" model="res.city">
+        <field name="name">Temirtau</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_103" model="res.city">
+        <field name="name">Shakhtinsk</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_104" model="res.city">
+        <field name="name">Abaysky district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_105" model="res.city">
+        <field name="name">Aktogay district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_106" model="res.city">
+        <field name="name">Bukhar-Zhyrau district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_107" model="res.city">
+        <field name="name">Karkaraly district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_108" model="res.city">
+        <field name="name">Nurinsky district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_109" model="res.city">
+        <field name="name">Osakarovskiy district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_110" model="res.city">
+        <field name="name">Shetsky district</field>
+        <field name="state_id" ref="kz_state_9"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_111" model="res.city">
+        <field name="name">Kostanay</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_112" model="res.city">
+        <field name="name">Arkalyk</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_113" model="res.city">
+        <field name="name">Lisakovsk</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_114" model="res.city">
+        <field name="name">Rudny</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_115" model="res.city">
+        <field name="name">Altynsarinsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_116" model="res.city">
+        <field name="name">Amangeldy district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_117" model="res.city">
+        <field name="name">Auliekolsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_118" model="res.city">
+        <field name="name">Denisovsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_119" model="res.city">
+        <field name="name">Zhangeldy district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_120" model="res.city">
+        <field name="name">Zhitikarinsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_121" model="res.city">
+        <field name="name">Kamystinsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_122" model="res.city">
+        <field name="name">Karabalyk district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_123" model="res.city">
+        <field name="name">Karasu district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_124" model="res.city">
+        <field name="name">Kostanay district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_125" model="res.city">
+        <field name="name">Mendykarinsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_126" model="res.city">
+        <field name="name">Naurzum district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_127" model="res.city">
+        <field name="name">Sarykol district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_128" model="res.city">
+        <field name="name">Beimbet Maylin district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_129" model="res.city">
+        <field name="name">Uzunkol district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_130" model="res.city">
+        <field name="name">Fedorovsky district</field>
+        <field name="state_id" ref="kz_state_10"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_131" model="res.city">
+        <field name="name">Kyzylorda</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_132" model="res.city">
+        <field name="name">Baikonyr</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_133" model="res.city">
+        <field name="name">Aral district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_134" model="res.city">
+        <field name="name">Zhalagashsky district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_135" model="res.city">
+        <field name="name">Zhanakorgan district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_136" model="res.city">
+        <field name="name">Kazalinsky district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_137" model="res.city">
+        <field name="name">Karmakshy district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_138" model="res.city">
+        <field name="name">Syrdarya district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_139" model="res.city">
+        <field name="name">Chiili district</field>
+        <field name="state_id" ref="kz_state_11"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_140" model="res.city">
+        <field name="name">Aktau</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_141" model="res.city">
+        <field name="name">Zhanaozen</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_142" model="res.city">
+        <field name="name">Beyneusky district</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_143" model="res.city">
+        <field name="name">Karakiya district</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_144" model="res.city">
+        <field name="name">Mangystau district</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_145" model="res.city">
+        <field name="name">Munailinsky district</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_146" model="res.city">
+        <field name="name">Tupkaragansky district</field>
+        <field name="state_id" ref="kz_state_12"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_147" model="res.city">
+        <field name="name">Pavlodar</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_148" model="res.city">
+        <field name="name">Aksu</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_149" model="res.city">
+        <field name="name">Ekibastuz</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_150" model="res.city">
+        <field name="name">Aktogay district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_151" model="res.city">
+        <field name="name">Bayanaul district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_152" model="res.city">
+        <field name="name">Zhelezinsky district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_153" model="res.city">
+        <field name="name">Irtyshsky district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_154" model="res.city">
+        <field name="name">Terenköl district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_155" model="res.city">
+        <field name="name">Akkuly district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_156" model="res.city">
+        <field name="name">Maisky district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_157" model="res.city">
+        <field name="name">Pavlodar district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_158" model="res.city">
+        <field name="name">Uspensky district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_159" model="res.city">
+        <field name="name">Shcherbakty district</field>
+        <field name="state_id" ref="kz_state_14"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_160" model="res.city">
+        <field name="name">Petropavlovsk</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_161" model="res.city">
+        <field name="name">Akkayinsky district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_162" model="res.city">
+        <field name="name">Aiyrtau district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_163" model="res.city">
+        <field name="name">Akzhar district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_164" model="res.city">
+        <field name="name">Esilsky district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_165" model="res.city">
+        <field name="name">Zhambyl district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_166" model="res.city">
+        <field name="name">Kyzylzhar district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_167" model="res.city">
+        <field name="name">Mamlyut district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_168" model="res.city">
+        <field name="name">Gabit Musrepov district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_169" model="res.city">
+        <field name="name">Tayynshinsky district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_170" model="res.city">
+        <field name="name">Timiryazevsky district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_171" model="res.city">
+        <field name="name">Shal akyn district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_172" model="res.city">
+        <field name="name">Magzhan Zhumabayev district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_173" model="res.city">
+        <field name="name">Ualikhanovskiy district</field>
+        <field name="state_id" ref="kz_state_13"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_174" model="res.city">
+        <field name="name">Shymkent</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_175" model="res.city">
+        <field name="name">Turkestan</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_176" model="res.city">
+        <field name="name">Arys</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_177" model="res.city">
+        <field name="name">Kentau</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_178" model="res.city">
+        <field name="name">Baidibek district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_179" model="res.city">
+        <field name="name">Zhetisai district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_180" model="res.city">
+        <field name="name">Kelessky district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_181" model="res.city">
+        <field name="name">Kazygurtsky district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_182" model="res.city">
+        <field name="name">Maktaaral district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_183" model="res.city">
+        <field name="name">Ordabasy district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_184" model="res.city">
+        <field name="name">Otrar district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_185" model="res.city">
+        <field name="name">Sairam district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_186" model="res.city">
+        <field name="name">Saryagash district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_187" model="res.city">
+        <field name="name">Sauran district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_188" model="res.city">
+        <field name="name">Suzak district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_189" model="res.city">
+        <field name="name">Tolebi district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_190" model="res.city">
+        <field name="name">Tulkubas district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_191" model="res.city">
+        <field name="name">Shardara district</field>
+        <field name="state_id" ref="kz_state_15"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_192" model="res.city">
+        <field name="name">Zhezkazgan</field>
+        <field name="state_id" ref="kz_state_16"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_193" model="res.city">
+        <field name="name">Karazhal</field>
+        <field name="state_id" ref="kz_state_16"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_194" model="res.city">
+        <field name="name">Satpaev</field>
+        <field name="state_id" ref="kz_state_16"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_195" model="res.city">
+        <field name="name">Zhanaarkinsky district</field>
+        <field name="state_id" ref="kz_state_16"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_196" model="res.city">
+        <field name="name">Ulytausky district</field>
+        <field name="state_id" ref="kz_state_16"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_197" model="res.city">
+        <field name="name">Ust-Kamenogorsk</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_198" model="res.city">
+        <field name="name">Ridder</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_199" model="res.city">
+        <field name="name">Glubokovsky district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_200" model="res.city">
+        <field name="name">Zaysan district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_201" model="res.city">
+        <field name="name">Altai district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_202" model="res.city">
+        <field name="name">Kurchumsky district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_203" model="res.city">
+        <field name="name">Katon-Karagay district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_204" model="res.city">
+        <field name="name">Samar district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_205" model="res.city">
+        <field name="name">Tarbagatai district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_206" model="res.city">
+        <field name="name">Ulansky district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+    <record id="kz_city_207" model="res.city">
+        <field name="name">Shemonaikha district</field>
+        <field name="state_id" ref="kz_state_6"/>
+        <field name="country_id" ref="base.kz"/>
+    </record>
+</odoo>

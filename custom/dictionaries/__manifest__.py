@@ -1,0 +1,20 @@
+{
+    'name': 'Dictionaries',
+    'version': '15.0.1.0.1',
+    'summary': """Manages all the dictionaries""",
+    'description': """This module is used to upload all dictionaries""",
+    'category': "Generic Modules/Human Resources",
+    'author': 'Norsec Tech',
+    'company': 'Norsec Tech',
+    'website': "https://www.norsec.tech",
+    'depends': ['base', 'base_address_city'],
+    'data': [
+        'security/ir.model.access.csv',
+        'data/res.locality.csv',
+        'data/res_university.xml',
+    ],
+    'license': 'AGPL-3',
+    'installable': True,
+    'auto_install': False,
+    'application': False,
+}
